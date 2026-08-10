@@ -38,7 +38,6 @@
 
             '<div class="modal-actions">' +
               '<button type="submit">Open email to send</button>' +
-              '<span style="font-size:0.78rem;color:var(--text-faint)">or <a href="https://github.com/lukasjt/torontomansdictionary/issues/new?title=New+slang+term&body=Term%3A%0ADefinition%3A%0AExample%3A%0ASource%2Fwhere+you%27ve+heard+it%3A" target="_blank" rel="noopener">file it on GitHub</a> instead</span>' +
             '</div>' +
           '</form>' +
           '<pre class="modal-fallback" id="submit-fallback" hidden></pre>' +

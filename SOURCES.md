@@ -57,8 +57,10 @@ original file page.
 ## Extending the dataset
 
 `data/terms.json` is a plain array — add an entry with `term`, `slug`,
-`categories`, `origin`, `definition` and `example` and it shows up on the
-site automatically, no code changes needed. To pull real Urban Dictionary
+`categories`, `origin`, `definition` and `example`, then run
+`python3 scripts/build.py` to regenerate the static term cards in
+`index.html` (the dictionary page is pre-rendered HTML for search engines
+and no-JS visitors, not built client-side — see `README.md`). To pull real Urban Dictionary
 definitions and vote counts programmatically for a seed list of terms (this
 environment's network policy blocks `api.urbandictionary.com`, but most
 local/CI environments won't), the endpoint is:

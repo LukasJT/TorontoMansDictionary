@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lukasjt.github.io/TorontoMansDictionary/sitemap.xml

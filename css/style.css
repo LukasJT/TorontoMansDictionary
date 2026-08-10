@@ -660,10 +660,10 @@ a:hover { text-decoration: underline; }
 }
 
 .about-photo-img {
+  display: block;
+  width: 100%;
   aspect-ratio: 4 / 3;
-  background-image: url("https://commons.wikimedia.org/wiki/Special:FilePath/Kensington_Market_Toronto_August_2017_03.jpg");
-  background-size: cover;
-  background-position: center;
+  object-fit: cover;
 }
 
 .about-photo figcaption {
@@ -673,12 +673,94 @@ a:hover { text-decoration: underline; }
   background: var(--card);
 }
 
+/* ---------- Ad slots ----------
+   Reserved space for a future ad network (AdSense, Ezoic, etc). Empty by
+   design — drop the network's script/ins tag inside the matching #ad-slot-*
+   element when one's wired up. Fixed min-height avoids layout shift (CLS)
+   once real ads load. */
+
+.ad-slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 28px auto;
+  border: 1px dashed var(--card-border);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-faint);
+}
+
+.ad-slot-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.ad-slot-leaderboard {
+  max-width: 728px;
+  min-height: 90px;
+}
+
+.ad-slot-rectangle {
+  max-width: 300px;
+  min-height: 250px;
+}
+
+/* ---------- Learn more (History / FAQ) promo ---------- */
+
+.learn-more-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.learn-more-card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  color: var(--text);
+}
+.learn-more-card:hover {
+  border-color: var(--red);
+  text-decoration: none;
+}
+
+.learn-more-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.15rem;
+}
+
+.learn-more-card p {
+  margin: 0 0 14px;
+  color: var(--text-dim);
+  font-size: 0.92rem;
+}
+
+.learn-more-link {
+  color: var(--gold);
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {
   border-top: 1px solid var(--card-border);
   padding: 30px 0 50px;
 }
+
+.footer-nav {
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 0.88rem;
+}
+
+.footer-nav a { color: var(--text-dim); }
+.footer-nav a:hover { color: var(--text); }
 
 .footer-inner {
   display: flex;
@@ -696,4 +778,5 @@ a:hover { text-decoration: underline; }
   .header-nav a:not(.btn-ghost) { display: none; }
   .about-grid { grid-template-columns: 1fr; }
   .hero { min-height: 92vh; }
+  .learn-more-grid { grid-template-columns: 1fr; }
 }
