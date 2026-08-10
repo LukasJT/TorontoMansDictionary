@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toronto Mans Dictionary — Real Toronto Slang, Defined</title>
+<meta name="description" content="A crowd-culture dictionary of real Toronto and GTA slang — where it comes from, what it means, how to use it.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="#top">
+      <span class="logo-mark">TO</span>
+      <span class="logo-text">Toronto Mans Dictionary</span>
+    </a>
+    <nav class="header-nav">
+      <a href="#browse">Browse</a>
+      <a href="#word-of-the-day">Word of the Day</a>
+      <a href="#about">About</a>
+      <a class="btn-ghost" id="submit-link" href="https://github.com/lukasjt/torontomansdictionary/issues/new?title=New+slang+term&body=Term%3A%0ADefinition%3A%0AExample%3A%0ASource%2Fwhere+you%27ve+heard+it%3A" target="_blank" rel="noopener">Submit a term</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="hero-media" aria-hidden="true"></div>
+  <div class="hero-scrim" aria-hidden="true"></div>
+  <div class="wrap hero-inner">
+    <p class="hero-kicker">The 6ix, defined properly.</p>
+    <h1>Toronto Mans Dictionary</h1>
+    <p class="hero-sub">Real slang from Scarborough to the Six, sourced and defined — not made up in a group chat.</p>
+    <form class="search-form" id="search-form" role="search">
+      <label class="sr-only" for="search-input">Search Toronto slang</label>
+      <input id="search-input" type="text" placeholder="Search a word… try &quot;mans&quot; or &quot;the six&quot;" autocomplete="off">
+      <button type="submit">Search</button>
+    </form>
+    <div class="hero-actions">
+      <button id="random-btn" type="button" class="btn-ghost">🎲 Random word</button>
+      <span class="hero-count" id="hero-count"></span>
+    </div>
+  </div>
+  <p class="hero-credit">CN Tower skyline — Wikimedia Commons, CC BY-SA 4.0 · <a href="SOURCES.md" target="_blank" rel="noopener">full credit</a></p>
+</section>
+
+<main>
+
+  <section class="section" id="word-of-the-day">
+    <div class="wrap">
+      <h2 class="section-title">Word of the Day</h2>
+      <div id="wotd-card" class="wotd-card"></div>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="browse">
+    <div class="wrap">
+      <h2 class="section-title">Browse the dictionary</h2>
+
+      <div class="filter-bar">
+        <div class="chip-row" id="category-chips" role="group" aria-label="Filter by category"></div>
+        <div class="sort-row">
+          <label for="sort-select">Sort</label>
+          <select id="sort-select">
+            <option value="az">A–Z</option>
+            <option value="za">Z–A</option>
+            <option value="shuffle">Shuffle</option>
+          </select>
+        </div>
+      </div>
+
+      <p class="results-meta" id="results-meta" aria-live="polite"></p>
+
+      <div class="term-grid" id="term-grid"></div>
+      <p class="no-results" id="no-results" hidden>No slang matches that search. Try another word, or <a href="#" id="clear-search-link">clear the search</a>.</p>
+    </div>
+  </section>
+
+  <section class="section streetcar-band" aria-hidden="true"></section>
+
+  <section class="section" id="about">
+    <div class="wrap about-grid">
+      <div>
+        <h2 class="section-title">About this dictionary</h2>
+        <p>Toronto slang isn't one thing. It's Jamaican Patois out of Jane and Finch, Somali and Arabic from the city's East African and Middle Eastern communities, hockey-rink trash talk, TTC nicknames, and a bit of Drake — all layered on top of each other by one of the most multicultural cities on earth.</p>
+        <p>This site collects real, researched entries on that vocabulary: where a word likely comes from, what it actually means, and how it's used — not a guess, and not an inside joke invented for this page. Full source list is in <a href="SOURCES.md" target="_blank" rel="noopener">SOURCES.md</a>.</p>
+        <p class="fine-print">Slang moves fast and origins are debated even among linguists — treat this as a living reference, not a courtroom transcript. See something wrong or missing? <a id="submit-link-2" href="https://github.com/lukasjt/torontomansdictionary/issues/new?title=New+slang+term&body=Term%3A%0ADefinition%3A%0AExample%3A%0ASource%2Fwhere+you%27ve+heard+it%3A" target="_blank" rel="noopener">Open an issue</a> and it'll get fixed.</p>
+      </div>
+      <figure class="about-photo">
+        <div class="about-photo-img" aria-hidden="true"></div>
+        <figcaption>Kensington Market, Toronto — Arild Vågen, CC BY-SA 4.0</figcaption>
+      </figure>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>Toronto Mans Dictionary — an independent, fan-made reference. Not affiliated with Urban Dictionary, the City of Toronto, or the TTC.</p>
+    <p><a href="SOURCES.md" target="_blank" rel="noopener">Sources &amp; photo credits</a></p>
+  </div>
+</footer>
+
+<template id="term-card-template">
+  <article class="term-card">
+    <button class="term-card-header" type="button" aria-expanded="false">
+      <h3 class="term-name"></h3>
+      <span class="term-cats"></span>
+      <span class="chevron" aria-hidden="true">›</span>
+    </button>
+    <div class="term-body" hidden>
+      <p class="term-definition"></p>
+      <p class="term-example"></p>
+      <p class="term-origin"></p>
+      <div class="term-votes">
+        <button type="button" class="vote-btn vote-up" data-dir="1" aria-label="Upvote this word">▲ <span class="vote-up-count">0</span></button>
+        <button type="button" class="vote-btn vote-down" data-dir="-1" aria-label="Downvote this word">▼ <span class="vote-down-count">0</span></button>
+        <span class="vote-note">votes stay in your browser only</span>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script src="js/app.js"></script>
+</body>
+</html>
