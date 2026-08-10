@@ -33,15 +33,18 @@ index.html            Dictionary page — term cards are pre-rendered static HTM
 wordle.html            Torontle, the Wordle clone
 history.html            The History of Toronto Slang (long-form article)
 faq.html                Toronto Slang FAQ (FAQPage structured data)
+words/<slug>.html        One standalone static page per term (own title/meta/
+                          JSON-LD, expanded write-up, sources, related words)
 404.html                 Custom not-found page
 css/style.css            Shared design tokens, header/footer, dictionary, ad slots
 css/wordle.css            Torontle-specific styles
-css/article.css           Shared styles for history.html / faq.html
+css/article.css           Shared styles for history.html / faq.html / words/*.html
 js/app.js                 Dictionary search/filter/sort/vote — enhances static HTML, no fetch
 js/wordle.js               Torontle game logic
 js/submit-modal.js         "Submit a term" modal (mailto, no backend)
 data/terms.json             The dictionary itself — one JSON object per term
-scripts/build.py             Regenerates the static term cards in index.html from terms.json
+scripts/build.py             Regenerates index.html's cards, words/*.html and
+                              sitemap.xml from terms.json
 robots.txt / sitemap.xml      Basic technical SEO
 SOURCES.md                    Research sources + photo credits + how to extend
 ```
@@ -67,16 +70,24 @@ SOURCES.md                    Research sources + photo credits + how to extend
     python3 scripts/build.py
     ```
 
-That's it — `index.html`'s term cards are real HTML (not built by JavaScript
-at runtime) so the dictionary is fully readable by search engines and by
-browsers with JavaScript disabled. `js/app.js` only handles search, filtering,
-sorting and voting on top of that existing markup; it doesn't fetch or build
-the cards. `scripts/build.py` is what keeps the static HTML in sync with
-`data/terms.json` — re-run it any time the data changes.
+That's it — `index.html`'s term cards, every `words/<slug>.html` page, and
+`sitemap.xml` are all real static HTML/XML generated from `data/terms.json`,
+not built by JavaScript at runtime — so the dictionary is fully readable by
+search engines and by browsers with JavaScript disabled. `js/app.js` only
+handles search, filtering, sorting and voting on top of that existing markup.
+`scripts/build.py` is what keeps all of it in sync with `data/terms.json` —
+re-run it any time the data changes; it also deletes any `words/*.html` page
+whose term was removed.
 
 If the term is a single clean word (or you add a `puzzleWord` override, see
 existing entries like `"Brodie / Crodie"`), it's automatically eligible to
 show up as a Torontle answer too — no extra step needed there.
+
+Two more optional fields per term: `sourceUrl` + `sourceLabel` link a term's
+`words/<slug>.html` page straight to a specific citation (used for a handful
+of terms with a real, direct single source, e.g. `"mans"` → Derek Denis's
+paper). Leave them off and the page falls back to a generic link to
+`SOURCES.md` and `history.html` — don't invent a citation that isn't real.
 
 ## Notes
 

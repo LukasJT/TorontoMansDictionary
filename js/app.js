@@ -229,12 +229,16 @@
     card.classList.add("term-card-highlight");
   }
 
-  function applyQueryParam() {
+  function applyQueryParam(categories) {
     const params = new URLSearchParams(location.search);
     const q = params.get("q");
     if (q) {
       state.query = q;
       els.searchInput.value = q;
+    }
+    const cat = params.get("cat");
+    if (cat && categories.includes(cat)) {
+      state.category = cat;
     }
   }
 
@@ -248,12 +252,16 @@
       wireVotes(card);
     });
 
+    const categories = uniqueCategories(cards);
     els.heroCount.textContent = `${cards.length} words defined so far`;
-    renderChips(uniqueCategories(cards));
     renderWordOfTheDay();
-    applyQueryParam();
+    applyQueryParam(categories);
+    renderChips(categories);
     render();
     openTermFromHash();
+    if (new URLSearchParams(location.search).get("cat")) {
+      document.getElementById("browse").scrollIntoView();
+    }
 
     els.searchForm.addEventListener("submit", (e) => {
       e.preventDefault();

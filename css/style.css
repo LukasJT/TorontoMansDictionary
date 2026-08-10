@@ -594,6 +594,14 @@ a:hover { text-decoration: underline; }
   gap: 10px;
 }
 
+.word-page-link {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold);
+}
+
 .vote-btn {
   border: 1px solid var(--card-border);
   background: var(--bg);

@@ -5,7 +5,9 @@
     "categories": ["Geography & Identity"],
     "origin": "GTA amalgamation history, popularized by Drake",
     "definition": "Toronto's most famous nickname. Refers to the 1998 amalgamation of six municipalities — old Toronto, North York, Etobicoke, Scarborough, York and East York — into one city, and doubles as a nod to the 416 area code. Toronto rapper Jimmy Prime used it in street culture first; Drake globalized it with his 2015 album 'Views From The 6.'",
-    "example": "\"You coming back to the 6 for the summer?\""
+    "example": "\"You coming back to the 6 for the summer?\"",
+    "sourceUrl": "https://www.theglobeandmail.com/news/toronto/we-the-6-why-the-name-drake-gave-us-is-here-to-stay/article25421112/",
+    "sourceLabel": "The Globe and Mail — \"We The 6: Why the name Drake gave us is here to stay\""
   },
   {
     "term": "T Dot / T.O.",
@@ -37,7 +39,9 @@
     "categories": ["Geography & Identity"],
     "origin": "1890s political insult / meatpacking history",
     "definition": "A 19th-century nickname for Toronto. Originally an insult from smaller Ontario towns annoyed that Toronto politicians \"hogged\" the provincial legislature — later reinforced by the city's massive William Davies meatpacking plant. Toronto eventually owned the name instead of fighting it.",
-    "example": "\"Real ones still call it Hogtown.\""
+    "example": "\"Real ones still call it Hogtown.\"",
+    "sourceUrl": "https://www.blogto.com/city/2013/10/how_toronto_got_the_nickname_hogtown/",
+    "sourceLabel": "BlogTO — \"How Toronto got the nickname Hogtown\""
   },
   {
     "term": "416",
@@ -149,7 +153,9 @@
     "categories": ["People & Respect", "Talk & Fillers"],
     "origin": "Jamaican Patois, via Toronto's Caribbean community",
     "definition": "Used as a stand-in for \"I\" or \"me\" — a self-referential term believed to come from Jamaican Patois as spoken in Toronto's Caribbean communities. The whole \"Toronto mans\" identity is built around this word.",
-    "example": "\"It was freezing out, mans had to grab a jacket.\""
+    "example": "\"It was freezing out, mans had to grab a jacket.\"",
+    "sourceUrl": "https://twpl.library.utoronto.ca/index.php/twpl/article/download/26973/20126/",
+    "sourceLabel": "Derek Denis (University of Toronto) — \"A note on mans in Toronto\""
   },
   {
     "term": "Man Dem",
@@ -279,7 +285,9 @@
     "categories": ["Talk & Fillers"],
     "origin": "Arabic, common via Toronto's Somali and Arab communities",
     "definition": "\"I swear to God\" in Arabic — used constantly across the GTA thanks to the city's large Somali and Arab communities, well beyond just those speaking Arabic at home.",
-    "example": "\"Wallahi I'm not lying, ask anyone who was there.\""
+    "example": "\"Wallahi I'm not lying, ask anyone who was there.\"",
+    "sourceUrl": "https://www.cbc.ca/news/canada/toronto/toronto-slang-1.5320157",
+    "sourceLabel": "CBC Toronto — \"Wallahi, it's not just Toronto slang anymore\""
   },
   {
     "term": "Deadass",
@@ -557,5 +565,38 @@
     "origin": "Caribbean-Canadian food culture",
     "definition": "A Caribbean flatbread wrapped around curried meat, chickpeas or vegetables — a GTA staple order, especially in Scarborough.",
     "example": "\"Say less, we're getting roti after this.\""
+  },
+  {
+    "term": "Cheesed / Cheesing",
+    "slug": "cheesed",
+    "puzzleWord": "CHEESED",
+    "categories": ["Beef & Bad Vibes"],
+    "origin": "GTA slang, exact origin unclear",
+    "definition": "Angry, annoyed, or deeply irritated. To say someone is \"cheesing\" you means they're making you angry — the intensity ranges from mild annoyance said flatly to real anger when it's shouted.",
+    "example": "\"I'm proper cheesed right now, he cancelled last minute again.\""
+  },
+  {
+    "term": "Sauga",
+    "slug": "sauga",
+    "categories": ["Geography & Identity"],
+    "origin": "Shortened form of Mississauga",
+    "definition": "Short for Mississauga, the large GTA city just west of Toronto — a way locals identify with the city without saying the whole name. Sometimes shortened even further to 'Saug.",
+    "example": "\"Nah he's from Sauga, not the city.\""
+  },
+  {
+    "term": "Yeerrrttttt",
+    "slug": "yeerrrttttt",
+    "categories": ["Hype & Approval"],
+    "origin": "GTA hype-culture shout, stylized spelling",
+    "definition": "An elongated, shouted exclamation of hype and excitement — the drawn-out spelling is the point, since it's meant to be yelled, not said flatly. Same energy family as \"yeet\" or \"let's go,\" but its own thing in GTA party and hype culture.",
+    "example": "\"He hit the game-winner and the whole bench just screamed 'yeerrrttttt!'\""
+  },
+  {
+    "term": "Nize",
+    "slug": "nize",
+    "categories": ["Talk & Fillers", "Beef & Bad Vibes"],
+    "origin": "GTA slang, pronounced like \"nice\" with a Z",
+    "definition": "To be quiet or stop talking — an imperative, usually heard as \"nize that\" or \"nize your beaks\" (beaks meaning mouths).",
+    "example": "\"Nize your beaks, the movie's starting.\""
   }
 ]
