@@ -6,7 +6,15 @@ Regenerates everything derived from data/terms.json:
      targeting that word's own long-tail search ("what does X mean toronto
      slang") with a longer write-up, real internal links, and a sources
      section — not just a copy of the dictionary card.
-  3. sitemap.xml, so every generated page is actually indexable.
+  3. One hub page per category under categories/<cat-slug>.html ("Toronto
+     Money Slang", etc.) — targets category-level searches, distinct content
+     from the word pages (curated list + category-specific framing, not a
+     copy of any single definition).
+  4. all-words.html — a flat, crawl-friendly A-Z link list of every word page.
+  5. sitemap.xml, so every generated page is actually indexable.
+
+neighbourhoods.html is real editorial content and is hand-written, not
+generated here — see that file directly to edit it.
 
 Run this after editing data/terms.json:
     python3 scripts/build.py
@@ -20,12 +28,18 @@ ROOT = Path(__file__).resolve().parent.parent
 TERMS_PATH = ROOT / "data" / "terms.json"
 INDEX_PATH = ROOT / "index.html"
 WORDS_DIR = ROOT / "words"
+CATEGORIES_DIR = ROOT / "categories"
+ALL_WORDS_PATH = ROOT / "all-words.html"
 SITEMAP_PATH = ROOT / "sitemap.xml"
+NEIGHBOURHOODS_PATH = ROOT / "neighbourhoods.html"  # hand-written, only read for sitemap check
 
 SITE_URL = "https://lukasjt.github.io/TorontoMansDictionary"
 
 BEGIN_MARK = "<!-- BEGIN GENERATED TERM CARDS (run scripts/build.py after editing data/terms.json) -->"
 END_MARK = "<!-- END GENERATED TERM CARDS -->"
+
+CAT_LINKS_BEGIN = "<!-- BEGIN GENERATED CATEGORY LINKS (run scripts/build.py) -->"
+CAT_LINKS_END = "<!-- END GENERATED CATEGORY LINKS -->"
 
 CATEGORY_BLURB = {
     "Geography & Identity": "Words like this are about place — the specific streets, boundaries and nicknames that tell you exactly which part of the GTA someone means.",
@@ -44,11 +58,26 @@ ORIGIN_MATCHERS = [
     (r"mte|multiethnolect|denis|linguist", "It's part of what linguists formally call Multicultural Toronto English (MTE) — see our <a href=\"../history.html#mte\">MTE research section</a> for the academic side of this."),
     (r"uk|london|mle", "It overlaps with UK street slang — multiethnolects like Toronto's Multicultural Toronto English and London's Multicultural London English share real linguistic DNA. More in our <a href=\"../history.html#mte\">history page</a>."),
     (r"drake|raptors|ovo|drill|hip-hop|rap", "It's tied to Toronto's music and sports culture more than to a specific immigrant-language root — see our <a href=\"../history.html#global\">\"from the block to global\"</a> section for how that side of Toronto slang spread."),
-    (r"highway|expressway|avenue|area code|municipalit|neighbourhood|amalgamation", "It's geography slang — shorthand locals use instead of the official name. More GTA geography terms are in the dictionary's <a href=\"../index.html?cat=Geography+%26+Identity\">Geography &amp; Identity</a> category."),
+    (r"highway|expressway|avenue|area code|municipalit|neighbourhood|amalgamation|scarborough|mississauga", "It's geography slang — shorthand locals use instead of the official name. More GTA geography terms are in the <a href=\"../categories/geography-identity.html\">Geography &amp; Identity category</a>, or see how it maps onto real places in <a href=\"../neighbourhoods.html\">Toronto Slang By Neighbourhood</a>."),
     (r"hockey", "It comes out of Canadian hockey culture rather than the city's immigrant-language history."),
 ]
 
 DEFAULT_ORIGIN_NOTE = "Like a lot of GTA slang, its exact origin is debated even among people who use it every day — see our <a href=\"../history.html\">full history of Toronto slang</a> for the bigger picture on how this vocabulary formed."
+
+CATEGORY_INTRO = {
+    "Geography & Identity": "Toronto slang is obsessed with place — which highway, which area code, which side of Steeles you're on. This is the vocabulary locals use to say exactly where they mean without saying the official name, and it's often the first slang a newcomer to the GTA has to learn just to follow directions.",
+    "Getting Around": "Nobody in Toronto calls the TTC or the highways by their full names. This is the shorthand — nicknames for transit and roads that are so normalized locally that the official names sound formal by comparison.",
+    "People & Respect": "This category is about how people in the GTA talk about each other — friends, crews, strangers — and how they show (or withhold) respect. A lot of it, like \"mans\" and \"bredren,\" traces directly back to Jamaican Patois via Toronto's Caribbean communities.",
+    "Talk & Fillers": "These are the connective words — the tags, interjections and filler phrases that don't carry much meaning on their own but instantly mark how someone from the GTA actually talks, as opposed to how a script might write it.",
+    "Hype & Approval": "When something's genuinely good in Toronto slang, there's a whole vocabulary for saying so — from Patois-rooted words like \"peng\" and \"leng\" to general intensifiers like \"mad\" and \"bare.\"",
+    "Beef & Bad Vibes": "The flip side of hype vocabulary: words for when something is bad, someone's annoying you, or there's tension. Tone does a lot of the work here — the same word said flat versus shouted can mean mild annoyance or real anger.",
+    "Money": "Money slang moves fast through hip-hop and drill culture generally, and Toronto's rap scene has adopted (and sometimes localized) a well-worn set of terms for cash, in amounts small and large.",
+    "Culture & Sports": "Words tied to Toronto's culture at large rather than to a specific immigrant-language root — sports (the Raptors' \"We The North\"), music (Drake's OVO), and food (patty, roti) that have become part of the city's shared identity.",
+}
+
+
+def slugify_category(cat):
+    return re.sub(r"[^a-z0-9]+", "-", cat.lower()).strip("-")
 
 
 def strip_quotes(s):
@@ -125,7 +154,7 @@ def build_word_page(term, all_terms):
     source_label = term.get("sourceLabel")
 
     cat_links = " ".join(
-        f'<a class="chip-static" href="../index.html?cat={html.escape(c, quote=True).replace(" ", "+")}">{esc(c)}</a>'
+        f'<a class="chip-static" href="../categories/{slugify_category(c)}.html">{esc(c)}</a>'
         for c in categories
     )
 
@@ -269,6 +298,8 @@ def build_word_page(term, all_terms):
       <a href="../wordle.html">Torontle</a>
       <a href="../history.html">History</a>
       <a href="../faq.html">FAQ</a>
+      <a href="../all-words.html">All Words</a>
+      <a href="../neighbourhoods.html">Neighbourhoods</a>
     </nav>
     <div class="footer-inner">
       <p>Toronto Mans Dictionary — an independent, fan-made reference. Not affiliated with Urban Dictionary, the City of Toronto, or the TTC.</p>
@@ -284,13 +315,265 @@ def build_word_page(term, all_terms):
     return page
 
 
-def build_sitemap(terms):
+def build_category_page(cat, cat_terms, all_categories):
+    cat_slug = slugify_category(cat)
+    intro = CATEGORY_INTRO.get(cat, "Part of the vocabulary documented in the Toronto Mans Dictionary.")
+    blurb = CATEGORY_BLURB.get(cat, "")
+
+    items = "\n".join(
+        f'          <li><a href="../words/{esc(t["slug"])}.html"><strong>{esc(t["term"])}</strong></a> — {esc(t["definition"])}</li>'
+        for t in cat_terms
+    )
+
+    other_cats = " ".join(
+        f'<a class="chip-static" href="{slugify_category(c)}.html">{esc(c)}</a>'
+        for c in all_categories if c != cat
+    )
+
+    title = f'Toronto {cat} Slang: {len(cat_terms)} Words, Defined | Toronto Mans Dictionary'
+    meta_desc = f'{intro[:230]}'
+    if len(meta_desc) > 250:
+        meta_desc = meta_desc[:247] + "..."
+
+    page = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(meta_desc)}">
+<link rel="canonical" href="{SITE_URL}/categories/{esc(cat_slug)}.html">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#101114">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Toronto Mans Dictionary">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(meta_desc)}">
+<meta property="og:url" content="{SITE_URL}/categories/{esc(cat_slug)}.html">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/article.css">
+
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {json.dumps(f"Toronto {cat} Slang")},
+  "description": {json.dumps(intro)},
+  "url": "{SITE_URL}/categories/{esc(cat_slug)}.html",
+  "isPartOf": "{SITE_URL}/index.html"
+}}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="../index.html">
+      <span class="logo-mark">TO</span>
+      <span class="logo-text">Toronto Mans Dictionary</span>
+    </a>
+    <nav class="header-nav">
+      <a href="../index.html#browse">Browse</a>
+      <a href="../wordle.html">Torontle</a>
+      <a href="../history.html">History</a>
+      <a href="../faq.html">FAQ</a>
+      <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
+    </nav>
+  </div>
+</header>
+
+<main class="article-page">
+  <div class="wrap article-wrap">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="../index.html">Dictionary</a> <span aria-hidden="true">/</span> <span>{esc(cat)}</span>
+    </nav>
+
+    <article>
+      <header class="article-header">
+        <p class="hero-kicker">Category</p>
+        <h1>Toronto {esc(cat)} Slang</h1>
+        <p class="article-dek">{esc(intro)}</p>
+      </header>
+
+      <p>{esc(blurb)}</p>
+
+      <h2>{len(cat_terms)} words in this category</h2>
+      <ul class="related-list">
+{items}
+      </ul>
+
+      <h2>Other categories</h2>
+      <div class="chip-row">{other_cats}</div>
+
+      <div class="article-cta">
+        <a class="btn-ghost" href="../all-words.html">See every word A-Z →</a>
+        <a class="btn-ghost" href="../index.html#browse">Browse the full dictionary →</a>
+      </div>
+    </article>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="ad-slot ad-slot-rectangle" id="ad-slot-category-page" aria-hidden="true">
+      <span class="ad-slot-label">Advertisement</span>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="../index.html">Dictionary</a>
+      <a href="../wordle.html">Torontle</a>
+      <a href="../history.html">History</a>
+      <a href="../faq.html">FAQ</a>
+      <a href="../all-words.html">All Words</a>
+      <a href="../neighbourhoods.html">Neighbourhoods</a>
+    </nav>
+    <div class="footer-inner">
+      <p>Toronto Mans Dictionary — an independent, fan-made reference. Not affiliated with Urban Dictionary, the City of Toronto, or the TTC.</p>
+      <p><a href="../SOURCES.md" target="_blank" rel="noopener">Sources &amp; photo credits</a></p>
+    </div>
+  </div>
+</footer>
+
+<script src="../js/submit-modal.js"></script>
+</body>
+</html>
+'''
+    return page
+
+
+def build_all_words_page(terms):
+    items = "\n".join(
+        f'        <li><a href="words/{esc(t["slug"])}.html">{esc(t["term"])}</a></li>'
+        for t in terms
+    )
+    title = f"All {len(terms)} Toronto Slang Words, A-Z | Toronto Mans Dictionary"
+    meta_desc = f"Every Toronto and GTA slang word in this dictionary, listed A-Z with a direct link to each word's full definition page — {len(terms)} terms and counting."
+
+    page = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(meta_desc)}">
+<link rel="canonical" href="{SITE_URL}/all-words.html">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#101114">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Toronto Mans Dictionary">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(meta_desc)}">
+<meta property="og:url" content="{SITE_URL}/all-words.html">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/article.css">
+
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "All Toronto Slang Words",
+  "url": "{SITE_URL}/all-words.html",
+  "numberOfItems": {len(terms)}
+}}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="index.html">
+      <span class="logo-mark">TO</span>
+      <span class="logo-text">Toronto Mans Dictionary</span>
+    </a>
+    <nav class="header-nav">
+      <a href="index.html#browse">Browse</a>
+      <a href="wordle.html">Torontle</a>
+      <a href="history.html">History</a>
+      <a href="faq.html">FAQ</a>
+      <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
+    </nav>
+  </div>
+</header>
+
+<main class="article-page">
+  <div class="wrap article-wrap">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html">Dictionary</a> <span aria-hidden="true">/</span> <span>All Words</span>
+    </nav>
+
+    <header class="article-header">
+      <p class="hero-kicker">Every entry, one list</p>
+      <h1>All {len(terms)} Words, A-Z</h1>
+      <p class="article-dek">A flat, no-frills list of every word in the Toronto Mans Dictionary. Each one links straight to its own full write-up.</p>
+    </header>
+
+    <ul class="all-words-list">
+{items}
+    </ul>
+
+    <div class="article-cta">
+      <a class="btn-ghost" href="index.html#browse">Browse with search &amp; filters →</a>
+      <a class="btn-ghost" href="neighbourhoods.html">Slang by neighbourhood →</a>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="index.html">Dictionary</a>
+      <a href="wordle.html">Torontle</a>
+      <a href="history.html">History</a>
+      <a href="faq.html">FAQ</a>
+      <a href="all-words.html">All Words</a>
+      <a href="neighbourhoods.html">Neighbourhoods</a>
+    </nav>
+    <div class="footer-inner">
+      <p>Toronto Mans Dictionary — an independent, fan-made reference. Not affiliated with Urban Dictionary, the City of Toronto, or the TTC.</p>
+      <p><a href="SOURCES.md" target="_blank" rel="noopener">Sources &amp; photo credits</a></p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/submit-modal.js"></script>
+</body>
+</html>
+'''
+    return page
+
+
+def build_category_links_block(all_categories):
+    links = "\n".join(
+        f'          <a class="chip-static" href="categories/{slugify_category(c)}.html">{esc(c)}</a>'
+        for c in all_categories
+    )
+    return f'''{CAT_LINKS_BEGIN}
+        <p class="category-links-label">Or jump straight to a category:</p>
+        <div class="chip-row">
+{links}
+        </div>
+        {CAT_LINKS_END}'''
+
+
+def build_sitemap(terms, categories):
     urls = [
         (f"{SITE_URL}/index.html", "weekly", "1.0"),
         (f"{SITE_URL}/wordle.html", "daily", "0.8"),
         (f"{SITE_URL}/history.html", "monthly", "0.7"),
         (f"{SITE_URL}/faq.html", "monthly", "0.7"),
+        (f"{SITE_URL}/all-words.html", "weekly", "0.7"),
     ]
+    if NEIGHBOURHOODS_PATH.exists():
+        urls.append((f"{SITE_URL}/neighbourhoods.html", "monthly", "0.7"))
+    for c in categories:
+        urls.append((f"{SITE_URL}/categories/{slugify_category(c)}.html", "monthly", "0.65"))
     for t in terms:
         urls.append((f"{SITE_URL}/words/{t['slug']}.html", "monthly", "0.6"))
 
@@ -298,7 +581,7 @@ def build_sitemap(terms):
         f"  <url>\n    <loc>{loc}</loc>\n    <changefreq>{freq}</changefreq>\n    <priority>{prio}</priority>\n  </url>"
         for loc, freq, prio in urls
     )
-    return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{entries}\n</urlset>\n'
+    return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{entries}\n</urlset>\n', len(urls)
 
 
 def main():
@@ -315,8 +598,21 @@ def main():
             "Could not find BEGIN/END GENERATED TERM CARDS markers in index.html. "
             "Add them around the #term-grid contents first."
         )
-    INDEX_PATH.write_text(pattern.sub(block, index_html), encoding="utf-8")
+    index_html = pattern.sub(block, index_html)
     print(f"Wrote {len(terms)} term cards into {INDEX_PATH.relative_to(ROOT)}")
+
+    categories = sorted({c for t in terms for c in t.get("categories", [])})
+
+    # 1b. static category-links row in index.html
+    cat_block = build_category_links_block(categories)
+    cat_pattern = re.compile(re.escape(CAT_LINKS_BEGIN) + r".*?" + re.escape(CAT_LINKS_END), re.DOTALL)
+    if not cat_pattern.search(index_html):
+        raise SystemExit(
+            "Could not find BEGIN/END GENERATED CATEGORY LINKS markers in index.html."
+        )
+    index_html = cat_pattern.sub(cat_block, index_html)
+    INDEX_PATH.write_text(index_html, encoding="utf-8")
+    print(f"Wrote {len(categories)} category links into {INDEX_PATH.relative_to(ROOT)}")
 
     # 2. words/<slug>.html
     WORDS_DIR.mkdir(exist_ok=True)
@@ -332,9 +628,29 @@ def main():
         print(f"Removed {len(stale)} stale word page(s): {', '.join(sorted(stale))}")
     print(f"Wrote {len(terms)} word pages into {WORDS_DIR.relative_to(ROOT)}/")
 
-    # 3. sitemap.xml
-    SITEMAP_PATH.write_text(build_sitemap(terms), encoding="utf-8")
-    print(f"Wrote sitemap.xml with {4 + len(terms)} URLs")
+    # 3. categories/<cat-slug>.html
+    CATEGORIES_DIR.mkdir(exist_ok=True)
+    existing_cat_slugs = {p.stem for p in CATEGORIES_DIR.glob("*.html")}
+    current_cat_slugs = {slugify_category(c) for c in categories}
+    for c in categories:
+        cat_terms = [t for t in terms if c in t.get("categories", [])]
+        page = build_category_page(c, cat_terms, categories)
+        (CATEGORIES_DIR / f"{slugify_category(c)}.html").write_text(page, encoding="utf-8")
+    stale_cats = existing_cat_slugs - current_cat_slugs
+    for slug in stale_cats:
+        (CATEGORIES_DIR / f"{slug}.html").unlink()
+    print(f"Wrote {len(categories)} category pages into {CATEGORIES_DIR.relative_to(ROOT)}/")
+
+    # 4. all-words.html
+    ALL_WORDS_PATH.write_text(build_all_words_page(terms), encoding="utf-8")
+    print(f"Wrote {ALL_WORDS_PATH.relative_to(ROOT)}")
+
+    # 5. sitemap.xml
+    sitemap_xml, url_count = build_sitemap(terms, categories)
+    SITEMAP_PATH.write_text(sitemap_xml, encoding="utf-8")
+    print(f"Wrote sitemap.xml with {url_count} URLs")
+    if not NEIGHBOURHOODS_PATH.exists():
+        print("Note: neighbourhoods.html doesn't exist yet — not included in sitemap.xml until it's created.")
 
 
 if __name__ == "__main__":

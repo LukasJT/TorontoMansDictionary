@@ -21,6 +21,56 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/all-words.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/neighbourhoods.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/beef-bad-vibes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/culture-sports.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/geography-identity.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/getting-around.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/hype-approval.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/money.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/people-respect.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://lukasjt.github.io/TorontoMansDictionary/categories/talk-fillers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://lukasjt.github.io/TorontoMansDictionary/words/llow-it.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

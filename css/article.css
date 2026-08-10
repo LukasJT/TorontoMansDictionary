@@ -138,6 +138,34 @@ article em { color: var(--text); }
   font-size: 0.92rem;
 }
 
+/* ---------- All-words A-Z list ---------- */
+
+.all-words-list {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+  columns: 3;
+  column-gap: 24px;
+}
+
+.all-words-list li {
+  break-inside: avoid;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.all-words-list a {
+  color: var(--text);
+}
+.all-words-list a:hover { color: var(--gold); }
+
+@media (max-width: 700px) {
+  .all-words-list { columns: 2; }
+}
+@media (max-width: 460px) {
+  .all-words-list { columns: 1; }
+}
+
 /* ---------- FAQ page ---------- */
 
 .faq-item {
