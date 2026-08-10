@@ -80,6 +80,42 @@ def slugify_category(cat):
     return re.sub(r"[^a-z0-9]+", "-", cat.lower()).strip("-")
 
 
+# Real ad-network banner units (highperformanceformat.com / Adsterra-style
+# "atOptions" banner format — static IAB sizes, no popups/redirects). Only
+# the two sizes used repeatedly across the generated word/category pages
+# live here; the other formats (skyscraper, mobile banner, native banner)
+# are hand-placed once each in the non-generated pages.
+AD_BANNERS = {
+    "rectangle": {"key": "6479608cfcb307756d4ff6a52291ac76", "w": 300, "h": 250},
+    "leaderboard": {"key": "b0d876a5bc546839f85bdbd7b4e4425c", "w": 728, "h": 90},
+}
+
+
+def ad_block(kind):
+    """A labelled ad row: real banner unit in the middle, empty house-ad
+    tiles on either side (filled by js/ads.js when there's room)."""
+    ad = AD_BANNERS[kind]
+    return f'''<div class="ad-block">
+      <p class="ad-caption">Advertisement</p>
+      <div class="ad-row">
+        <div class="house-ad-slot"></div>
+        <div class="ad-unit" data-ad="{kind}" style="width:{ad["w"]}px;height:{ad["h"]}px">
+          <script>
+            atOptions = {{
+              'key' : '{ad["key"]}',
+              'format' : 'iframe',
+              'height' : {ad["h"]},
+              'width' : {ad["w"]},
+              'params' : {{}}
+            }};
+          </script>
+          <script src="https://www.highperformanceformat.com/{ad["key"]}/invoke.js"></script>
+        </div>
+        <div class="house-ad-slot"></div>
+      </div>
+    </div>'''
+
+
 def strip_quotes(s):
     return re.sub(r'^["“]+|["”]+$', "", s.strip())
 
@@ -133,9 +169,20 @@ def build_card(term):
 
 
 def related_terms(term, all_terms, n=4):
-    cats = set(term.get("categories", []))
-    others = [t for t in all_terms if t["slug"] != term["slug"] and cats & set(t.get("categories", []))]
-    return others[:n]
+    # A ring, not a fixed top-N: walk forward through this term's primary
+    # category (alphabetical, wrapping around) so that repeatedly clicking
+    # the first related word actually traverses every term in the category
+    # instead of bouncing between the same handful every time.
+    categories = term.get("categories", [])
+    if not categories:
+        return []
+    primary_cat = categories[0]
+    cat_list = [t for t in all_terms if primary_cat in t.get("categories", [])]
+    if len(cat_list) <= 1:
+        return []
+    idx = next(i for i, t in enumerate(cat_list) if t["slug"] == term["slug"])
+    count = min(n, len(cat_list) - 1)
+    return [cat_list[(idx + 1 + i) % len(cat_list)] for i in range(count)]
 
 
 def build_word_page(term, all_terms):
@@ -268,6 +315,8 @@ def build_word_page(term, all_terms):
         <p class="article-dek">{esc(definition)}</p>
       </header>
 
+      {ad_block("rectangle")}
+
       <h2>How it's used</h2>
       <p>{blurb}</p>
       <p class="term-example word-page-example">“{esc(example)}”</p>
@@ -290,9 +339,7 @@ def build_word_page(term, all_terms):
 
 <footer class="site-footer">
   <div class="wrap">
-    <div class="ad-slot ad-slot-rectangle" id="ad-slot-word-page" aria-hidden="true">
-      <span class="ad-slot-label">Advertisement</span>
-    </div>
+    {ad_block("leaderboard")}
     <nav class="footer-nav" aria-label="Footer">
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
@@ -308,6 +355,7 @@ def build_word_page(term, all_terms):
   </div>
 </footer>
 
+<script src="../js/ads.js"></script>
 <script src="../js/submit-modal.js"></script>
 </body>
 </html>
@@ -401,6 +449,8 @@ def build_category_page(cat, cat_terms, all_categories):
 
       <p>{esc(blurb)}</p>
 
+      {ad_block("rectangle")}
+
       <h2>{len(cat_terms)} words in this category</h2>
       <ul class="related-list">
 {items}
@@ -419,9 +469,6 @@ def build_category_page(cat, cat_terms, all_categories):
 
 <footer class="site-footer">
   <div class="wrap">
-    <div class="ad-slot ad-slot-rectangle" id="ad-slot-category-page" aria-hidden="true">
-      <span class="ad-slot-label">Advertisement</span>
-    </div>
     <nav class="footer-nav" aria-label="Footer">
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
@@ -437,6 +484,7 @@ def build_category_page(cat, cat_terms, all_categories):
   </div>
 </footer>
 
+<script src="../js/ads.js"></script>
 <script src="../js/submit-modal.js"></script>
 </body>
 </html>
@@ -514,6 +562,8 @@ def build_all_words_page(terms):
       <p class="article-dek">A flat, no-frills list of every word in the Toronto Mans Dictionary. Each one links straight to its own full write-up.</p>
     </header>
 
+    {ad_block("leaderboard")}
+
     <ul class="all-words-list">
 {items}
     </ul>
@@ -542,6 +592,7 @@ def build_all_words_page(terms):
   </div>
 </footer>
 
+<script src="js/ads.js"></script>
 <script src="js/submit-modal.js"></script>
 </body>
 </html>
