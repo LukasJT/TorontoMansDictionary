@@ -33,7 +33,7 @@ ALL_WORDS_PATH = ROOT / "all-words.html"
 SITEMAP_PATH = ROOT / "sitemap.xml"
 NEIGHBOURHOODS_PATH = ROOT / "neighbourhoods.html"  # hand-written, only read for sitemap check
 
-SITE_URL = "https://lukasjt.github.io/TorontoMansDictionary"
+SITE_URL = "https://torontomansdictionary.com"
 
 BEGIN_MARK = "<!-- BEGIN GENERATED TERM CARDS (run scripts/build.py after editing data/terms.json) -->"
 END_MARK = "<!-- END GENERATED TERM CARDS -->"
