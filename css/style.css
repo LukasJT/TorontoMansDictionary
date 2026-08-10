@@ -26,6 +26,8 @@
 
 * { box-sizing: border-box; }
 
+[hidden] { display: none !important; }
+
 html { scroll-behavior: smooth; }
 
 body {
@@ -118,17 +120,144 @@ a:hover { text-decoration: underline; }
 .header-nav a:hover { color: var(--text); text-decoration: none; }
 
 .btn-ghost {
+  display: inline-block;
   border: 1px solid var(--card-border);
   padding: 8px 14px;
   border-radius: 999px;
+  background: transparent;
   color: var(--text) !important;
   font-weight: 600;
+  font-family: inherit;
+  font-size: 0.92rem;
+  cursor: pointer;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 .btn-ghost:hover {
   border-color: var(--red);
   background: rgba(224, 38, 63, 0.08);
 }
+
+.header-nav a.active {
+  color: var(--text);
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: var(--gold);
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.link-btn:hover { color: var(--red); }
+
+/* ---------- Submit-a-term modal ---------- */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 9, 11, 0.72);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 100;
+}
+.modal-overlay[hidden] { display: none; }
+
+.modal {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  width: 100%;
+  max-width: 480px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal h2 {
+  margin: 0 0 6px;
+  font-size: 1.3rem;
+}
+
+.modal p.modal-sub {
+  margin: 0 0 20px;
+  color: var(--text-dim);
+  font-size: 0.88rem;
+}
+
+.modal label {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin: 14px 0 6px;
+}
+
+.modal input,
+.modal textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+  background: var(--bg);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.95rem;
+}
+
+.modal textarea { resize: vertical; min-height: 70px; }
+
+.modal-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 22px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.modal-actions button[type="submit"] {
+  background: var(--red);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: inherit;
+}
+.modal-actions button[type="submit"]:hover { background: var(--red-dim); }
+
+.modal-close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  background: none;
+  border: none;
+  color: var(--text-faint);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.modal-close:hover { color: var(--text); }
+
+.modal-inner { position: relative; }
+
+.modal-fallback {
+  margin-top: 16px;
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  white-space: pre-wrap;
+}
+.modal-fallback[hidden] { display: none; }
 
 /* ---------- Hero ---------- */
 
@@ -292,6 +421,31 @@ a:hover { text-decoration: underline; }
 .wotd-card .term-definition,
 .wotd-card .term-example {
   margin: 6px 0;
+}
+
+/* ---------- Wordle promo ---------- */
+
+.wordle-promo-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+  background: linear-gradient(135deg, rgba(224,38,63,0.12), rgba(242,183,5,0.08));
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  padding: 26px 30px;
+}
+
+.wordle-promo-inner p {
+  margin: 6px 0 0;
+  color: var(--text-dim);
+  max-width: 520px;
+}
+
+.wordle-promo-cta {
+  white-space: nowrap;
+  font-size: 1rem;
 }
 
 /* ---------- Filters ---------- */
@@ -463,6 +617,15 @@ a:hover { text-decoration: underline; }
 .no-results {
   color: var(--text-dim);
   padding: 20px 0;
+}
+
+.term-card-highlight {
+  animation: highlight-pulse 1.8s ease;
+}
+
+@keyframes highlight-pulse {
+  0% { box-shadow: 0 0 0 2px var(--red); }
+  100% { box-shadow: 0 0 0 0 transparent; }
 }
 
 /* ---------- Streetcar band ---------- */

@@ -19,8 +19,9 @@
     <nav class="header-nav">
       <a href="#browse">Browse</a>
       <a href="#word-of-the-day">Word of the Day</a>
+      <a href="wordle.html">Torontle</a>
       <a href="#about">About</a>
-      <a class="btn-ghost" id="submit-link" href="https://github.com/lukasjt/torontomansdictionary/issues/new?title=New+slang+term&body=Term%3A%0ADefinition%3A%0AExample%3A%0ASource%2Fwhere+you%27ve+heard+it%3A" target="_blank" rel="noopener">Submit a term</a>
+      <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
     </nav>
   </div>
 </header>
@@ -51,6 +52,16 @@
     <div class="wrap">
       <h2 class="section-title">Word of the Day</h2>
       <div id="wotd-card" class="wotd-card"></div>
+    </div>
+  </section>
+
+  <section class="section wordle-promo">
+    <div class="wrap wordle-promo-inner">
+      <div>
+        <h2 class="section-title">Play Torontle</h2>
+        <p>Wordle, but every answer is real Toronto slang. One puzzle a day, six-ish tries, on-screen keyboard, the works.</p>
+      </div>
+      <a class="btn-ghost wordle-promo-cta" href="wordle.html">Play today's word →</a>
     </div>
   </section>
 
@@ -85,7 +96,7 @@
         <h2 class="section-title">About this dictionary</h2>
         <p>Toronto slang isn't one thing. It's Jamaican Patois out of Jane and Finch, Somali and Arabic from the city's East African and Middle Eastern communities, hockey-rink trash talk, TTC nicknames, and a bit of Drake — all layered on top of each other by one of the most multicultural cities on earth.</p>
         <p>This site collects real, researched entries on that vocabulary: where a word likely comes from, what it actually means, and how it's used — not a guess, and not an inside joke invented for this page. Full source list is in <a href="SOURCES.md" target="_blank" rel="noopener">SOURCES.md</a>.</p>
-        <p class="fine-print">Slang moves fast and origins are debated even among linguists — treat this as a living reference, not a courtroom transcript. See something wrong or missing? <a id="submit-link-2" href="https://github.com/lukasjt/torontomansdictionary/issues/new?title=New+slang+term&body=Term%3A%0ADefinition%3A%0AExample%3A%0ASource%2Fwhere+you%27ve+heard+it%3A" target="_blank" rel="noopener">Open an issue</a> and it'll get fixed.</p>
+        <p class="fine-print">Slang moves fast and origins are debated even among linguists — treat this as a living reference, not a courtroom transcript. See something wrong or missing? <button type="button" class="link-btn" data-open-submit-modal>Submit a term</button> and it'll get fixed.</p>
       </div>
       <figure class="about-photo">
         <div class="about-photo-img" aria-hidden="true"></div>
@@ -124,5 +135,6 @@
 </template>
 
 <script src="js/app.js"></script>
+<script src="js/submit-modal.js"></script>
 </body>
 </html>

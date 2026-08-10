@@ -170,6 +170,7 @@
   {
     "term": "Brodie / Crodie",
     "slug": "brodie",
+    "puzzleWord": "BRODIE",
     "categories": ["People & Respect"],
     "origin": "Popularized in Toronto rap",
     "definition": "Brother, friend, day-one. Popularized by Toronto rap and now used well outside music circles.",
@@ -186,6 +187,7 @@
   {
     "term": "Wasteman / Waste Yute",
     "slug": "wasteman",
+    "puzzleWord": "WASTEMAN",
     "categories": ["People & Respect", "Beef & Bad Vibes"],
     "origin": "Jamaican Patois-rooted, widespread in Toronto",
     "definition": "Someone lazy, unmotivated or generally useless — a \"waste yute\" is the younger version of the same insult.",
@@ -290,6 +292,7 @@
   {
     "term": "Chirping / Chirp",
     "slug": "chirping",
+    "puzzleWord": "CHIRP",
     "categories": ["Talk & Fillers", "Beef & Bad Vibes"],
     "origin": "Canadian hockey/sports culture",
     "definition": "Trash talk — an insult or dig thrown at someone, especially rooted in Canadian hockey culture where players \"chirp\" opponents. In everyday Toronto speech it just means friendly (or not-so-friendly) roasting.",
@@ -354,6 +357,7 @@
   {
     "term": "Gwap / Gwop",
     "slug": "gwap",
+    "puzzleWord": "GWAP",
     "categories": ["Money"],
     "origin": "African American Vernacular English, used in GTA rap slang",
     "definition": "Money.",
@@ -398,5 +402,160 @@
     "origin": "Drake's Toronto-founded label and brand",
     "definition": "\"October's Very Own\" — Drake's Toronto-based record label and clothing brand, named for his October birthday. Shorthand for the whole OVO/Drake cultural footprint on the city.",
     "example": "\"He's got the OVO owl on his jacket.\""
+  },
+  {
+    "term": "Rexdale",
+    "slug": "rexdale",
+    "categories": ["Geography & Identity"],
+    "origin": "Etobicoke neighbourhood",
+    "definition": "A neighbourhood in Etobicoke, in Toronto's northwest — alongside Scarborough and Jane-Finch, one of the inner-suburb communities most credited with shaping Toronto's street vocabulary and hip-hop scene.",
+    "example": "\"He's from Rexdale, grew up around Dixon.\""
+  },
+  {
+    "term": "Malvern",
+    "slug": "malvern",
+    "categories": ["Geography & Identity"],
+    "origin": "Scarborough neighbourhood",
+    "definition": "A neighbourhood in Scarborough with a strong cultural identity in Toronto rap and street life — often name-checked the way other cities name-check specific blocks.",
+    "example": "\"That's a Malvern thing, you wouldn't get it.\""
+  },
+  {
+    "term": "Roadman",
+    "slug": "roadman",
+    "categories": ["People & Respect"],
+    "origin": "UK street slang, widely adopted across the GTA",
+    "definition": "Someone street-smart, always out and about, who knows how things really work on the ground — not a compliment or an insult on its own, just a description.",
+    "example": "\"He's a real roadman, knows everyone downtown.\""
+  },
+  {
+    "term": "Youts",
+    "slug": "youts",
+    "categories": ["People & Respect"],
+    "origin": "Jamaican Patois pronunciation of \"youths\"",
+    "definition": "Young people, or your friends/crew — a Patois-rooted pronunciation of \"youths\" that stuck as its own word.",
+    "example": "\"Me and the youts are pulling up later.\""
+  },
+  {
+    "term": "Blessed",
+    "slug": "blessed",
+    "categories": ["Hype & Approval", "People & Respect"],
+    "origin": "General affirmation, common across the GTA",
+    "definition": "A catch-all positive response — used as a greeting, a farewell, or a reaction to good news. When plans are locked in, they're \"blessed.\"",
+    "example": "\"See you Friday then — blessed.\""
+  },
+  {
+    "term": "Maaarved",
+    "slug": "maaarved",
+    "categories": ["Hype & Approval"],
+    "origin": "GTA street slang, stylized spelling of \"starved\"",
+    "definition": "Extremely hungry — the drawn-out spelling is part of the word.",
+    "example": "\"I'm maaarved, let's reach Markham station and grab something.\""
+  },
+  {
+    "term": "Drip",
+    "slug": "drip",
+    "categories": ["Hype & Approval"],
+    "origin": "Hip-hop/streetwear slang, widely used in the GTA",
+    "definition": "A person's style, fashion sense and overall presentation — having \"drip\" means dressing with consistent, impressive style.",
+    "example": "\"New chain, new kicks — the drip is unmatched today.\""
+  },
+  {
+    "term": "Fit",
+    "slug": "fit",
+    "categories": ["Hype & Approval"],
+    "origin": "Short for \"outfit,\" widely used in the GTA",
+    "definition": "Short for \"outfit\" — everything you're wearing, as a whole look.",
+    "example": "\"Where'd you get that fit from, it's clean.\""
+  },
+  {
+    "term": "Clean",
+    "slug": "clean",
+    "categories": ["Hype & Approval"],
+    "origin": "General hip-hop slang, everyday GTA usage",
+    "definition": "Sharp, stylish, well put-together — used for outfits, cars, sneakers, basically anything that looks good.",
+    "example": "\"That whip is clean.\""
+  },
+  {
+    "term": "Ting",
+    "slug": "ting",
+    "categories": ["People & Respect", "Talk & Fillers"],
+    "origin": "Jamaican Patois for \"thing\"",
+    "definition": "Literally \"thing\" in Patois, but used constantly for a romantic interest (\"my ting\") or just to refer to an unspecified person, object or situation.",
+    "example": "\"Is that your new ting I saw you with?\""
+  },
+  {
+    "term": "Weak",
+    "slug": "weak",
+    "categories": ["Beef & Bad Vibes"],
+    "origin": "6ix-specific usage, per local slang guides",
+    "definition": "Lame, disappointing, not up to standard — a step below \"peak\" but the same general idea.",
+    "example": "\"They ran out of patties already? That's weak.\""
+  },
+  {
+    "term": "Dry",
+    "slug": "dry",
+    "categories": ["Beef & Bad Vibes", "Talk & Fillers"],
+    "origin": "GTA street slang",
+    "definition": "Blunt, unenthusiastic or straight-up boring — describing a person's response or a whole situation with no energy to it.",
+    "example": "\"He gave a dry reply, didn't even ask how I was.\""
+  },
+  {
+    "term": "Mix Up",
+    "slug": "mix-up",
+    "puzzleWord": "MIXUP",
+    "categories": ["Beef & Bad Vibes"],
+    "origin": "GTA street slang",
+    "definition": "Being wishy-washy, flaky or sus (suspicious) — someone who can't be trusted to be straight with you.",
+    "example": "\"Don't trust him, he's mad mix up.\""
+  },
+  {
+    "term": "Flex",
+    "slug": "flex",
+    "categories": ["Hype & Approval", "Culture & Sports"],
+    "origin": "General hip-hop slang, everyday GTA usage",
+    "definition": "As a verb, to show off or stunt. Tacked onto a noun, it can also mean you're about to go do something (\"gym flex\" = heading to the gym).",
+    "example": "\"He's flexing that new watch on every story.\""
+  },
+  {
+    "term": "Hooooly",
+    "slug": "hooooly",
+    "categories": ["Talk & Fillers"],
+    "origin": "6ix-specific exclamation, per local slang guides",
+    "definition": "A drawn-out exclamation for when something needs a reaction — shock, disbelief, or someone getting on your nerves.",
+    "example": "\"Hooooly, did you see that?\""
+  },
+  {
+    "term": "'Llow It",
+    "slug": "llow-it",
+    "puzzleWord": "ALLOW",
+    "categories": ["Talk & Fillers"],
+    "origin": "6ix shorthand for \"allow it\"",
+    "definition": "Short for \"allow it\" — let it go, don't worry about it, drop the subject.",
+    "example": "\"'Llow it, it's not even that deep.\""
+  },
+  {
+    "term": "No Cap",
+    "slug": "no-cap",
+    "puzzleWord": "NOCAP",
+    "categories": ["Talk & Fillers"],
+    "origin": "AAVE, widely used across the GTA",
+    "definition": "\"No lie\" — \"cap\" means a lie, so \"no cap\" means you're telling the truth.",
+    "example": "\"That was the best show I've been to, no cap.\""
+  },
+  {
+    "term": "Patty",
+    "slug": "patty",
+    "categories": ["Culture & Sports"],
+    "origin": "Jamaican-Canadian food culture",
+    "definition": "The Jamaican beef (or chicken, or veggie) patty — a flaky, curry-coloured pastry sold at corner stores and bakeries across the city. Not slang exactly, but non-negotiable Toronto cultural vocabulary.",
+    "example": "\"Grab me a patty and a coco bread on your way.\""
+  },
+  {
+    "term": "Roti",
+    "slug": "roti",
+    "categories": ["Culture & Sports"],
+    "origin": "Caribbean-Canadian food culture",
+    "definition": "A Caribbean flatbread wrapped around curried meat, chickpeas or vegetables — a GTA staple order, especially in Scarborough.",
+    "example": "\"Say less, we're getting roti after this.\""
   }
 ]

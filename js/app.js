@@ -137,6 +137,7 @@
     const header = node.querySelector(".term-card-header");
     const body = node.querySelector(".term-body");
 
+    node.dataset.slug = term.slug;
     node.querySelector(".term-name").textContent = term.term;
     node.querySelector(".term-cats").textContent = (term.categories || [])[0] || "";
     node.querySelector(".term-definition").textContent = term.definition;
@@ -220,6 +221,19 @@
     els.wotdCard.append(h3, def, ex, origin);
   }
 
+  function openTermFromHash() {
+    const slug = location.hash.replace(/^#/, "");
+    if (!slug) return;
+    const card = els.grid.querySelector('[data-slug="' + CSS.escape(slug) + '"]');
+    if (!card) return;
+    const header = card.querySelector(".term-card-header");
+    const body = card.querySelector(".term-body");
+    header.setAttribute("aria-expanded", "true");
+    body.hidden = false;
+    card.scrollIntoView({ behavior: "smooth", block: "center" });
+    card.classList.add("term-card-highlight");
+  }
+
   function init() {
     fetchTerms()
       .then((terms) => {
@@ -228,6 +242,7 @@
         renderChips(uniqueCategories(terms));
         renderWordOfTheDay();
         render();
+        openTermFromHash();
       })
       .catch((err) => {
         els.grid.innerHTML = "";
