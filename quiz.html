@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toronto Slang Quiz: Test How Well You Know the 6ix</title>
+<meta name="description" content="A 10-question multiple-choice quiz built from real Toronto slang definitions. Do you actually know what mans, bare, peak and wallahi mean, or just recognize them?">
+<meta name="keywords" content="Toronto slang quiz, GTA slang test, 6ix slang quiz, how well do you know Toronto slang, Toronto slang trivia">
+<link rel="canonical" href="https://torontomansdictionary.com/quiz.html">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#101114">
+<link rel="preconnect" href="https://www.highperformanceformat.com">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Toronto Mans Dictionary">
+<meta property="og:title" content="Toronto Slang Quiz: Test How Well You Know the 6ix">
+<meta property="og:description" content="A 10-question multiple-choice quiz built from real Toronto slang definitions.">
+<meta property="og:url" content="https://torontomansdictionary.com/quiz.html">
+<meta property="og:image" content="https://commons.wikimedia.org/wiki/Special:FilePath/Toronto-CN-tower-and-Canadian-flag-skyline.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Toronto Slang Quiz">
+<meta name="twitter:description" content="Do you actually know what mans, bare and wallahi mean, or just recognize them? Find out.">
+<meta name="twitter:image" content="https://commons.wikimedia.org/wiki/Special:FilePath/Toronto-CN-tower-and-Canadian-flag-skyline.jpg">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/article.css">
+<link rel="stylesheet" href="css/quiz.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Dictionary", "item": "https://torontomansdictionary.com/index.html" },
+    { "@type": "ListItem", "position": 2, "name": "Quiz", "item": "https://torontomansdictionary.com/quiz.html" }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Toronto Slang Quiz",
+  "description": "A 10-question multiple-choice quiz built from real Toronto slang definitions.",
+  "url": "https://torontomansdictionary.com/quiz.html",
+  "isPartOf": "https://torontomansdictionary.com/index.html"
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="index.html">
+      <span class="logo-mark">TO</span>
+      <span class="logo-text">Toronto Mans Dictionary</span>
+    </a>
+    <nav class="header-nav">
+      <a href="index.html#browse">Browse</a>
+      <a href="wordle.html">Torontle</a>
+      <a href="quiz.html" class="active">Quiz</a>
+      <a href="history.html">History</a>
+      <a href="faq.html">FAQ</a>
+      <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
+    </nav>
+  </div>
+</header>
+
+<main class="article-page">
+  <div class="wrap article-wrap">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="index.html">Dictionary</a> <span aria-hidden="true">/</span> <span>Quiz</span>
+    </nav>
+
+    <header class="article-header">
+      <p class="hero-kicker">10 questions, real definitions</p>
+      <h1>Toronto Slang Quiz</h1>
+      <p class="article-dek">Multiple choice, pulled straight from this site's own dictionary. No trick questions — just whether you actually know what these words mean.</p>
+    </header>
+
+    <div class="ad-block">
+      <p class="ad-caption">Advertisement</p>
+      <div class="ad-row">
+        <div class="house-ad-slot"></div>
+        <div class="ad-unit" data-ad="rectangle" style="width:300px;height:250px">
+          <script>
+            atOptions = {
+              'key' : '6479608cfcb307756d4ff6a52291ac76',
+              'format' : 'iframe',
+              'height' : 250,
+              'width' : 300,
+              'params' : {}
+            };
+          </script>
+          <script src="https://www.highperformanceformat.com/6479608cfcb307756d4ff6a52291ac76/invoke.js"></script>
+        </div>
+        <div class="house-ad-slot"></div>
+      </div>
+    </div>
+
+    <div id="quiz-app">
+      <div id="quiz-start" class="quiz-panel">
+        <p>Ten random terms, four choices each, no repeats until you've seen them all at least once. Your score doesn't get saved anywhere — it's just for you.</p>
+        <button type="button" id="quiz-start-btn" class="btn-ghost quiz-start-btn" disabled>Loading…</button>
+      </div>
+
+      <div id="quiz-play" class="quiz-panel" hidden>
+        <p class="quiz-progress" id="quiz-progress" aria-live="polite"></p>
+        <h2 class="quiz-question" id="quiz-question"></h2>
+        <div class="quiz-options" id="quiz-options" role="group"></div>
+      </div>
+
+      <div id="quiz-result" class="quiz-panel" hidden>
+        <h2 id="quiz-result-title"></h2>
+        <p id="quiz-result-sub"></p>
+        <div class="quiz-result-actions">
+          <button type="button" id="quiz-again-btn" class="btn-ghost">🔁 Play again</button>
+          <a class="btn-ghost" href="wordle.html">Try Torontle →</a>
+          <a class="btn-ghost" href="index.html#browse">Browse the dictionary →</a>
+        </div>
+      </div>
+    </div>
+
+    <section class="quiz-sample">
+      <h2>A few sample questions</h2>
+      <p>In case the interactive version above doesn't load for you (or you'd rather just read), here are five real questions from the pool, static, no JavaScript required:</p>
+      <div class="faq-item">
+        <h3>What does "peak" mean in Toronto slang?</h3>
+        <p>Something unfortunate, unfair, or genuinely bad — "that's peak" is roughly equivalent to "that sucks." Full entry: <a href="words/peak.html">Peak</a>.</p>
+      </div>
+      <div class="faq-item">
+        <h3>What does "wallahi" mean?</h3>
+        <p>"I swear to God" in Arabic — used constantly across the GTA thanks to the city's large Somali and Arab communities. Full entry: <a href="words/wallahi.html">Wallahi</a>.</p>
+      </div>
+      <div class="faq-item">
+        <h3>What does "bare" mean in Toronto slang?</h3>
+        <p>"A lot" or "very" — the opposite of its standard English meaning. Full entry: <a href="words/bare.html">Bare</a>.</p>
+      </div>
+      <div class="faq-item">
+        <h3>What does "gwap" mean?</h3>
+        <p>Money. Full entry: <a href="words/gwap.html">Gwap / Gwop</a>.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Why is Toronto called "the six"?</h3>
+        <p>It refers to the 1998 amalgamation of six municipalities into one city, plus a nod to the 416 area code. Full entry: <a href="words/the-six.html">The Six / The 6ix</a>.</p>
+      </div>
+    </section>
+
+    <div class="article-cta">
+      <a class="btn-ghost" href="all-words.html">See every word A-Z →</a>
+      <a class="btn-ghost" href="history.html">Read the history →</a>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="ad-block">
+      <p class="ad-caption">Advertisement</p>
+      <div class="ad-row">
+        <div class="house-ad-slot"></div>
+        <div class="ad-unit" data-ad="leaderboard" style="width:728px;height:90px">
+          <script>
+            atOptions = {
+              'key' : 'b0d876a5bc546839f85bdbd7b4e4425c',
+              'format' : 'iframe',
+              'height' : 90,
+              'width' : 728,
+              'params' : {}
+            };
+          </script>
+          <script src="https://www.highperformanceformat.com/b0d876a5bc546839f85bdbd7b4e4425c/invoke.js"></script>
+        </div>
+        <div class="house-ad-slot"></div>
+      </div>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="index.html">Dictionary</a>
+      <a href="wordle.html">Torontle</a>
+      <a href="quiz.html">Quiz</a>
+      <a href="history.html">History</a>
+      <a href="faq.html">FAQ</a>
+      <a href="all-words.html">All Words</a>
+      <a href="neighbourhoods.html">Neighbourhoods</a>
+    </nav>
+    <div class="footer-inner">
+      <p>Toronto Mans Dictionary — an independent, fan-made reference. Not affiliated with Urban Dictionary, the City of Toronto, or the TTC.</p>
+      <p><a href="SOURCES.md" target="_blank" rel="noopener">Sources &amp; photo credits</a></p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/quiz.js"></script>
+<script src="js/ads.js"></script>
+<script src="js/submit-modal.js"></script>
+</body>
+</html>

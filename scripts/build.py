@@ -32,6 +32,7 @@ CATEGORIES_DIR = ROOT / "categories"
 ALL_WORDS_PATH = ROOT / "all-words.html"
 SITEMAP_PATH = ROOT / "sitemap.xml"
 NEIGHBOURHOODS_PATH = ROOT / "neighbourhoods.html"  # hand-written, only read for sitemap check
+QUIZ_PATH = ROOT / "quiz.html"  # hand-written, only read for sitemap check
 
 SITE_URL = "https://torontomansdictionary.com"
 
@@ -258,6 +259,7 @@ def build_word_page(term, all_terms):
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/article.css">
+<link rel="preconnect" href="https://www.highperformanceformat.com">
 
 <script type="application/ld+json">
 {{
@@ -267,6 +269,16 @@ def build_word_page(term, all_terms):
   "description": {json.dumps(definition)},
   "inDefinedTermSet": "{SITE_URL}/index.html",
   "url": "{SITE_URL}/words/{esc(slug)}.html"
+}}
+</script>
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{ "@type": "ListItem", "position": 1, "name": "Dictionary", "item": "{SITE_URL}/index.html" }},
+    {{ "@type": "ListItem", "position": 2, "name": {json.dumps(name)}, "item": "{SITE_URL}/words/{esc(slug)}.html" }}
+  ]
 }}
 </script>
 <script type="application/ld+json">
@@ -294,6 +306,7 @@ def build_word_page(term, all_terms):
     <nav class="header-nav">
       <a href="../index.html#browse">Browse</a>
       <a href="../wordle.html">Torontle</a>
+      <a href="../quiz.html">Quiz</a>
       <a href="../history.html">History</a>
       <a href="../faq.html">FAQ</a>
       <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
@@ -343,6 +356,7 @@ def build_word_page(term, all_terms):
     <nav class="footer-nav" aria-label="Footer">
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
+      <a href="../quiz.html">Quiz</a>
       <a href="../history.html">History</a>
       <a href="../faq.html">FAQ</a>
       <a href="../all-words.html">All Words</a>
@@ -403,6 +417,7 @@ def build_category_page(cat, cat_terms, all_categories):
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/article.css">
+<link rel="preconnect" href="https://www.highperformanceformat.com">
 
 <script type="application/ld+json">
 {{
@@ -412,6 +427,16 @@ def build_category_page(cat, cat_terms, all_categories):
   "description": {json.dumps(intro)},
   "url": "{SITE_URL}/categories/{esc(cat_slug)}.html",
   "isPartOf": "{SITE_URL}/index.html"
+}}
+</script>
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{ "@type": "ListItem", "position": 1, "name": "Dictionary", "item": "{SITE_URL}/index.html" }},
+    {{ "@type": "ListItem", "position": 2, "name": {json.dumps(cat)}, "item": "{SITE_URL}/categories/{esc(cat_slug)}.html" }}
+  ]
 }}
 </script>
 </head>
@@ -426,6 +451,7 @@ def build_category_page(cat, cat_terms, all_categories):
     <nav class="header-nav">
       <a href="../index.html#browse">Browse</a>
       <a href="../wordle.html">Torontle</a>
+      <a href="../quiz.html">Quiz</a>
       <a href="../history.html">History</a>
       <a href="../faq.html">FAQ</a>
       <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
@@ -472,6 +498,7 @@ def build_category_page(cat, cat_terms, all_categories):
     <nav class="footer-nav" aria-label="Footer">
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
+      <a href="../quiz.html">Quiz</a>
       <a href="../history.html">History</a>
       <a href="../faq.html">FAQ</a>
       <a href="../all-words.html">All Words</a>
@@ -520,6 +547,7 @@ def build_all_words_page(terms):
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/article.css">
+<link rel="preconnect" href="https://www.highperformanceformat.com">
 
 <script type="application/ld+json">
 {{
@@ -542,6 +570,7 @@ def build_all_words_page(terms):
     <nav class="header-nav">
       <a href="index.html#browse">Browse</a>
       <a href="wordle.html">Torontle</a>
+      <a href="quiz.html">Quiz</a>
       <a href="history.html">History</a>
       <a href="faq.html">FAQ</a>
       <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
@@ -580,6 +609,7 @@ def build_all_words_page(terms):
     <nav class="footer-nav" aria-label="Footer">
       <a href="index.html">Dictionary</a>
       <a href="wordle.html">Torontle</a>
+      <a href="quiz.html">Quiz</a>
       <a href="history.html">History</a>
       <a href="faq.html">FAQ</a>
       <a href="all-words.html">All Words</a>
@@ -623,6 +653,8 @@ def build_sitemap(terms, categories):
     ]
     if NEIGHBOURHOODS_PATH.exists():
         urls.append((f"{SITE_URL}/neighbourhoods.html", "monthly", "0.7"))
+    if QUIZ_PATH.exists():
+        urls.append((f"{SITE_URL}/quiz.html", "monthly", "0.7"))
     for c in categories:
         urls.append((f"{SITE_URL}/categories/{slugify_category(c)}.html", "monthly", "0.65"))
     for t in terms:

@@ -1,0 +1,92 @@
+/* ---------------------------------------------------------
+   Toronto Slang Quiz — extends css/style.css + css/article.css.
+--------------------------------------------------------- */
+
+.quiz-panel {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  margin: 24px 0;
+}
+
+.quiz-panel p {
+  color: var(--text-dim);
+  margin: 0 0 20px;
+}
+
+.quiz-start-btn {
+  font-size: 1rem;
+  padding: 12px 24px;
+}
+
+.quiz-progress {
+  font-size: 0.8rem;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0 0 10px;
+}
+
+.quiz-question {
+  font-size: 1.3rem;
+  margin: 0 0 20px;
+  color: var(--text);
+}
+
+.quiz-options {
+  display: grid;
+  gap: 10px;
+}
+
+.quiz-option {
+  text-align: left;
+  padding: 14px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+  background: var(--bg);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.94rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.quiz-option:hover:not(:disabled) {
+  border-color: var(--gold);
+}
+.quiz-option:disabled { cursor: default; }
+
+.quiz-option-correct {
+  border-color: #2f8a4e;
+  background: rgba(47, 138, 78, 0.15);
+  color: #6fd18e;
+}
+
+.quiz-option-wrong {
+  border-color: var(--red);
+  background: rgba(224, 38, 63, 0.12);
+  color: #ff8f9a;
+}
+
+#quiz-result-title {
+  font-size: 1.8rem;
+  margin: 0 0 8px;
+}
+
+.quiz-result-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.quiz-sample {
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--card-border);
+}
+
+.quiz-sample h2 {
+  font-size: 1.2rem;
+  margin: 0 0 10px;
+}
