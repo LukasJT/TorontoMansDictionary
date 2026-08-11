@@ -36,6 +36,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/airports.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/architecture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -47,6 +52,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/cne.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/comedy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/craft-beer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -72,6 +87,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/food.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/government.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -141,6 +161,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/safety.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/sports.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -162,6 +187,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/weather.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/zoo-science-centre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

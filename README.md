@@ -45,8 +45,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 media, economy, education, nicknames, weather,
                                 architecture, art, waterfront, LGBTQ+ history,
                                 medical history, tech scene, the public library,
-                                housing costs, the CNE, famous Torontonians, plus
-                                a guide/index.html hub
+                                housing costs, the CNE, famous Torontonians,
+                                airports, city government, the comedy scene, the
+                                zoo/science centre, craft beer, and safety/crime
+                                stats, plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
