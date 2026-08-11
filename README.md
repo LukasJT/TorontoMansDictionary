@@ -47,8 +47,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 medical history, tech scene, the public library,
                                 housing costs, the CNE, famous Torontonians,
                                 airports, city government, the comedy scene, the
-                                zoo/science centre, craft beer, and safety/crime
-                                stats, plus a guide/index.html hub
+                                zoo/science centre, craft beer, safety/crime stats,
+                                ethnic enclaves, the ravine system, newspapers,
+                                cycling, religious diversity, and coffee culture,
+                                plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
