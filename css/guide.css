@@ -1,0 +1,70 @@
+/* ---------------------------------------------------------
+   Toronto Guide (guide/*.html) — extends style.css + article.css.
+--------------------------------------------------------- */
+
+.guide-photo {
+  margin: 24px 0;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--card-border);
+}
+
+.guide-photo img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+}
+
+.guide-photo figcaption {
+  padding: 8px 14px;
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  background: var(--card);
+}
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+  margin: 28px 0;
+}
+
+.guide-card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  color: var(--text);
+}
+.guide-card:hover {
+  border-color: var(--red);
+  text-decoration: none;
+}
+
+.guide-card-img {
+  height: 140px;
+  background-size: cover;
+  background-position: center;
+}
+
+.guide-card-body {
+  padding: 16px 18px;
+}
+
+.guide-card-body h2 {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+}
+
+.guide-card-body p {
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 480px) {
+  .guide-grid { grid-template-columns: 1fr; }
+}
