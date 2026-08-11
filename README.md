@@ -43,7 +43,9 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Indigenous history, neighbourhoods, landmarks, food,
                                 sports, festivals, multiculturalism, transit, parks,
                                 media, economy, education, nicknames, weather,
-                                architecture, art, waterfront, LGBTQ+ history, plus
+                                architecture, art, waterfront, LGBTQ+ history,
+                                medical history, tech scene, the public library,
+                                housing costs, the CNE, famous Torontonians, plus
                                 a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
