@@ -40,8 +40,11 @@ words/<slug>.html            One standalone static page per term (own title/meta
                               JSON-LD, expanded write-up, sources, related words)
 categories/<cat>.html         One hub page per slang category
 guide/*.html                   General Toronto content, not slang-specific: history,
-                                neighbourhoods, landmarks, food, sports, festivals,
-                                multiculturalism, plus a guide/index.html hub
+                                Indigenous history, neighbourhoods, landmarks, food,
+                                sports, festivals, multiculturalism, transit, parks,
+                                media, economy, education, nicknames, weather,
+                                architecture, art, waterfront, LGBTQ+ history, plus
+                                a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
