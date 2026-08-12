@@ -49,8 +49,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 airports, city government, the comedy scene, the
                                 zoo/science centre, craft beer, safety/crime stats,
                                 ethnic enclaves, the ravine system, newspapers,
-                                cycling, religious diversity, and coffee culture,
-                                plus a guide/index.html hub
+                                cycling, religious diversity, coffee culture,
+                                Union Station, GO Transit, Ontario Place, historic
+                                extreme weather, the cocktail/distillery scene, and
+                                broadcasting history, plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
