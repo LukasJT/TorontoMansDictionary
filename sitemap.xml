@@ -41,6 +41,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ajax.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/architecture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -57,6 +62,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/broadcasting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/burlington.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -196,6 +206,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/milton.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/mississauga.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -207,6 +222,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/neighbourhoods.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/newmarket.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -237,6 +257,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/parks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/pickering.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -302,6 +327,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/weather.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/whitby.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
