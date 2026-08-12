@@ -76,6 +76,16 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/bathhouse-raids-1981.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/bedford-v-canada.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/bloor-viaduct.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -267,6 +277,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/food.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/g20-toronto-2010.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -586,6 +601,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/siu-ontario.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/speakers-corner.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -656,6 +676,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-police-founding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-star-legacy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -722,6 +747,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/woodbine-racetrack.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/wrongful-convictions-ontario.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
