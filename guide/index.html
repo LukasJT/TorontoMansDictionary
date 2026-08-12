@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 157 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 163 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -611,6 +611,48 @@
         <div class="guide-card-body">
           <h2>The Don River&#x27;s Flood History</h2>
           <p>Our ravines guide covers the Don Valley&#x27;s parkland today. This is about the river&#x27;s darker history: repeated floods, a century-old industrial channel that made them worse, and the $1.4 billion project built to finally fix it.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="tommy-thompson-park.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_from_the_Leslie_Street_Spit.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Tommy Thompson Park</h2>
+          <p>The Leslie Street Spit was never meant to be a nature reserve — it was lakefill for a shipping expansion that container ships made obsolete. Nobody planted what grew there instead, and it&#x27;s now a globally significant bird sanctuary.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="rouge-national-urban-park.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Rouge_National_Urban_Park-_Orchard_and_Vista_Trails-Toronto-Ontario_(1).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Rouge National Urban Park</h2>
+          <p>Canada&#x27;s first National Urban Park pairs protected wilderness with roughly 4,700 acres of active farmland — a deliberately different model from a traditional national park, spanning Toronto, Markham, Pickering and Uxbridge.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="trinity-bellwoods-park.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Trinity_Bellwoods_Gates.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Trinity Bellwoods Park</h2>
+          <p>One of Toronto&#x27;s busiest parks was a rival Anglican college campus for over 70 years. Almost nothing of the original buildings survives above ground today except its 1903 entrance gates.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="beltline-trail.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Beltline_Bridge.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Beltline Trail</h2>
+          <p>A speculative 1890s commuter railway went bankrupt before it even opened and shut down for good less than three years later. Nearly a century after that, its abandoned corridor became one of Toronto&#x27;s best trails.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="riverdale-farm.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/RiverdaleFarm.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Riverdale Farm</h2>
+          <p>Toronto&#x27;s first zoo operated on this site for 80 years, housing elephants and hippos by Victorian standards that would be unthinkable today. When it closed in 1974, the city rebuilt the site as something entirely different: a working farm.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="vale-of-avoca.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Ravine_footbridge_David_A_Balfour_Park.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Vale of Avoca</h2>
+          <p>This midtown ravine carries the only stretch of Yellow Creek that isn&#x27;t buried in storm sewers — and has been crossed by real-estate-driven bridges since 1888, long before it became a protected park.</p>
         </div>
       </a>
       </div>
@@ -1281,7 +1323,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {

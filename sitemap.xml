@@ -91,6 +91,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/beltline-trail.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/bloor-viaduct.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -591,6 +596,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/riverdale-farm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/rogers-centre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -602,6 +612,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/rom.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/rouge-national-urban-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -691,6 +706,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/tommy-thompson-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-arts-high-schools.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -746,6 +766,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/trinity-bellwoods-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ttc-subway-safety.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -757,6 +782,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/union-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/vale-of-avoca.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
