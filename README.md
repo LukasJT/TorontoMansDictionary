@@ -59,7 +59,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Ajax, Whitby, Pickering, Burlington, Milton and
                                 Newmarket, plus St. Lawrence Market, the Bloor
                                 Viaduct, the Toronto Island ferries, performing
-                                arts, the video game industry, and homelessness,
+                                arts, the video game industry, homelessness, the
+                                R.C. Harris Water Treatment Plant, historic
+                                cemeteries, shopping malls, the 2003 SARS
+                                outbreak, OCAD University, and winter festivals,
                                 plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
