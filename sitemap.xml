@@ -701,6 +701,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/6ix-god.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/905.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -736,6 +741,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/bless-up.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/blessed.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -747,6 +757,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/words/brodie.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/buff.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/certi.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -791,6 +811,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/extra.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/fam.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -811,6 +836,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/greasy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/gta.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -821,12 +851,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/gyal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/gyaldem.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/hogtown.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/words/hooooly.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/irie.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -842,6 +887,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/words/link-up.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/long.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -867,6 +917,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/words/mans.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/miskeen.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -981,6 +1036,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/the-beach.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/the-dot.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1021,12 +1081,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/words/up-top.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/words/wagwan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/words/wallahi.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/words/waste-yute.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

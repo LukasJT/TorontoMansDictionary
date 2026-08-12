@@ -2,7 +2,9 @@
   {
     "term": "The Six / The 6ix",
     "slug": "the-six",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "GTA amalgamation history, popularized by Drake",
     "definition": "Toronto's most famous nickname. Refers to the 1998 amalgamation of six municipalities — old Toronto, North York, Etobicoke, Scarborough, York and East York — into one city, and doubles as a nod to the 416 area code. Toronto rapper Jimmy Prime used it in street culture first; Drake globalized it with his 2015 album 'Views From The 6.'",
     "example": "\"You coming back to the 6 for the summer?\"",
@@ -12,7 +14,9 @@
   {
     "term": "T Dot / T.O.",
     "slug": "t-dot",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Older Toronto nickname, predates \"the 6ix\"",
     "definition": "An old-school nickname for Toronto — a play on \"T.O.,\" itself short for Toronto, Ontario. Still used by people who think \"the 6ix\" is played out.",
     "example": "\"Born and raised in T Dot, never leaving.\""
@@ -20,7 +24,9 @@
   {
     "term": "The Dot",
     "slug": "the-dot",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Shortened form of T Dot",
     "definition": "Even shorter version of T Dot. Just \"the Dot.\"",
     "example": "\"He's not from the Dot, he's a 905 kid.\""
@@ -28,7 +34,9 @@
   {
     "term": "Tranna",
     "slug": "tranna",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Local pronunciation quirk",
     "definition": "How \"Toronto\" actually sounds when locals say it fast — the middle \"o\" and \"t\" basically disappear.",
     "example": "\"I'm from Tranna, not TOR-ON-TO.\""
@@ -36,7 +44,9 @@
   {
     "term": "Hogtown",
     "slug": "hogtown",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "1890s political insult / meatpacking history",
     "definition": "A 19th-century nickname for Toronto. Originally an insult from smaller Ontario towns annoyed that Toronto politicians \"hogged\" the provincial legislature — later reinforced by the city's massive William Davies meatpacking plant. Toronto eventually owned the name instead of fighting it.",
     "example": "\"Real ones still call it Hogtown.\"",
@@ -46,7 +56,9 @@
   {
     "term": "416",
     "slug": "416",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Original Toronto area code",
     "definition": "Toronto's original telephone area code, used as shorthand for the old City of Toronto / downtown core — sometimes with an implied \"real Toronto\" vs. the suburbs.",
     "example": "\"He reps 416 hard, won't even come north of Eglinton.\""
@@ -54,7 +66,9 @@
   {
     "term": "905",
     "slug": "905",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Suburban GTA area code",
     "definition": "The area code covering the suburban ring around Toronto — Mississauga, Brampton, Vaughan, Markham, Pickering and more. Used to describe someone from \"outside the city,\" sometimes as light shade.",
     "example": "\"Nah he's 905, he needs GPS to find the subway.\""
@@ -62,7 +76,9 @@
   {
     "term": "GTA",
     "slug": "gta",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Official regional name, used casually",
     "definition": "Greater Toronto Area — Toronto plus the surrounding regions (Peel, York, Durham, Halton). Used constantly in everyday speech, not just on government maps.",
     "example": "\"Biggest show in the GTA this weekend.\""
@@ -70,7 +86,9 @@
   {
     "term": "Scarbs",
     "slug": "scarbs",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Shortened form of Scarborough",
     "definition": "Short for Scarborough, the large district in Toronto's east end known for its own distinct slang and hip-hop scene.",
     "example": "\"He's out in Scarbs, near Kennedy.\""
@@ -78,7 +96,9 @@
   {
     "term": "Jane and Finch",
     "slug": "jane-and-finch",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Neighbourhood, cultural touchstone for GTA slang",
     "definition": "The intersection and surrounding neighbourhood in northwest Toronto, shaped heavily by Jamaican, Somali and other Caribbean/African communities. Along with Scarborough and Rexdale, it's one of the corridors most credited with shaping modern Toronto slang.",
     "example": "\"That word's been around since Jane and Finch, way before it went viral.\""
@@ -86,7 +106,9 @@
   {
     "term": "Down the 401",
     "slug": "the-401",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Highway 401, busiest highway in North America",
     "definition": "Highway 401, the mega-highway cutting through Toronto — famously the busiest stretch of highway in North America. \"Taking the 401\" is a whole personality trait.",
     "example": "\"401's a parking lot right now, take Eglinton instead.\""
@@ -94,7 +116,9 @@
   {
     "term": "The Gardiner",
     "slug": "the-gardiner",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Gardiner Expressway",
     "definition": "The Gardiner Expressway, the elevated highway running along Lake Ontario through downtown. Just \"the Gardiner\" — nobody says the full name.",
     "example": "\"Take the Gardiner, it'll be faster than downtown streets.\""
@@ -102,7 +126,9 @@
   {
     "term": "The DVP",
     "slug": "the-dvp",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Don Valley Parkway",
     "definition": "The Don Valley Parkway, connecting downtown to the 401. Locals affectionately call it the \"Don Valley Parking Lot\" because it's almost always jammed.",
     "example": "\"Avoid the DVP after 4, it's a parking lot.\""
@@ -110,7 +136,9 @@
   {
     "term": "Steeles",
     "slug": "steeles",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Steeles Avenue, city boundary",
     "definition": "Steeles Avenue, the street that marks Toronto's northern city limit. \"North of Steeles\" means you've left the city for York Region.",
     "example": "\"That's north of Steeles, that's not even Toronto.\""
@@ -118,7 +146,9 @@
   {
     "term": "Endz",
     "slug": "endz",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "UK/Caribbean street slang, common across the GTA",
     "definition": "Your neighbourhood, home turf, or the area you grew up in.",
     "example": "\"Come through the endz this weekend, everyone's around.\""
@@ -126,7 +156,9 @@
   {
     "term": "The Rocket / Ride the Rocket",
     "slug": "the-rocket",
-    "categories": ["Getting Around"],
+    "categories": [
+      "Getting Around"
+    ],
     "origin": "TTC branding since the 1954 red subway cars",
     "definition": "Nickname for the TTC (Toronto's transit system), dating back to the red-painted subway cars that debuted in 1954. The TTC still uses \"Ride the Rocket\" in its own marketing.",
     "example": "\"I'm just gonna ride the Rocket down, parking's brutal.\""
@@ -134,7 +166,9 @@
   {
     "term": "Red Rocket",
     "slug": "red-rocket",
-    "categories": ["Getting Around"],
+    "categories": [
+      "Getting Around"
+    ],
     "origin": "TTC's original red subway cars",
     "definition": "The older, more literal version of \"the Rocket\" — a direct reference to the red subway trains and streetcars.",
     "example": "\"Caught the red rocket just in time.\""
@@ -142,7 +176,9 @@
   {
     "term": "The Vomit Comet",
     "slug": "vomit-comet",
-    "categories": ["Getting Around"],
+    "categories": [
+      "Getting Around"
+    ],
     "origin": "Late-night TTC bus culture",
     "definition": "The overnight TTC bus routes (like Blue Night buses) that run after the subway closes and the bars let out — named for, well, exactly what you'd expect happens on them.",
     "example": "\"Missed the last subway, guess it's the vomit comet home.\""
@@ -150,7 +186,10 @@
   {
     "term": "Mans",
     "slug": "mans",
-    "categories": ["People & Respect", "Talk & Fillers"],
+    "categories": [
+      "People & Respect",
+      "Talk & Fillers"
+    ],
     "origin": "Jamaican Patois, via Toronto's Caribbean community",
     "definition": "Used as a stand-in for \"I\" or \"me\" — a self-referential term believed to come from Jamaican Patois as spoken in Toronto's Caribbean communities. The whole \"Toronto mans\" identity is built around this word.",
     "example": "\"It was freezing out, mans had to grab a jacket.\"",
@@ -160,7 +199,9 @@
   {
     "term": "Man Dem",
     "slug": "man-dem",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Jamaican Patois: \"those men / my people\"",
     "definition": "Originally Jamaican Patois for \"those men\" or \"my people.\" In Toronto it's used loosely for your crew or group of friends, regardless of who's actually in it.",
     "example": "\"Pulled up with the man dem to the game.\""
@@ -168,7 +209,9 @@
   {
     "term": "Bredren",
     "slug": "bredren",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Jamaican Patois for close friend / brother",
     "definition": "A close friend or brother — a term of real loyalty and trust, above casual friendship.",
     "example": "\"That's my bredren, known him since grade school.\""
@@ -177,7 +220,9 @@
     "term": "Brodie / Crodie",
     "slug": "brodie",
     "puzzleWord": "BRODIE",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Popularized in Toronto rap",
     "definition": "Brother, friend, day-one. Popularized by Toronto rap and now used well outside music circles.",
     "example": "\"Good looks, brodie, appreciate you.\""
@@ -185,7 +230,9 @@
   {
     "term": "Fam",
     "slug": "fam",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "General diaspora/street slang, common in Toronto",
     "definition": "Close friend or crew — used the way \"family\" is used, but for people you're actually close with day to day.",
     "example": "\"What's good, fam?\""
@@ -194,7 +241,10 @@
     "term": "Wasteman / Waste Yute",
     "slug": "wasteman",
     "puzzleWord": "WASTEMAN",
-    "categories": ["People & Respect", "Beef & Bad Vibes"],
+    "categories": [
+      "People & Respect",
+      "Beef & Bad Vibes"
+    ],
     "origin": "Jamaican Patois-rooted, widespread in Toronto",
     "definition": "Someone lazy, unmotivated or generally useless — a \"waste yute\" is the younger version of the same insult.",
     "example": "\"He never shows up on time, such a wasteman.\""
@@ -202,7 +252,9 @@
   {
     "term": "Opps",
     "slug": "opps",
-    "categories": ["Beef & Bad Vibes"],
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
     "origin": "Short for \"opposition\"",
     "definition": "Short for \"opposition\" — enemies, rivals, people you're beefing with.",
     "example": "\"Don't go over there, that's opp territory.\""
@@ -210,7 +262,10 @@
   {
     "term": "Opp Block",
     "slug": "opp-block",
-    "categories": ["Beef & Bad Vibes", "Geography & Identity"],
+    "categories": [
+      "Beef & Bad Vibes",
+      "Geography & Identity"
+    ],
     "origin": "Street slang, GTA rap scene",
     "definition": "The block or area belonging to your opps — enemy territory.",
     "example": "\"You already know not to be posted on the opp block.\""
@@ -218,7 +273,9 @@
   {
     "term": "Big Up",
     "slug": "big-up",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Jamaican Patois",
     "definition": "To show respect, give credit, or hype someone up. Literally \"to big yourself/someone up.\"",
     "example": "\"Big up to everyone who came out tonight.\""
@@ -226,7 +283,9 @@
   {
     "term": "One Love",
     "slug": "one-love",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Reggae/Caribbean culture",
     "definition": "A greeting or farewell rooted in reggae culture, expressing unity and goodwill.",
     "example": "\"Alright, I'm out — one love.\""
@@ -234,7 +293,9 @@
   {
     "term": "Nuff Respect",
     "slug": "nuff-respect",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Jamaican Patois",
     "definition": "\"Thank you\" or \"I appreciate that,\" delivered with real sincerity. \"Nuff\" here means \"enough,\" as in \"plenty.\"",
     "example": "\"You helped me move that whole apartment — nuff respect.\""
@@ -242,7 +303,9 @@
   {
     "term": "Safe",
     "slug": "safe",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Caribbean/UK-influenced street slang",
     "definition": "Used as an acknowledgment or a casual goodbye — similar to saying \"cool\" or \"take care.\"",
     "example": "\"Appreciate it, safe.\""
@@ -250,7 +313,9 @@
   {
     "term": "Wagwan",
     "slug": "wagwan",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "Jamaican Patois: \"what's going on\"",
     "definition": "\"What's going on?\" / \"What's up?\" — one of the most common Patois-rooted greetings heard across the GTA.",
     "example": "\"Wagwan, haven't seen you in mad long.\""
@@ -258,7 +323,9 @@
   {
     "term": "Ahlie",
     "slug": "ahlie",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "Jamaican Patois: \"a lie\"",
     "definition": "A tag question meaning \"right?\" or \"isn't that so?\" — tacked onto the end of a statement to get agreement.",
     "example": "\"That game was cold, ahlie?\""
@@ -266,7 +333,9 @@
   {
     "term": "Styll",
     "slug": "styll",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "GTA street slang",
     "definition": "An emphatic filler used at the end of a sentence for emphasis, similar to \"though\" or \"for real.\"",
     "example": "\"I'm not even mad, styll.\""
@@ -274,7 +343,9 @@
   {
     "term": "For Tru",
     "slug": "for-tru",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "Street/hip-hop slang, common in the GTA",
     "definition": "\"For real\" — used to confirm something is genuinely true.",
     "example": "\"He pulled up at 6am to help, for tru.\""
@@ -282,7 +353,9 @@
   {
     "term": "Wallahi",
     "slug": "wallahi",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "Arabic, common via Toronto's Somali and Arab communities",
     "definition": "\"I swear to God\" in Arabic — used constantly across the GTA thanks to the city's large Somali and Arab communities, well beyond just those speaking Arabic at home.",
     "example": "\"Wallahi I'm not lying, ask anyone who was there.\"",
@@ -292,7 +365,9 @@
   {
     "term": "Deadass",
     "slug": "deadass",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "Widely used across North American street slang, common in Toronto",
     "definition": "Seriously, no joke — used to stress that you mean exactly what you said.",
     "example": "\"Deadass, that was the best patty I've ever had.\""
@@ -301,7 +376,10 @@
     "term": "Chirping / Chirp",
     "slug": "chirping",
     "puzzleWord": "CHIRP",
-    "categories": ["Talk & Fillers", "Beef & Bad Vibes"],
+    "categories": [
+      "Talk & Fillers",
+      "Beef & Bad Vibes"
+    ],
     "origin": "Canadian hockey/sports culture",
     "definition": "Trash talk — an insult or dig thrown at someone, especially rooted in Canadian hockey culture where players \"chirp\" opponents. In everyday Toronto speech it just means friendly (or not-so-friendly) roasting.",
     "example": "\"Stop chirping me, it's not that deep.\""
@@ -309,7 +387,9 @@
   {
     "term": "Leng",
     "slug": "leng",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "Jamaican Patois, crossed over via Caribbean community",
     "definition": "Extremely attractive or impressive.",
     "example": "\"Bro that new whip is leng.\""
@@ -317,7 +397,9 @@
   {
     "term": "Peng",
     "slug": "peng",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "UK/Caribbean street slang, widely used in the GTA",
     "definition": "Excellent, attractive or high-quality — can describe food, people, outfits or music.",
     "example": "\"This jerk chicken is peng.\""
@@ -325,7 +407,9 @@
   {
     "term": "Bare",
     "slug": "bare",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "UK/Caribbean-influenced GTA slang",
     "definition": "Means the opposite of its dictionary definition — \"a lot\" or \"very,\" not \"empty.\"",
     "example": "\"There's bare people at the mall today.\""
@@ -333,7 +417,9 @@
   {
     "term": "Mad",
     "slug": "mad",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "General North American street slang, everyday in Toronto",
     "definition": "An intensifier meaning \"very\" or \"a lot,\" unrelated to anger.",
     "example": "\"That line was mad long.\""
@@ -341,7 +427,9 @@
   {
     "term": "Peak",
     "slug": "peak",
-    "categories": ["Beef & Bad Vibes"],
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
     "origin": "UK-influenced street slang, common in the GTA",
     "definition": "Something unfortunate, unfair or genuinely bad. \"That's peak\" means \"that sucks.\"",
     "example": "\"Missed the last train by two minutes — that's peak.\""
@@ -349,7 +437,9 @@
   {
     "term": "Blem",
     "slug": "blem",
-    "categories": ["Culture & Sports"],
+    "categories": [
+      "Culture & Sports"
+    ],
     "origin": "Jamaican Patois",
     "definition": "High, particularly from smoking marijuana.",
     "example": "\"He's been blem since the concert started.\""
@@ -357,7 +447,9 @@
   {
     "term": "Link Up / Linking",
     "slug": "link-up",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Caribbean/UK street slang, everyday GTA usage",
     "definition": "To meet up or hang out with someone — in a romantic context, it can mean seeing or dating someone casually.",
     "example": "\"Let's link up after work.\""
@@ -366,7 +458,9 @@
     "term": "Gwap / Gwop",
     "slug": "gwap",
     "puzzleWord": "GWAP",
-    "categories": ["Money"],
+    "categories": [
+      "Money"
+    ],
     "origin": "African American Vernacular English, used in GTA rap slang",
     "definition": "Money.",
     "example": "\"He's out here making gwap.\""
@@ -374,7 +468,9 @@
   {
     "term": "Racks",
     "slug": "racks",
-    "categories": ["Money"],
+    "categories": [
+      "Money"
+    ],
     "origin": "Hip-hop/drill slang, widely used in the GTA scene",
     "definition": "Money, usually in reference to a substantial amount ($1,000 or a stack of bills).",
     "example": "\"Spent racks on that jacket.\""
@@ -382,7 +478,9 @@
   {
     "term": "Bag / Secure the Bag",
     "slug": "bag",
-    "categories": ["Money"],
+    "categories": [
+      "Money"
+    ],
     "origin": "Hip-hop slang, common across the GTA",
     "definition": "Money, or a financial opportunity. \"Secure the bag\" means locking down something profitable.",
     "example": "\"Two jobs this summer — just trying to secure the bag.\""
@@ -390,7 +488,9 @@
   {
     "term": "Bands",
     "slug": "bands",
-    "categories": ["Money"],
+    "categories": [
+      "Money"
+    ],
     "origin": "Hip-hop slang, widely used in the GTA scene",
     "definition": "Large amounts of money, typically counted in thousands (a \"band\" = $1,000, named after the paper band around a stack of bills).",
     "example": "\"Saved up bands from working all summer.\""
@@ -398,7 +498,9 @@
   {
     "term": "We The North",
     "slug": "we-the-north",
-    "categories": ["Culture & Sports"],
+    "categories": [
+      "Culture & Sports"
+    ],
     "origin": "Toronto Raptors marketing slogan, 2014",
     "definition": "The Toronto Raptors' rallying slogan, unveiled in April 2014 ahead of the playoffs. It grew into a citywide identity — Canada's only NBA team representing the whole country, not just the city.",
     "example": "\"We The North, no explanation needed.\""
@@ -406,7 +508,9 @@
   {
     "term": "OVO",
     "slug": "ovo",
-    "categories": ["Culture & Sports"],
+    "categories": [
+      "Culture & Sports"
+    ],
     "origin": "Drake's Toronto-founded label and brand",
     "definition": "\"October's Very Own\" — Drake's Toronto-based record label and clothing brand, named for his October birthday. Shorthand for the whole OVO/Drake cultural footprint on the city.",
     "example": "\"He's got the OVO owl on his jacket.\""
@@ -414,7 +518,9 @@
   {
     "term": "Rexdale",
     "slug": "rexdale",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Etobicoke neighbourhood",
     "definition": "A neighbourhood in Etobicoke, in Toronto's northwest — alongside Scarborough and Jane-Finch, one of the inner-suburb communities most credited with shaping Toronto's street vocabulary and hip-hop scene.",
     "example": "\"He's from Rexdale, grew up around Dixon.\""
@@ -422,7 +528,9 @@
   {
     "term": "Malvern",
     "slug": "malvern",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Scarborough neighbourhood",
     "definition": "A neighbourhood in Scarborough with a strong cultural identity in Toronto rap and street life — often name-checked the way other cities name-check specific blocks.",
     "example": "\"That's a Malvern thing, you wouldn't get it.\""
@@ -430,7 +538,9 @@
   {
     "term": "Roadman",
     "slug": "roadman",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "UK street slang, widely adopted across the GTA",
     "definition": "Someone street-smart, always out and about, who knows how things really work on the ground — not a compliment or an insult on its own, just a description.",
     "example": "\"He's a real roadman, knows everyone downtown.\""
@@ -438,7 +548,9 @@
   {
     "term": "Youts",
     "slug": "youts",
-    "categories": ["People & Respect"],
+    "categories": [
+      "People & Respect"
+    ],
     "origin": "Jamaican Patois pronunciation of \"youths\"",
     "definition": "Young people, or your friends/crew — a Patois-rooted pronunciation of \"youths\" that stuck as its own word.",
     "example": "\"Me and the youts are pulling up later.\""
@@ -446,7 +558,10 @@
   {
     "term": "Blessed",
     "slug": "blessed",
-    "categories": ["Hype & Approval", "People & Respect"],
+    "categories": [
+      "Hype & Approval",
+      "People & Respect"
+    ],
     "origin": "General affirmation, common across the GTA",
     "definition": "A catch-all positive response — used as a greeting, a farewell, or a reaction to good news. When plans are locked in, they're \"blessed.\"",
     "example": "\"See you Friday then — blessed.\""
@@ -454,7 +569,9 @@
   {
     "term": "Maaarved",
     "slug": "maaarved",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "GTA street slang, stylized spelling of \"starved\"",
     "definition": "Extremely hungry — the drawn-out spelling is part of the word.",
     "example": "\"I'm maaarved, let's reach Markham station and grab something.\""
@@ -462,7 +579,9 @@
   {
     "term": "Drip",
     "slug": "drip",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "Hip-hop/streetwear slang, widely used in the GTA",
     "definition": "A person's style, fashion sense and overall presentation — having \"drip\" means dressing with consistent, impressive style.",
     "example": "\"New chain, new kicks — the drip is unmatched today.\""
@@ -470,7 +589,9 @@
   {
     "term": "Fit",
     "slug": "fit",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "Short for \"outfit,\" widely used in the GTA",
     "definition": "Short for \"outfit\" — everything you're wearing, as a whole look.",
     "example": "\"Where'd you get that fit from, it's clean.\""
@@ -478,7 +599,9 @@
   {
     "term": "Clean",
     "slug": "clean",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "General hip-hop slang, everyday GTA usage",
     "definition": "Sharp, stylish, well put-together — used for outfits, cars, sneakers, basically anything that looks good.",
     "example": "\"That whip is clean.\""
@@ -486,7 +609,10 @@
   {
     "term": "Ting",
     "slug": "ting",
-    "categories": ["People & Respect", "Talk & Fillers"],
+    "categories": [
+      "People & Respect",
+      "Talk & Fillers"
+    ],
     "origin": "Jamaican Patois for \"thing\"",
     "definition": "Literally \"thing\" in Patois, but used constantly for a romantic interest (\"my ting\") or just to refer to an unspecified person, object or situation.",
     "example": "\"Is that your new ting I saw you with?\""
@@ -494,7 +620,9 @@
   {
     "term": "Weak",
     "slug": "weak",
-    "categories": ["Beef & Bad Vibes"],
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
     "origin": "6ix-specific usage, per local slang guides",
     "definition": "Lame, disappointing, not up to standard — a step below \"peak\" but the same general idea.",
     "example": "\"They ran out of patties already? That's weak.\""
@@ -502,7 +630,10 @@
   {
     "term": "Dry",
     "slug": "dry",
-    "categories": ["Beef & Bad Vibes", "Talk & Fillers"],
+    "categories": [
+      "Beef & Bad Vibes",
+      "Talk & Fillers"
+    ],
     "origin": "GTA street slang",
     "definition": "Blunt, unenthusiastic or straight-up boring — describing a person's response or a whole situation with no energy to it.",
     "example": "\"He gave a dry reply, didn't even ask how I was.\""
@@ -511,7 +642,9 @@
     "term": "Mix Up",
     "slug": "mix-up",
     "puzzleWord": "MIXUP",
-    "categories": ["Beef & Bad Vibes"],
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
     "origin": "GTA street slang",
     "definition": "Being wishy-washy, flaky or sus (suspicious) — someone who can't be trusted to be straight with you.",
     "example": "\"Don't trust him, he's mad mix up.\""
@@ -519,7 +652,10 @@
   {
     "term": "Flex",
     "slug": "flex",
-    "categories": ["Hype & Approval", "Culture & Sports"],
+    "categories": [
+      "Hype & Approval",
+      "Culture & Sports"
+    ],
     "origin": "General hip-hop slang, everyday GTA usage",
     "definition": "As a verb, to show off or stunt. Tacked onto a noun, it can also mean you're about to go do something (\"gym flex\" = heading to the gym).",
     "example": "\"He's flexing that new watch on every story.\""
@@ -527,7 +663,9 @@
   {
     "term": "Hooooly",
     "slug": "hooooly",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "6ix-specific exclamation, per local slang guides",
     "definition": "A drawn-out exclamation for when something needs a reaction — shock, disbelief, or someone getting on your nerves.",
     "example": "\"Hooooly, did you see that?\""
@@ -536,7 +674,9 @@
     "term": "'Llow It",
     "slug": "llow-it",
     "puzzleWord": "ALLOW",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "6ix shorthand for \"allow it\"",
     "definition": "Short for \"allow it\" — let it go, don't worry about it, drop the subject.",
     "example": "\"'Llow it, it's not even that deep.\""
@@ -545,7 +685,9 @@
     "term": "No Cap",
     "slug": "no-cap",
     "puzzleWord": "NOCAP",
-    "categories": ["Talk & Fillers"],
+    "categories": [
+      "Talk & Fillers"
+    ],
     "origin": "AAVE, widely used across the GTA",
     "definition": "\"No lie\" — \"cap\" means a lie, so \"no cap\" means you're telling the truth.",
     "example": "\"That was the best show I've been to, no cap.\""
@@ -553,7 +695,9 @@
   {
     "term": "Patty",
     "slug": "patty",
-    "categories": ["Culture & Sports"],
+    "categories": [
+      "Culture & Sports"
+    ],
     "origin": "Jamaican-Canadian food culture",
     "definition": "The Jamaican beef (or chicken, or veggie) patty — a flaky, curry-coloured pastry sold at corner stores and bakeries across the city. Not slang exactly, but non-negotiable Toronto cultural vocabulary.",
     "example": "\"Grab me a patty and a coco bread on your way.\""
@@ -561,7 +705,9 @@
   {
     "term": "Roti",
     "slug": "roti",
-    "categories": ["Culture & Sports"],
+    "categories": [
+      "Culture & Sports"
+    ],
     "origin": "Caribbean-Canadian food culture",
     "definition": "A Caribbean flatbread wrapped around curried meat, chickpeas or vegetables — a GTA staple order, especially in Scarborough.",
     "example": "\"Say less, we're getting roti after this.\""
@@ -570,7 +716,9 @@
     "term": "Cheesed / Cheesing",
     "slug": "cheesed",
     "puzzleWord": "CHEESED",
-    "categories": ["Beef & Bad Vibes"],
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
     "origin": "GTA slang, exact origin unclear",
     "definition": "Angry, annoyed, or deeply irritated. To say someone is \"cheesing\" you means they're making you angry — the intensity ranges from mild annoyance said flatly to real anger when it's shouted.",
     "example": "\"I'm proper cheesed right now, he cancelled last minute again.\""
@@ -578,7 +726,9 @@
   {
     "term": "Sauga",
     "slug": "sauga",
-    "categories": ["Geography & Identity"],
+    "categories": [
+      "Geography & Identity"
+    ],
     "origin": "Shortened form of Mississauga",
     "definition": "Short for Mississauga, the large GTA city just west of Toronto — a way locals identify with the city without saying the whole name. Sometimes shortened even further to 'Saug.",
     "example": "\"Nah he's from Sauga, not the city.\""
@@ -586,7 +736,9 @@
   {
     "term": "Yeerrrttttt",
     "slug": "yeerrrttttt",
-    "categories": ["Hype & Approval"],
+    "categories": [
+      "Hype & Approval"
+    ],
     "origin": "GTA hype-culture shout, stylized spelling",
     "definition": "An elongated, shouted exclamation of hype and excitement — the drawn-out spelling is the point, since it's meant to be yelled, not said flatly. Same energy family as \"yeet\" or \"let's go,\" but its own thing in GTA party and hype culture.",
     "example": "\"He hit the game-winner and the whole bench just screamed 'yeerrrttttt!'\""
@@ -594,9 +746,168 @@
   {
     "term": "Nize",
     "slug": "nize",
-    "categories": ["Talk & Fillers", "Beef & Bad Vibes"],
+    "categories": [
+      "Talk & Fillers",
+      "Beef & Bad Vibes"
+    ],
     "origin": "GTA slang, pronounced like \"nice\" with a Z",
     "definition": "To be quiet or stop talking — an imperative, usually heard as \"nize that\" or \"nize your beaks\" (beaks meaning mouths).",
     "example": "\"Nize your beaks, the movie's starting.\""
+  },
+  {
+    "term": "Up Top",
+    "slug": "up-top",
+    "categories": [
+      "Geography & Identity"
+    ],
+    "origin": "1990s Jane and Finch geography, marking the housing blocks north of Finch Ave. West",
+    "definition": "Hyperlocal Jane-and-Finch geography — not just \"the neighbourhood\" but specifically the cluster of blocks north of Finch, as distinct from \"Down Bottom\" to the south. Carried real weight during 1990s tensions between the two areas and still gets used to place exactly where someone's from within Jane-Finch.",
+    "example": "\"He's not just Jane and Finch, he's Up Top — different crowd over there.\"",
+    "sourceUrl": "https://www.rapdict.org/Driftwood_Crips",
+    "sourceLabel": "Rap Dictionary — \"Driftwood Crips\""
+  },
+  {
+    "term": "The Beach",
+    "slug": "the-beach",
+    "categories": [
+      "Geography & Identity"
+    ],
+    "origin": "Local naming preference in Toronto's east-end lakeside neighbourhood, favoured over the official plural \"The Beaches\"",
+    "definition": "The local, singular short form for The Beaches neighbourhood along the Lake Ontario shoreline. Old-school residents have argued for decades over \"Beach\" vs. \"Beaches,\" and dropping the s is a quiet way of signalling you're actually from there, not just visiting.",
+    "example": "\"Grew up in the Beach — my parents still refuse to call it 'the Beaches.'\"",
+    "sourceUrl": "https://www.blogto.com/city/2014/03/that_time_toronto_fought_over_the_beaches/",
+    "sourceLabel": "BlogTO — \"That time Toronto fought over 'The Beaches'\""
+  },
+  {
+    "term": "Certi",
+    "slug": "certi",
+    "categories": [
+      "Hype & Approval"
+    ],
+    "origin": "Clipped form of \"certified,\" used widely across GTA youth slang",
+    "definition": "Short for certified — a co-sign that someone or something is legit, proven, and trustworthy. Calling someone \"certi\" is real praise: they've earned it, not just talked about it.",
+    "example": "\"That's my guy, he's certi, you can trust him with anything.\""
+  },
+  {
+    "term": "Greasy",
+    "slug": "greasy",
+    "categories": [
+      "Hype & Approval"
+    ],
+    "origin": "Toronto/GTA youth slang flips the word into a compliment, opposite its \"sketchy\" meaning elsewhere in Canada",
+    "definition": "Means smooth, stylish, or seriously impressive — almost the reverse of how \"greasy\" reads elsewhere in the country. Most often used to hype up an outfit, sneakers, or a slick move.",
+    "example": "\"Those new Jordans are greasy, fam.\""
+  },
+  {
+    "term": "Buff",
+    "slug": "buff",
+    "categories": [
+      "Hype & Approval"
+    ],
+    "origin": "UK/Toronto roadman slang for physical attractiveness, often paired with \"ting\"",
+    "definition": "Used to call someone good-looking or seriously attractive. Often combined into \"buff ting\" to specifically flag an attractive girl.",
+    "example": "\"Bro didn't tell me his cousin was buff like that.\""
+  },
+  {
+    "term": "Bless Up",
+    "slug": "bless-up",
+    "categories": [
+      "Hype & Approval"
+    ],
+    "origin": "Jamaican Patois / Rastafarian-rooted greeting, carried into Toronto through the city's Caribbean community",
+    "definition": "A warm greeting or send-off wishing someone peace and good fortune — like \"take care\" with more soul in it. Used constantly in Toronto's Caribbean-Canadian circles as both hello and goodbye.",
+    "example": "\"Bless up, fam, safe travels back to the Six.\""
+  },
+  {
+    "term": "Irie",
+    "slug": "irie",
+    "categories": [
+      "Hype & Approval"
+    ],
+    "origin": "Jamaican Patois/Rastafarian term meaning \"everything's good,\" brought into Toronto slang via the city's Jamaican diaspora",
+    "definition": "Means everything's cool, chill, or all-right — general good-vibes shorthand. Used the same way as \"safe\" in Toronto, especially in Caribbean-Canadian circles.",
+    "example": "\"How's it going?\" \"Irie, man, can't complain.\""
+  },
+  {
+    "term": "6ix God",
+    "slug": "6ix-god",
+    "categories": [
+      "Culture & Sports"
+    ],
+    "origin": "Coined by Drake on his 2015 album If You're Reading This It's Too Late, building off Toronto's \"The Six\" nickname",
+    "definition": "Drake's self-given title as the reigning figure of Toronto, first used on the track \"6 God.\" Now used more broadly — often jokingly — in Toronto pop culture for anyone acting like they run the city.",
+    "example": "\"He's walking around campus like he's the 6ix God.\"",
+    "sourceUrl": "https://hiphophero.com/drake-6-god-6-man-toronto/",
+    "sourceLabel": "Hip Hop Hero — \"How Drake went from a '6 God' to a '6 Man'\""
+  },
+  {
+    "term": "Gyal",
+    "slug": "gyal",
+    "categories": [
+      "People & Respect"
+    ],
+    "origin": "Jamaican Patois for \"girl,\" carried into Toronto slang through the city's Jamaican and wider Caribbean population",
+    "definition": "Means \"girl\" or \"woman\" — used constantly across Toronto's Caribbean-influenced slang, either neutrally or romantically depending on context.",
+    "example": "\"That gyal's from Brampton, she's mad cool.\"",
+    "sourceUrl": "https://jamaicans.com/from-toronto-gyal-dem-to-drakes-wah-gwaan-delilah-jamaicas-influence-on-toronto-slang-and-youth-culture/",
+    "sourceLabel": "Jamaicans.com — \"Jamaica's Influence on Toronto Slang and Youth Culture\""
+  },
+  {
+    "term": "Gyaldem",
+    "slug": "gyaldem",
+    "categories": [
+      "People & Respect"
+    ],
+    "origin": "Jamaican Patois plural (\"gyal\" + \"dem,\" meaning \"them\"), the female counterpart to \"mandem\"",
+    "definition": "Refers to a group of girls or women collectively. Commonly used to describe a crew of women out together.",
+    "example": "\"Bare gyaldem pulled up to the party last night.\"",
+    "sourceUrl": "https://jamaicans.com/from-toronto-gyal-dem-to-drakes-wah-gwaan-delilah-jamaicas-influence-on-toronto-slang-and-youth-culture/",
+    "sourceLabel": "Jamaicans.com — \"Jamaica's Influence on Toronto Slang and Youth Culture\""
+  },
+  {
+    "term": "Miskeen",
+    "slug": "miskeen",
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
+    "origin": "Arabic word (\"miskin,\" meaning poor/unfortunate) that entered Toronto slang through the city's large Somali community",
+    "definition": "Describes a person or situation as pathetic, sad, or pitiful. One of the clearest markers of Toronto slang's Somali/Arabic influence, and it got a huge mainstream spotlight when Drake tattooed the word above his eye in 2023.",
+    "example": "\"He got left on read for a week — that's kind of miskeen.\"",
+    "sourceUrl": "https://ca.billboard.com/music/rb-hip-hop/drake-new-face-tattoo-arabic-slang-phrase-toronto-1235498818/",
+    "sourceLabel": "Billboard Canada — \"Drake Got New Face Ink Featuring a Common Hometown Arabic Slang Phrase\""
+  },
+  {
+    "term": "Waste Yute",
+    "slug": "waste-yute",
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
+    "origin": "Combines Caribbean patois \"yute\" (youth) with \"waste\"; often traced to the Rexdale area of Toronto",
+    "definition": "An insult for someone seen as immature, useless, or squandering their potential — literally \"a waste of a young person.\" A sharper cousin of \"wasteman\" that specifically calls out someone still young enough that it's especially disappointing.",
+    "example": "\"Quit acting like a waste yute and get a job.\"",
+    "sourceUrl": "https://www.narcity.com/toronto/15-2019-toronto-slang-words-youll-only-understand-if-youre-fluent-in-torontonian",
+    "sourceLabel": "Narcity — \"14 Toronto Slang Phrases You'll Only Understand If You're Fluent In Torontonian\""
+  },
+  {
+    "term": "Long",
+    "slug": "long",
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
+    "origin": "Multicultural Toronto English usage that flips the literal meaning of \"long\" (length) into \"too much hassle\"",
+    "definition": "Describes something as tedious, drawn-out, or not worth the effort — from a boring errand to a plan nobody's committed to. Saying \"that's long\" is a quick way to bounce on something without a whole explanation.",
+    "example": "\"Nah, walking there in this weather is long, let's just take the Rocket.\""
+  },
+  {
+    "term": "Extra",
+    "slug": "extra",
+    "categories": [
+      "Beef & Bad Vibes"
+    ],
+    "origin": "Broader North American slang for over-the-top behaviour, documented as active everyday Toronto vocabulary",
+    "definition": "Calls someone out for being dramatic or doing way more than the situation needs. A light way to tell someone to tone it down without starting real beef.",
+    "example": "\"You're so extra, Scarbs ain't even that bad.\"",
+    "sourceUrl": "https://www.narcity.com/toronto/toronto-slang-words",
+    "sourceLabel": "Narcity — \"Toronto Slang: The Ultimate Guide For Everyday Situations\""
   }
 ]
