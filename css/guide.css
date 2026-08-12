@@ -73,6 +73,29 @@
   line-height: 1.5;
 }
 
+.guide-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 24px 0 8px;
+}
+
+.guide-category {
+  margin: 44px 0 0;
+  scroll-margin-top: 84px;
+}
+
+.guide-category h2 {
+  font-size: 1.3rem;
+  border-bottom: 1px solid var(--card-border);
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+#surprise-me-btn {
+  margin-top: 4px;
+}
+
 .continue-reading {
   margin: 40px 0 8px;
   padding-top: 28px;

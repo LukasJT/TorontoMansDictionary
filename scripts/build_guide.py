@@ -2933,17 +2933,118 @@ def build_page(page, all_pages):
 '''
 
 
-def build_hub(all_pages):
-    cards = "\n".join(
-        f'''      <a class="guide-card" href="{esc(p["slug"])}.html">
+CATEGORY_ORDER = [
+    "History & Origins",
+    "Neighbourhoods & Suburbs",
+    "Government & Civic Institutions",
+    "Landmarks & Architecture",
+    "Parks, Nature & Waterfront",
+    "Transit & Getting Around",
+    "Sports",
+    "Food & Drink",
+    "Arts, Media & Culture",
+    "Festivals & Attractions",
+    "Business & Economy",
+    "People, Diversity & Social Issues",
+    "Science, Health & Education",
+]
+
+# Maps every PAGES slug to one of the categories above, so the hub can group
+# 100+ articles into something browsable instead of one giant undifferentiated
+# grid. Kept as an external mapping (rather than a field on each PAGES dict)
+# so adding it didn't require touching every existing entry.
+SLUG_CATEGORIES = {
+    "history": "History & Origins", "nicknames": "History & Origins",
+    "indigenous-history": "History & Origins", "avro-arrow": "History & Origins",
+    "railways": "History & Origins", "chinese-head-tax": "History & Origins",
+    "neighbourhoods": "Neighbourhoods & Suburbs", "ethnic-enclaves": "Neighbourhoods & Suburbs",
+    "scarborough": "Neighbourhoods & Suburbs", "etobicoke": "Neighbourhoods & Suburbs",
+    "north-york": "Neighbourhoods & Suburbs", "mississauga": "Neighbourhoods & Suburbs",
+    "brampton": "Neighbourhoods & Suburbs", "vaughan": "Neighbourhoods & Suburbs",
+    "york": "Neighbourhoods & Suburbs", "east-york": "Neighbourhoods & Suburbs",
+    "markham": "Neighbourhoods & Suburbs", "oakville": "Neighbourhoods & Suburbs",
+    "durham-region": "Neighbourhoods & Suburbs", "richmond-hill": "Neighbourhoods & Suburbs",
+    "ajax": "Neighbourhoods & Suburbs", "whitby": "Neighbourhoods & Suburbs",
+    "pickering": "Neighbourhoods & Suburbs", "burlington": "Neighbourhoods & Suburbs",
+    "milton": "Neighbourhoods & Suburbs", "newmarket": "Neighbourhoods & Suburbs",
+    "kensington-market": "Neighbourhoods & Suburbs", "the-junction": "Neighbourhoods & Suburbs",
+    "government": "Government & Civic Institutions", "queens-park": "Government & Civic Institutions",
+    "osgoode-hall": "Government & Civic Institutions", "nathan-phillips-square": "Government & Civic Institutions",
+    "toronto-hydro": "Government & Civic Institutions", "presto-card": "Government & Civic Institutions",
+    "lcbo-history": "Government & Civic Institutions", "public-library": "Government & Civic Institutions",
+    "landmarks": "Landmarks & Architecture", "architecture": "Landmarks & Architecture",
+    "cn-tower": "Landmarks & Architecture", "casa-loma": "Landmarks & Architecture",
+    "rom": "Landmarks & Architecture", "union-station": "Landmarks & Architecture",
+    "massey-hall": "Landmarks & Architecture", "water-treatment": "Landmarks & Architecture",
+    "bloor-viaduct": "Landmarks & Architecture", "cemeteries": "Landmarks & Architecture",
+    "parks": "Parks, Nature & Waterfront", "waterfront": "Parks, Nature & Waterfront",
+    "ravines": "Parks, Nature & Waterfront", "high-park": "Parks, Nature & Waterfront",
+    "weather": "Parks, Nature & Waterfront", "extreme-weather": "Parks, Nature & Waterfront",
+    "toronto-islands-ferry": "Parks, Nature & Waterfront", "toronto-harbour": "Parks, Nature & Waterfront",
+    "transit": "Transit & Getting Around", "airports": "Transit & Getting Around",
+    "go-transit": "Transit & Getting Around", "path": "Transit & Getting Around",
+    "gardiner-dvp": "Transit & Getting Around", "subway-art": "Transit & Getting Around",
+    "cycling": "Transit & Getting Around",
+    "sports": "Sports", "raptors-2019": "Sports", "blue-jays-1992": "Sports",
+    "blue-jays-founding": "Sports", "maple-leafs-1967": "Sports",
+    "argonauts-grey-cup": "Sports", "woodbine-racetrack": "Sports", "rogers-centre": "Sports",
+    "food": "Food & Drink", "craft-beer": "Food & Drink", "coffee-culture": "Food & Drink",
+    "cocktail-scene": "Food & Drink", "st-lawrence-market": "Food & Drink",
+    "art": "Arts, Media & Culture", "group-of-seven": "Arts, Media & Culture",
+    "ocad-university": "Arts, Media & Culture", "performing-arts": "Arts, Media & Culture",
+    "literary-scene": "Arts, Media & Culture", "comedy": "Arts, Media & Culture",
+    "video-games": "Arts, Media & Culture", "board-game-cafes": "Arts, Media & Culture",
+    "media": "Arts, Media & Culture", "broadcasting": "Arts, Media & Culture",
+    "newspapers": "Arts, Media & Culture", "tiff-lightbox": "Arts, Media & Culture",
+    "festivals": "Festivals & Attractions", "cne": "Festivals & Attractions",
+    "winter-festivals": "Festivals & Attractions", "ontario-place": "Festivals & Attractions",
+    "zoo-science-centre": "Festivals & Attractions", "exhibition-place": "Festivals & Attractions",
+    "economy": "Business & Economy", "tech-scene": "Business & Economy",
+    "banks": "Business & Economy", "shopping-malls": "Business & Economy",
+    "eatons-simpsons": "Business & Economy", "rogers-communications": "Business & Economy",
+    "multiculturalism": "People, Diversity & Social Issues", "lgbtq-village": "People, Diversity & Social Issues",
+    "housing": "People, Diversity & Social Issues", "famous-torontonians": "People, Diversity & Social Issues",
+    "safety": "People, Diversity & Social Issues", "religion": "People, Diversity & Social Issues",
+    "homelessness": "People, Diversity & Social Issues",
+    "medical-history": "Science, Health & Education", "education": "Science, Health & Education",
+    "hospitals": "Science, Health & Education", "sars-outbreak": "Science, Health & Education",
+}
+
+
+def guide_card(p):
+    return f'''      <a class="guide-card" href="{esc(p["slug"])}.html">
         <div class="guide-card-img" style="background-image:url('{commons(p["hero_img"])}')"></div>
         <div class="guide-card-body">
           <h2>{esc(p["h1"])}</h2>
           <p>{esc(p["dek"])}</p>
         </div>
       </a>'''
-        for p in all_pages
+
+
+def build_hub(all_pages):
+    by_category = {}
+    for p in all_pages:
+        cat = SLUG_CATEGORIES.get(p["slug"], "History & Origins")
+        by_category.setdefault(cat, []).append(p)
+
+    jump_links = " ".join(
+        f'<a class="chip-static" href="#{esc(cat.lower().replace(", ", "-").replace(" & ", "-").replace(" ", "-"))}">{esc(cat)}</a>'
+        for cat in CATEGORY_ORDER
+        if cat in by_category
     )
+
+    sections = "\n".join(
+        f'''    <section id="{esc(cat.lower().replace(", ", "-").replace(" & ", "-").replace(" ", "-"))}" class="guide-category">
+      <h2>{esc(cat)}</h2>
+      <div class="guide-grid">
+{chr(10).join(guide_card(p) for p in by_category[cat])}
+      </div>
+    </section>'''
+        for cat in CATEGORY_ORDER
+        if cat in by_category
+    )
+
+    random_slugs_json = json.dumps([p["slug"] for p in all_pages])
 
     return f'''<!DOCTYPE html>
 <html lang="en">
@@ -3024,16 +3125,19 @@ def build_hub(all_pages):
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary</p>
+      <p class="hero-kicker">Beyond the dictionary — {len(all_pages)} articles</p>
       <h1>The Toronto Guide</h1>
-      <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. Seven pages on the actual Toronto — history, neighbourhoods, landmarks, food, sports, festivals, and the multiculturalism that built all of it.</p>
+      <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
+      <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
     </header>
 
     {ad_leaderboard()}
 
-    <div class="guide-grid">
-{cards}
-    </div>
+    <nav class="guide-jump" aria-label="Jump to category">
+      {jump_links}
+    </nav>
+
+{sections}
 
     <div class="article-cta">
       <a class="btn-ghost" href="../history.html">Read the history of Toronto slang →</a>
@@ -3041,6 +3145,19 @@ def build_hub(all_pages):
     </div>
   </div>
 </main>
+
+<script>
+  (function () {{
+    var slugs = {random_slugs_json};
+    var btn = document.getElementById("surprise-me-btn");
+    if (btn) {{
+      btn.addEventListener("click", function () {{
+        var pick = slugs[Math.floor(Math.random() * slugs.length)];
+        window.location.href = pick + ".html";
+      }});
+    }}
+  }})();
+</script>
 
 <footer class="site-footer">
   <div class="wrap">
