@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 145 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 151 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -955,6 +955,41 @@
           <p>The technology traces back to Montreal&#x27;s Expo 67, but the first-ever permanent IMAX theatre opened inside the Cinesphere at Toronto&#x27;s Ontario Place in 1971 — making it a genuine Toronto landmark in the format&#x27;s history.</p>
         </div>
       </a>
+      <a class="guide-card" href="toronto-jazz-history.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Oscar_Peterson_-_1950.JPG')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto&#x27;s Jazz Scene History</h2>
+          <p>From the 1940s through the 1970s, Toronto&#x27;s jazz life ran through a handful of Yonge Street clubs that hosted Billie Holiday, Miles Davis and Dizzy Gillespie — and doubled as a proving ground for the city&#x27;s Black Canadian musicians.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="yorkville-folk-scene.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_Cockburn_2007.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Musicians of 1960s Yorkville</h2>
+          <p>Our Yorkville neighbourhood guide covers the coffeehouse scene broadly. This is about the specific musicians it launched — and why a few blocks of Toronto rooming houses became a genuine music-industry proving ground.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="massey-hall-performances.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Massey_Hall,_Toronto_Panorama.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Most Legendary Concerts at Massey Hall</h2>
+          <p>Our Massey Hall guide covers the venue&#x27;s history. This is about three specific nights that became legendary recordings — a half-empty 1953 bebop summit, a 1971 solo Neil Young show, and Gordon Lightfoot&#x27;s decades-long residency.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="toronto-hip-hop-before-drake.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Maestro_Fresh_Wes_live_in_2023.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto Hip-Hop Before Drake</h2>
+          <p>Maestro Fresh Wes, Dream Warriors, Choclair and Kardinal Offishall built a genuine Toronto hip-hop identity — Caribbean-inflected, internationally recognized — for roughly twenty years before Drake&#x27;s 2011 breakthrough.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="toronto-classical-music.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Glenn_Gould_and_Alberto_Guerrero.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto&#x27;s Classical Music Scene Beyond the TSO</h2>
+          <p>A purpose-built opera house, one of the world&#x27;s most respected period-instrument orchestras, and the conservatory that trained Glenn Gould — Toronto&#x27;s classical music scene runs well past the Toronto Symphony Orchestra.</p>
+        </div>
+      </a>
       </div>
     </section>
     <section id="festivals-attractions" class="guide-category">
@@ -1000,6 +1035,13 @@
         <div class="guide-card-body">
           <h2>Exhibition Place</h2>
           <p>Our CNE guide covers the annual fair itself. The 197-acre grounds it happens on host BMO Field, the Argonauts, Caribana, and a genuine architectural time capsule spanning more than a century of exhibition buildings.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="canadian-music-week.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Four-Seasons-Centre.JPG')"></div>
+        <div class="guide-card-body">
+          <h2>Canadian Music Week</h2>
+          <p>What began as a trade conference grew into Canada&#x27;s longest-running multi-day music and media event — combining an industry conference with a public festival of roughly 1,000 showcasing acts across downtown Toronto.</p>
         </div>
       </a>
       </div>
@@ -1197,7 +1239,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {

@@ -126,6 +126,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/canadian-music-week.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/canadian-screen-awards.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -406,6 +411,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/massey-hall-performances.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/massey-hall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -656,7 +666,17 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-classical-music.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-harbour.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-hip-hop-before-drake.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -667,6 +687,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-islands-ferry.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-jazz-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -757,6 +782,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/yorkville-folk-scene.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
