@@ -71,7 +71,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Toronto Harbour, the railways that built the
                                 city, the LCBO, TIFF Bell Lightbox, the Big Five
                                 banks, the 2019 Raptors championship, Sunnybrook/
-                                Mount Sinai hospitals, and TTC subway art, plus a
+                                Mount Sinai hospitals, TTC subway art, Eaton's &
+                                Simpson's, Rogers Communications, the Blue Jays'
+                                1992-93 World Series, the Maple Leafs' 1967 Cup,
+                                the PRESTO card, and the Chinese head tax, plus a
                                 guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
