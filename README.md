@@ -64,7 +64,9 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 cemeteries, shopping malls, the 2003 SARS
                                 outbreak, OCAD University, winter festivals, Casa
                                 Loma, the ROM, the Avro Arrow, the Gardiner/DVP,
-                                Queen's Park, and board game cafés, plus a
+                                Queen's Park, board game cafés, the CN Tower,
+                                Rogers Centre/SkyDome, Kensington Market, the
+                                literary scene, the PATH, and High Park, plus a
                                 guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
