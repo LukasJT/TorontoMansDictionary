@@ -51,8 +51,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 ethnic enclaves, the ravine system, newspapers,
                                 cycling, religious diversity, coffee culture,
                                 Union Station, GO Transit, Ontario Place, historic
-                                extreme weather, the cocktail/distillery scene, and
-                                broadcasting history, plus a guide/index.html hub
+                                extreme weather, the cocktail/distillery scene,
+                                broadcasting history, and dedicated pages for
+                                Scarborough, Etobicoke, North York, Mississauga,
+                                Brampton and Vaughan, plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles

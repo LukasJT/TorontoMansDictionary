@@ -51,6 +51,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/brampton.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/broadcasting.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -97,6 +102,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/ethnic-enclaves.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/etobicoke.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -171,6 +181,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/mississauga.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/multiculturalism.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -187,6 +202,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/nicknames.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/north-york.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -221,6 +241,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/scarborough.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/sports.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -237,6 +262,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/union-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/vaughan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
