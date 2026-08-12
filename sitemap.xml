@@ -196,6 +196,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/group-of-seven.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/high-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -247,6 +252,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/markham.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/massey-hall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -316,6 +326,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/osgoode-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/parks.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -342,6 +357,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/queens-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/railways.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -402,6 +422,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/tech-scene.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/the-junction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-harbour.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

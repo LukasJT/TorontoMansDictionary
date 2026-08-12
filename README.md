@@ -66,8 +66,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Loma, the ROM, the Avro Arrow, the Gardiner/DVP,
                                 Queen's Park, board game cafés, the CN Tower,
                                 Rogers Centre/SkyDome, Kensington Market, the
-                                literary scene, the PATH, and High Park, plus a
-                                guide/index.html hub
+                                literary scene, the PATH, High Park, Massey Hall,
+                                the Group of Seven, Osgoode Hall, the Junction,
+                                Toronto Harbour, and the railways that built the
+                                city, plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
