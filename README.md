@@ -62,8 +62,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 arts, the video game industry, homelessness, the
                                 R.C. Harris Water Treatment Plant, historic
                                 cemeteries, shopping malls, the 2003 SARS
-                                outbreak, OCAD University, and winter festivals,
-                                plus a guide/index.html hub
+                                outbreak, OCAD University, winter festivals, Casa
+                                Loma, the ROM, the Avro Arrow, the Gardiner/DVP,
+                                Queen's Park, and board game cafés, plus a
+                                guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
