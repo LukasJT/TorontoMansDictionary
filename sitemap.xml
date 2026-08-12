@@ -56,6 +56,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/bloor-viaduct.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/brampton.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -166,6 +171,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/homelessness.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/housing.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -261,6 +271,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/performing-arts.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/pickering.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -301,7 +316,17 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/st-lawrence-market.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/tech-scene.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-islands-ferry.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -317,6 +342,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/vaughan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/video-games.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

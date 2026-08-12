@@ -57,7 +57,10 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Brampton, Vaughan, York, East York, Markham,
                                 Oakville, Durham Region/Oshawa, Richmond Hill,
                                 Ajax, Whitby, Pickering, Burlington, Milton and
-                                Newmarket, plus a guide/index.html hub
+                                Newmarket, plus St. Lawrence Market, the Bloor
+                                Viaduct, the Toronto Island ferries, performing
+                                arts, the video game industry, and homelessness,
+                                plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
