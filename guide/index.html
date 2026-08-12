@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 115 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 121 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -794,6 +794,13 @@
           <p>Ontario built its own public broadcaster in 1970 with a genuinely narrow mandate — education, not entertainment — and became the first full-time educational television station in the entire country.</p>
         </div>
       </a>
+      <a class="guide-card" href="imax-toronto.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Cinesphere,_at_Ontario_Place,_in_2012,_when_it_was_closed_for_several_years_(7157561345).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>IMAX&#x27;s First Permanent Theatre</h2>
+          <p>The technology traces back to Montreal&#x27;s Expo 67, but the first-ever permanent IMAX theatre opened inside the Cinesphere at Toronto&#x27;s Ontario Place in 1971 — making it a genuine Toronto landmark in the format&#x27;s history.</p>
+        </div>
+      </a>
       </div>
     </section>
     <section id="festivals-attractions" class="guide-category">
@@ -888,6 +895,13 @@
           <p>Ted Rogers Jr. borrowed $85,000 to buy a single FM station in 1960 and built it into one of Canada&#x27;s largest media and telecom companies — continuing, in a real sense, his father&#x27;s own broadcasting legacy.</p>
         </div>
       </a>
+      <a class="guide-card" href="de-havilland-canada.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/De_Havilland_Canada_DHC-2_Beaver._(8107669296).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>De Havilland Canada</h2>
+          <p>One of the most famous bush planes ever built came out of a Toronto aircraft plant that, at its wartime peak, employed 7,000 people — many of them women — at Downsview.</p>
+        </div>
+      </a>
       </div>
     </section>
     <section id="people-diversity-social-issues" class="guide-category">
@@ -975,6 +989,34 @@
           <p>Beyond the insulin story covered in our medical history guide, two of Toronto&#x27;s major hospitals carry genuinely distinct founding stories — one built specifically for Second World War veterans, the other founded because Jewish physicians couldn&#x27;t get hired anywhere else in the city.</p>
         </div>
       </a>
+      <a class="guide-card" href="stem-cell-discovery.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>How Stem Cells Were Discovered</h2>
+          <p>James Till and Ernest McCulloch weren&#x27;t trying to discover stem cells in 1961 — they were studying radiation damage in mice. What they found instead reshaped modern medicine.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="connaught-labs.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_(2012).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Connaught Labs</h2>
+          <p>A University of Toronto lab founded in 1914 to make diphtheria antitoxin became, within a few decades, the sole Canadian source of insulin and a global supplier for one of the largest vaccine trials in history.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="vector-institute.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto-CN-tower-and-Canadian-flag-skyline.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Vector Institute</h2>
+          <p>Toronto&#x27;s dedicated AI research institute opened in 2017 with the &quot;godfather of AI&quot; as a founding advisor. Seven years later, he won the Nobel Prize in Physics for the work that made the whole field possible.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="cystic-fibrosis-gene.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Cystic Fibrosis Gene Discovery</h2>
+          <p>A Toronto research team identified the gene behind cystic fibrosis in 1989 — a discovery still described as one of the most significant in the history of human genetics.</p>
+        </div>
+      </a>
       </div>
     </section>
 
@@ -987,7 +1029,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {
