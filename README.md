@@ -54,7 +54,9 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 extreme weather, the cocktail/distillery scene,
                                 broadcasting history, and dedicated pages for
                                 Scarborough, Etobicoke, North York, Mississauga,
-                                Brampton and Vaughan, plus a guide/index.html hub
+                                Brampton, Vaughan, York, East York, Markham,
+                                Oakville, Durham Region/Oshawa and Richmond Hill,
+                                plus a guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles

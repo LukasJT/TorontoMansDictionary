@@ -91,6 +91,16 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/durham-region.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/east-york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/economy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -171,6 +181,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/markham.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/media.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -211,6 +226,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/oakville.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ontario-place.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -232,6 +252,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/religion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/richmond-hill.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -277,6 +302,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/weather.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/york.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
