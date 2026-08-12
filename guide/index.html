@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 133 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 139 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -747,6 +747,48 @@
           <p>Founded in 1803 on the site of Toronto&#x27;s original town hall, St. Lawrence Market was named the world&#x27;s best food market by National Geographic in 2012 — and farmers have been setting up in its North Market building every Saturday for more than 200 years.</p>
         </div>
       </a>
+      <a class="guide-card" href="peameal-bacon-sandwich.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Peameal_bacon_sandwich.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Peameal Bacon Sandwich</h2>
+          <p>Cured pork loin, grilled and stacked on a soft roll — the peameal bacon sandwich traces straight back to a 19th-century Toronto meatpacking empire that helped give the city its &quot;Hogtown&quot; nickname.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="toronto-pizza-scene.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_(2012).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto&#x27;s Pizza History</h2>
+          <p>Toronto&#x27;s pizza story runs through two distinct threads: the city&#x27;s first pizzeria, opened by an Italian immigrant family with a New York connection, and the founding of one of Canada&#x27;s biggest pizza chains.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="little-portugal-bakeries.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_(2012).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Little Portugal&#x27;s Bakeries</h2>
+          <p>Family bakeries along Dundas Street West, anchored around custard tarts and Portuguese pastries, trace back to waves of Portuguese immigrants who reshaped this stretch of the city starting in the 1950s.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="jamaican-patty-toronto.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Jamaican_patties_and_redstripe.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Jamaican Patty in Toronto</h2>
+          <p>A flaky, curry-yellow pastry that arrived with Caribbean immigration became one of Toronto&#x27;s most ordinary foods — ordinary enough that a 1985 regulatory fight over its name became a genuine national story.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="tim-hortons-toronto.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Hortons_on_Yonge_between_Dundas_and_Shuter,_Toronto_-a.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Tim Hortons</h2>
+          <p>Tim Horton won four Stanley Cups as a Toronto Maple Leaf. The coffee-and-donut chain that carries his name wasn&#x27;t founded in Toronto at all — it opened in Hamilton, 65 kilometres away.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="chinese-food-dim-sum.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Chinatown_toronto_spadina_avenue.JPG')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto&#x27;s Chinese Food and Dim Sum Scene</h2>
+          <p>Toronto&#x27;s Chinese food geography shifted dramatically over a century — from a displaced downtown Chinatown to Spadina Avenue, and later to a wave of suburban banquet halls that made Markham a Chinese-food destination in its own right.</p>
+        </div>
+      </a>
       </div>
     </section>
     <section id="arts-media-culture" class="guide-category">
@@ -1113,7 +1155,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {

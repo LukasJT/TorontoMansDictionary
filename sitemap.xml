@@ -136,6 +136,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/chinese-food-dim-sum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/chinese-head-tax.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -331,6 +336,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/jamaican-patty-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/kensington-market.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -362,6 +372,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/literary-scene.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/little-portugal-bakeries.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -472,6 +487,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/path.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/peameal-bacon-sandwich.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -611,6 +631,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/tim-hortons-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-harbour.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -622,6 +647,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-islands-ferry.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-pizza-scene.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
