@@ -36,6 +36,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/trivia-quiz.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/airports.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -47,6 +52,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/architecture.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/argonauts-grey-cup.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -72,6 +82,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/blue-jays-1992.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/blue-jays-founding.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -177,6 +192,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/etobicoke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/exhibition-place.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -317,6 +337,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/multiculturalism.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/nathan-phillips-square.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -496,6 +521,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-hydro.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-islands-ferry.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -542,6 +572,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/winter-festivals.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/woodbine-racetrack.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

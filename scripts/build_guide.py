@@ -15,6 +15,8 @@ guide/*.html into the sitemap if this has been run at least once).
 """
 import html
 import json
+import random
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -2580,7 +2582,189 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "nathan-phillips-square",
+        "title": "Nathan Phillips Square: 500 Design Entries for One City Hall",
+        "kicker": "Canada's largest city square",
+        "h1": "Nathan Phillips Square",
+        "dek": "An international design competition drew more than 500 entries before a Finnish architect none of the judges had met in person won the commission for Toronto's modern City Hall and the square in front of it.",
+        "meta_desc": "The history of Nathan Phillips Square: the 1958 international design competition won by Finnish architect Viljo Revell, the Freedom Arches, and Canada's largest city square.",
+        "keywords": "Nathan Phillips Square history, Viljo Revell Toronto City Hall, Freedom Arches Toronto, Toronto City Hall design competition",
+        "hero_img": "Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg",
+        "hero_alt": "Nathan Phillips Square and Toronto City Hall",
+        "hero_credit": "Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Our <a href="government.html">city government guide</a> covers what happens inside Toronto City Hall. The square in front of it has its own story — one of the most genuinely competitive architecture contests Canada has ever run.</p>'),
+            ("A worldwide design competition (1958)", '<p>Toronto launched an international design competition in 1958 for a new City Hall and public square, drawing more than 500 submissions from architects around the world — a remarkable response for a mid-sized Canadian city at the time. Finnish architect <strong>Viljo Revell</strong> won, with landscape architect Richard Strong shaping the square itself. Construction ran from 1961 to 1965, and the square takes its name from Nathan Phillips, Toronto\'s mayor from 1955 to 1962, who championed the project.</p>'),
+            ("The Freedom Arches", '<p>Three concrete arches span the square\'s reflecting pool — originally built as a purely structural and lighting feature, they were formally dedicated as the <strong>Freedom Arches</strong> in 1989, honouring people who fought to win or defend freedom. A fragment of the Berlin Wall sits at the base of the central arch, placed there not long after the wall itself came down.</p>'),
+            ("Canada\'s largest city square", '<p>At 4.85 hectares, Nathan Phillips Square is the largest civic square in the country, drawing an estimated 1.5 million visitors a year for everything from the winter skating rink covered in our <a href="government.html">government guide</a> to protests, concerts and the <a href="winter-festivals.html">Cavalcade of Lights</a> tree lighting. A major PLANT Architect-led revitalization, won through another international competition in 2007, modernized the square while preserving Revell\'s original design intent.</p>'),
+        ],
+        "sources": [
+            ("Wikipedia — Nathan Phillips Square", "https://en.wikipedia.org/wiki/Nathan_Phillips_Square"),
+            ("The Cultural Landscape Foundation — Nathan Phillips Square", "https://www.tclf.org/landscapes/nathan-phillips-square"),
+            ("Toronto Journey 416 — Toronto City Hall", "https://www.torontojourney416.com/new-city-hall/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "woodbine-racetrack",
+        "title": "Woodbine Racetrack & the Oldest Continuously Run Race in North America",
+        "kicker": "Founded 1860, still running every year since",
+        "h1": "Woodbine Racetrack",
+        "dek": "Home to the Queen's Plate — North America's oldest continuously run horse race, going back to 1860 — Woodbine Racetrack in Etobicoke was built as part of a deliberate 1950s plan to consolidate Toronto-area horse racing into one world-class venue.",
+        "meta_desc": "The history of Woodbine Racetrack in Etobicoke: its 1956 opening, the Queen's Plate (North America's oldest continuously run horse race, since 1860), and E.P. Taylor's consolidation plan.",
+        "keywords": "Woodbine Racetrack history, Queen's Plate history, oldest horse race North America, E.P. Taylor Ontario Jockey Club, Etobicoke horse racing",
+        "hero_img": "Woodbine_Racetrack.jpg",
+        "hero_alt": "Woodbine Racetrack in Etobicoke, Toronto",
+        "hero_credit": "Woodbine Racetrack — Wikimedia Commons, CC BY-SA 4.0",
+        "sections": [
+            (None, '<p>Our <a href="etobicoke.html">Etobicoke guide</a> mentions Woodbine Racetrack in passing. It deserves more — it\'s home to the oldest continuously run horse race anywhere in North America.</p>'),
+            ("A deliberate consolidation plan", '<p>Toronto-area horse racing traces back to the Ontario Jockey Club, formed in 1881. In 1947, newly appointed OJC director <strong>Edward Plunket "E.P." Taylor</strong> set out to bring the region\'s scattered racing up to the standard of North America\'s best tracks — buying up several smaller local tracks (Hamilton, Thorncliffe, Long Branch, Dufferin and Stamford) and consolidating their racing charters into just three venues: Fort Erie, Greenwood, and a brand-new Woodbine.</p>'),
+            ("The new Woodbine opens (1956)", '<p>The new 780-acre Woodbine Racetrack opened in 1956 in Etobicoke, with a one-mile dirt track and a seven-eighths-mile turf course — a genuine step up in scale and standard from the older, scattered venues it replaced.</p>'),
+            ("The Queen\'s Plate: older than Canada itself", '<p>Woodbine hosts the <strong>Queen\'s Plate</strong> (known at various points as the King\'s Plate depending on the reigning monarch), Canada\'s oldest thoroughbred horse race and the oldest continuously run horse race anywhere in North America — first run in 1860, seven years before Confederation. The race moved to the new Woodbine track in 1956 and has run there ever since. In 1994, Woodbine became the first North American track to run Thoroughbred racing by day and Standardbred (harness) racing by night on the same property.</p>'),
+        ],
+        "sources": [
+            ("Woodbine Racetrack — Our History", "https://woodbine.com/our-history/"),
+            ("Wikipedia — Woodbine Racetrack", "https://en.wikipedia.org/wiki/Woodbine_Racetrack"),
+            ("Etobicoke Historical Society — Woodbine Race Track", "https://www.etobicokehistorical.com/woodbine-race-track.html"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "argonauts-grey-cup",
+        "title": "The Toronto Argonauts: North America's Oldest Pro Sports Team Still Using Its Name",
+        "kicker": "Started as a rowing club side project in 1873",
+        "h1": "The Toronto Argonauts",
+        "dek": "The Argonauts football club began as an offshoot of a rowing club — which is why a Canadian football team ended up with a name that has nothing to do with football.",
+        "meta_desc": "The history of the Toronto Argonauts: their 1873 founding out of the Argonaut Rowing Club, their record 19 Grey Cup championships, and their status as North America's oldest pro sports team using its original name.",
+        "keywords": "Toronto Argonauts history, Argonauts founded 1873, Grey Cup wins record, oldest professional sports team North America",
+        "hero_img": "Bmo_field_(8820851518).jpg",
+        "hero_alt": "BMO Field, home of the Toronto Argonauts",
+        "hero_credit": "BMO Field, Toronto — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Our <a href="sports.html">sports culture guide</a> covers the Argonauts as one of Toronto\'s five major pro teams. Their actual founding story explains an odd fact hiding in plain sight: why a football team is named after Greek mythological sailors.</p>'),
+            ("A rowing club\'s football side (1873)", '<p>The Toronto Argonauts Football Club started in 1873 as part of the <strong>Argonaut Rowing Club</strong>, founded the year before by Toronto resident Harry O\'Brien — the football side was essentially a winter activity for a summer rowing club\'s members. It played its first game, against what\'s now the Hamilton Tiger-Cats, on October 4, 1873.</p>'),
+            ("One of the oldest teams in North America", '<p>That 1873 founding makes the Argonauts the oldest professional sports team in North America still competing under its original name — trailing only MLB\'s Chicago Cubs (1870) and Atlanta Braves (1871) in continuous existence among all major pro sports franchises on the continent.</p>'),
+            ("The most Grey Cups of any team", '<p>The Argonauts have won 19 Grey Cup championships, more than any other team in Canadian football history, across 25 total Grey Cup appearances. They now play at <strong>BMO Field</strong>, the same stadium covered in our <a href="sports.html">sports guide</a> as Toronto FC\'s home — two very different sports sharing one Exhibition Place venue.</p>'),
+        ],
+        "sources": [
+            ("The Canadian Encyclopedia — Toronto Argonauts", "https://www.thecanadianencyclopedia.ca/en/article/toronto-argonauts"),
+            ("Wikipedia — Toronto Argonauts", "https://en.wikipedia.org/wiki/Toronto_Argonauts"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "toronto-hydro",
+        "title": "Toronto Hydro: When Toronto Turned On the World's First Public Power Grid",
+        "kicker": "A mayor pushed a button in 1911, and it stuck",
+        "h1": "Toronto Hydro",
+        "dek": "Before 1911, electricity in Ontario was a private, for-profit business. A London, Ontario mayor named Adam Beck changed that — and Toronto Hydro grew out of what became the world's first publicly owned power authority.",
+        "meta_desc": "The history of Toronto Hydro: Sir Adam Beck's creation of the world's first publicly owned power authority in Ontario, and Toronto Hydro's 1911 launch as its municipal distribution arm.",
+        "keywords": "Toronto Hydro history, Adam Beck Ontario Hydro, public power Ontario history, Toronto Hydro 1911",
+        "hero_img": "Manhole_cover_reading_Toronto_Hydro_Electric_System,_Toronto,_Ontario,_2025-08-25.jpg",
+        "hero_alt": "A Toronto Hydro Electric System manhole cover",
+        "hero_credit": "Toronto Hydro Electric System manhole cover — Wikimedia Commons, CC BY-SA 4.0",
+        "sections": [
+            (None, '<p>Toronto\'s electricity supply runs through an institution with a genuinely significant claim behind it: an early 20th-century experiment in public ownership that became a model copied well beyond Ontario.</p>'),
+            ("Adam Beck\'s public power crusade", '<p>Around the turn of the 20th century, electricity in Ontario was supplied privately, for profit — and a growing group of Ontario citizens, led by London, Ontario mayor <strong>Adam Beck</strong>, argued that shouldn\'t be the case for a resource as fundamental as power from Niagara Falls. Premier James Whitney agreed, declaring in 1905 that "the waterpowers of Niagara Falls should be as free as air," and in 1906 the Ontario legislature created the <strong>Hydro-Electric Power Commission of Ontario</strong> under Beck\'s leadership — the world\'s first publicly owned power authority.</p>'),
+            ("Toronto turns it on (1911)", '<p>On May 2, 1911, Beck personally pushed a ceremonial button to officially launch publicly owned electricity distribution through the new <strong>Toronto Hydro-Electric System</strong> — the beginning of what grew into the largest municipal electricity distributor in Canada. Beck was knighted in 1914 for his role electrifying the province.</p>'),
+            ("A model that spread", '<p>Ontario\'s public-power model, radical for its time, influenced electricity policy well beyond the province — and Toronto Hydro remains a publicly owned utility today, more than a century after that first ceremonial button push, still delivering power across the same city whose growth it helped make possible.</p>'),
+        ],
+        "sources": [
+            ("City of Toronto — Turning on Toronto: A History of Toronto Hydro", "https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-local-government/turning-on-toronto-a-history-of-toronto-hydro/"),
+            ("The Canadian Encyclopedia — Adam Beck and the Creation of Ontario Hydro", "https://www.thecanadianencyclopedia.ca/en/article/adam-beck-and-the-creation-of-ontario-hydro-feature"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "blue-jays-founding",
+        "title": "How the Blue Jays Got Their Name (and Survived Their First Game)",
+        "kicker": "44,649 fans, snow, freezing temperatures, opening day 1977",
+        "h1": "How the Blue Jays Got Their Name",
+        "dek": "Toronto's baseball team was awarded to a group that included CIBC and Labatt Breweries in 1976 — and the winning name from a 30,000-entry contest owed at least as much to a beer brand as to the bird.",
+        "meta_desc": "The founding story of the Toronto Blue Jays: the 1976 American League expansion, the name-the-team contest, and their snowy home-opener win over the Chicago White Sox in 1977.",
+        "keywords": "Toronto Blue Jays founded 1976, Blue Jays name origin, Blue Jays first game 1977, Exhibition Stadium Blue Jays",
+        "hero_img": "Rogers_Centre,_Toronto,_Ontario_(21652480228).jpg",
+        "hero_alt": "Rogers Centre, home of the Toronto Blue Jays",
+        "hero_credit": "Rogers Centre — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Our <a href="blue-jays-1992.html">Blue Jays World Series guide</a> covers the team\'s greatest moment. This page is about how the franchise actually came to exist in the first place — including a name that\'s more about beer than birds.</p>'),
+            ("Awarded to a Toronto-Canadian ownership group (1976)", '<p>In March 1976, the American League voted to expand into Toronto (alongside Seattle), awarding the new franchise to a group made up of Imperial Trust Ltd., the <a href="banks.html">Canadian Imperial Bank of Commerce</a> and Labatt Breweries.</p>'),
+            ("A name-the-team contest, won by a beer brand", '<p>A public contest to name the new team drew more than 30,000 entries. The winning choice, <strong>Blue Jays</strong>, fit Toronto\'s established tradition of blue team colours — but it also wasn\'t a coincidence that majority owner Labatt Breweries\' flagship beer was called Labatt Blue, a detail that shaped the decision as much as the actual bird did.</p>'),
+            ("A freezing, snowy opening day", '<p>The Blue Jays played their first-ever game on April 7, 1977, at Exhibition Stadium, beating the Chicago White Sox 9–5 in front of 44,649 fans who showed up despite snow and freezing temperatures — a genuinely rough opening day that still counts as one of the more memorably absurd home openers in MLB history. Exhibition Stadium remained the team\'s home until it moved to <a href="rogers-centre.html">SkyDome</a> in 1989.</p>'),
+        ],
+        "sources": [
+            ("The Canadian Encyclopedia — Toronto Blue Jays", "https://thecanadianencyclopedia.ca/en/article/toronto-blue-jays"),
+            ("Wikipedia — History of the Toronto Blue Jays", "https://en.wikipedia.org/wiki/History_of_the_Toronto_Blue_Jays"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "exhibition-place",
+        "title": "Exhibition Place: The 197-Acre Grounds Behind the CNE",
+        "kicker": "Cleared for the military, kept for everything since",
+        "h1": "Exhibition Place",
+        "dek": "Our CNE guide covers the annual fair itself. The 197-acre grounds it happens on host BMO Field, the Argonauts, Caribana, and a genuine architectural time capsule spanning more than a century of exhibition buildings.",
+        "meta_desc": "The history of Exhibition Place, the 197-acre Toronto waterfront grounds hosting the CNE, BMO Field, the Coca-Cola Coliseum, and the Direct Energy/Enercare Centre.",
+        "keywords": "Exhibition Place Toronto history, CNE grounds, Direct Energy Centre history, Exhibition Place buildings",
+        "hero_img": "Coca-Cola_Coliseum,_Exhibition_Place,_Toronto,_Ontario_(29901775271).jpg",
+        "hero_alt": "The Coca-Cola Coliseum at Exhibition Place in Toronto",
+        "hero_credit": "Coca-Cola Coliseum, Exhibition Place — Wikimedia Commons, CC BY-SA 2.0",
+        "sections": [
+            (None, '<p>Our <a href="cne.html">CNE guide</a> covers the annual fair. This page is about the 197-acre grounds it happens on — land that\'s hosted a lot more than one event a year since it was first cleared.</p>'),
+            ("From military land to exhibition grounds", '<p>The waterfront site now known as <strong>Exhibition Place</strong> was originally forested land cleared for military purposes, gradually repurposed for exhibitions through the 19th century. It\'s been home to the CNE since 1904, but the 197-acre grounds have carried far more than one annual fair — everything from the Molson Indy to the <a href="festivals.html">Caribana parade</a> and the CHIN Picnic has used the site over the decades.</p>'),
+            ("A century of exhibition architecture in one place", '<p>The grounds function as a genuine architectural timeline: heritage structures like the Horticulture Building and Automotive Building sit alongside newer additions like the <strong>Coca-Cola Coliseum</strong> (originally Ricoh Coliseum) and the <strong>Direct Energy Centre</strong> — completed in 1997 as the National Trade Centre, later renamed under a sponsorship deal, and now known as the Enercare Centre after a 2014 ownership change.</p>'),
+            ("What\'s there today", '<p>Beyond the CNE itself, Exhibition Place is now year-round infrastructure for the city — <a href="argonauts-grey-cup.html">BMO Field</a>, home to both the Argonauts and Toronto FC, sits on the same grounds, alongside convention and trade-show space that keeps the site in near-constant use well outside the CNE\'s late-summer run.</p>'),
+        ],
+        "sources": [
+            ("Wikipedia — Exhibition Place", "https://en.wikipedia.org/wiki/Exhibition_Place"),
+            ("Toronto Journey 416 — CNE & Exhibition Place: Past & Present", "https://www.torontojourney416.com/exhibition-place/"),
+        ],
+        "related_words": [],
+    },
 ]
+
+
+INLINE_LINK_RE = re.compile(r'href="([a-z0-9-]+)\.html"')
+
+
+def continue_reading_cards(slug, body_html, all_pages):
+    """Turn the hand-curated inline cross-links already inside a page's own
+    prose into a 'Continue Reading' card grid, instead of hand-authoring a
+    separate related-pages list per page (103 pages x manual curation isn't
+    sustainable — the links already exist in the text)."""
+    by_slug = {p["slug"]: p for p in all_pages}
+    seen = []
+    for match in INLINE_LINK_RE.finditer(body_html):
+        found = match.group(1)
+        if found == slug or found not in by_slug or found in seen:
+            continue
+        seen.append(found)
+    if len(seen) < 4:
+        # Pages without much inline cross-linking still deserve varied
+        # suggestions rather than always the same first few pages in list
+        # order — shuffle deterministically per-slug so it's stable across
+        # rebuilds but different from page to page.
+        rest = [p["slug"] for p in all_pages if p["slug"] != slug and p["slug"] not in seen]
+        random.Random(slug).shuffle(rest)
+        seen.extend(rest[: 4 - len(seen)])
+    picks = [by_slug[s] for s in seen[:6]]
+    cards = "\n".join(
+        f'''        <a class="guide-card" href="{esc(p["slug"])}.html">
+          <div class="guide-card-img" style="background-image:url('{commons(p["hero_img"])}')"></div>
+          <div class="guide-card-body">
+            <h3>{esc(p["h1"])}</h3>
+            <p>{esc(p["dek"][:110].rsplit(" ", 1)[0])}…</p>
+          </div>
+        </a>'''
+        for p in picks
+    )
+    return f'''<section class="continue-reading">
+        <h2>Continue reading</h2>
+        <div class="guide-grid">
+{cards}
+        </div>
+      </section>'''
 
 
 def build_page(page, all_pages):
@@ -2603,11 +2787,7 @@ def build_page(page, all_pages):
       <h2>Related dictionary terms</h2>
       <div class="chip-row">{links}</div>'''
 
-    other_pages = [p for p in all_pages if p["slug"] != slug]
-    other_links = "\n".join(
-        f'          <li><a href="{esc(p["slug"])}.html">{esc(p["h1"])}</a> — {esc(p["dek"][:80].rsplit(" ", 1)[0])}…</li>'
-        for p in other_pages
-    )
+    continue_reading_html = continue_reading_cards(slug, body_html, all_pages)
 
     title = f"{page['title']} | Toronto Mans Dictionary"
 
@@ -2679,6 +2859,7 @@ def build_page(page, all_pages):
       <a href="../index.html#browse">Browse</a>
       <a href="../wordle.html">Torontle</a>
       <a href="../quiz.html">Quiz</a>
+      <a href="../trivia-quiz.html">Trivia</a>
       <a href="../history.html">Slang History</a>
       <a href="index.html" class="active">Guide</a>
       <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
@@ -2714,12 +2895,10 @@ def build_page(page, all_pages):
       </ul>
       {related_html}
 
-      <h2>More in the Toronto Guide</h2>
-      <ul class="related-list">
-{other_links}
-      </ul>
+      {continue_reading_html}
 
       <div class="article-cta">
+        <a class="btn-ghost" href="index.html">Browse all Toronto Guide topics →</a>
         <a class="btn-ghost" href="../index.html#browse">Browse the slang dictionary →</a>
         <a class="btn-ghost" href="../history.html">Read the history of Toronto slang →</a>
       </div>
@@ -2733,6 +2912,7 @@ def build_page(page, all_pages):
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
       <a href="../quiz.html">Quiz</a>
+      <a href="../trivia-quiz.html">Trivia</a>
       <a href="../history.html">Slang History</a>
       <a href="../faq.html">FAQ</a>
       <a href="../all-words.html">All Words</a>
@@ -2828,6 +3008,7 @@ def build_hub(all_pages):
       <a href="../index.html#browse">Browse</a>
       <a href="../wordle.html">Torontle</a>
       <a href="../quiz.html">Quiz</a>
+      <a href="../trivia-quiz.html">Trivia</a>
       <a href="../history.html">Slang History</a>
       <a href="index.html" class="active">Guide</a>
       <button type="button" class="btn-ghost" data-open-submit-modal>Submit a term</button>
@@ -2867,6 +3048,7 @@ def build_hub(all_pages):
       <a href="../index.html">Dictionary</a>
       <a href="../wordle.html">Torontle</a>
       <a href="../quiz.html">Quiz</a>
+      <a href="../trivia-quiz.html">Trivia</a>
       <a href="../history.html">Slang History</a>
       <a href="../faq.html">FAQ</a>
       <a href="../all-words.html">All Words</a>

@@ -32,6 +32,10 @@ npx serve .
 index.html            Dictionary page — term cards are pre-rendered static HTML
 wordle.html            Torontle, the Wordle clone
 quiz.html               Toronto Slang Quiz (multiple choice, built from terms.json)
+trivia-quiz.html          Toronto Trivia Quiz (multiple choice, general-knowledge
+                          questions pulled from guide/*.html — history, sports,
+                          infrastructure, culture; hardcoded question bank in
+                          js/trivia-quiz.js since it isn't derived from terms.json)
 history.html             The History of Toronto Slang (long-form article)
 faq.html                  Toronto Slang FAQ (FAQPage structured data)
 neighbourhoods.html        Toronto Slang By Neighbourhood (long-form article)
@@ -39,43 +43,15 @@ all-words.html              Flat A-Z link list of every word page
 words/<slug>.html            One standalone static page per term (own title/meta/
                               JSON-LD, expanded write-up, sources, related words)
 categories/<cat>.html         One hub page per slang category
-guide/*.html                   General Toronto content, not slang-specific: history,
-                                Indigenous history, neighbourhoods, landmarks, food,
-                                sports, festivals, multiculturalism, transit, parks,
-                                media, economy, education, nicknames, weather,
-                                architecture, art, waterfront, LGBTQ+ history,
-                                medical history, tech scene, the public library,
-                                housing costs, the CNE, famous Torontonians,
-                                airports, city government, the comedy scene, the
-                                zoo/science centre, craft beer, safety/crime stats,
-                                ethnic enclaves, the ravine system, newspapers,
-                                cycling, religious diversity, coffee culture,
-                                Union Station, GO Transit, Ontario Place, historic
-                                extreme weather, the cocktail/distillery scene,
-                                broadcasting history, and dedicated pages for
-                                Scarborough, Etobicoke, North York, Mississauga,
-                                Brampton, Vaughan, York, East York, Markham,
-                                Oakville, Durham Region/Oshawa, Richmond Hill,
-                                Ajax, Whitby, Pickering, Burlington, Milton and
-                                Newmarket, plus St. Lawrence Market, the Bloor
-                                Viaduct, the Toronto Island ferries, performing
-                                arts, the video game industry, homelessness, the
-                                R.C. Harris Water Treatment Plant, historic
-                                cemeteries, shopping malls, the 2003 SARS
-                                outbreak, OCAD University, winter festivals, Casa
-                                Loma, the ROM, the Avro Arrow, the Gardiner/DVP,
-                                Queen's Park, board game cafés, the CN Tower,
-                                Rogers Centre/SkyDome, Kensington Market, the
-                                literary scene, the PATH, High Park, Massey Hall,
-                                the Group of Seven, Osgoode Hall, the Junction,
-                                Toronto Harbour, the railways that built the
-                                city, the LCBO, TIFF Bell Lightbox, the Big Five
-                                banks, the 2019 Raptors championship, Sunnybrook/
-                                Mount Sinai hospitals, TTC subway art, Eaton's &
-                                Simpson's, Rogers Communications, the Blue Jays'
-                                1992-93 World Series, the Maple Leafs' 1967 Cup,
-                                the PRESTO card, and the Chinese head tax, plus a
-                                guide/index.html hub
+guide/*.html                   General Toronto content, not slang-specific — over
+                                100 articles spanning history (pre-colonial through
+                                today), every GTA suburb and former municipality,
+                                government, infrastructure, sports championships,
+                                business history, arts and culture. Browse the full
+                                list at guide/index.html rather than here — it grows
+                                too often to keep enumerated in this README. Every
+                                article ends with a "Continue reading" section
+                                (see below) linking to related articles.
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
@@ -84,7 +60,8 @@ css/article.css                Shared styles for history/faq/neighbourhoods/word
 css/guide.css                   Toronto Guide-specific styles
 js/app.js                    Dictionary search/filter/sort/vote — enhances static HTML, no fetch
 js/wordle.js                  Torontle game logic
-js/quiz.js                     Quiz logic
+js/quiz.js                     Slang quiz logic (fetches terms.json)
+js/trivia-quiz.js               Trivia quiz logic (hardcoded question bank)
 js/ads.js                       House-ad rotation + unfilled-ad-slot fallback
 js/submit-modal.js               "Submit a term" modal (mailto, no backend)
 data/terms.json                  The dictionary itself — one JSON object per term
@@ -93,7 +70,13 @@ scripts/build.py                  Regenerates index.html's cards, words/*.html,
                                    from terms.json
 scripts/build_guide.py             Regenerates guide/*.html from hand-authored prose
                                     (not derived from terms.json — real, separate
-                                    content about the city itself)
+                                    content about the city itself). Also auto-builds
+                                    each page's "Continue reading" card grid by
+                                    extracting the internal links already written
+                                    into that page's own prose (falls back to a
+                                    per-page-deterministic shuffle of other guide
+                                    pages if a page doesn't have enough inline links)
+                                    — see continue_reading_cards() in that file.
 robots.txt / sitemap.xml      Basic technical SEO
 SOURCES.md                    Research sources + photo credits + how to extend
 ```

@@ -37,23 +37,31 @@
   border-radius: var(--radius-lg);
   overflow: hidden;
   color: var(--text);
+  transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
 }
 .guide-card:hover {
   border-color: var(--red);
   text-decoration: none;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px -12px rgba(0, 0, 0, 0.45);
 }
 
 .guide-card-img {
   height: 140px;
   background-size: cover;
   background-position: center;
+  transition: transform 0.35s ease;
+}
+.guide-card:hover .guide-card-img {
+  transform: scale(1.05);
 }
 
 .guide-card-body {
   padding: 16px 18px;
 }
 
-.guide-card-body h2 {
+.guide-card-body h2,
+.guide-card-body h3 {
   margin: 0 0 8px;
   font-size: 1.05rem;
 }
@@ -63,6 +71,20 @@
   color: var(--text-dim);
   font-size: 0.86rem;
   line-height: 1.5;
+}
+
+.continue-reading {
+  margin: 40px 0 8px;
+  padding-top: 28px;
+  border-top: 1px solid var(--card-border);
+}
+
+.continue-reading h2 {
+  margin-bottom: 4px;
+}
+
+.continue-reading .guide-grid {
+  margin-top: 16px;
 }
 
 @media (max-width: 480px) {

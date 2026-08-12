@@ -130,11 +130,35 @@ a:hover { text-decoration: underline; }
   font-family: inherit;
   font-size: 0.92rem;
   cursor: pointer;
-  transition: border-color 0.15s ease, background 0.15s ease;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
 }
 .btn-ghost:hover {
   border-color: var(--red);
   background: rgba(224, 38, 63, 0.08);
+  transform: translateY(-1px);
+}
+.btn-ghost:active {
+  transform: translateY(0);
+}
+
+.header-nav a {
+  position: relative;
+  padding-bottom: 2px;
+}
+.header-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 100%;
+  bottom: -2px;
+  height: 2px;
+  background: var(--red);
+  border-radius: 2px;
+  transition: right 0.2s ease;
+}
+.header-nav a:hover::after,
+.header-nav a.active::after {
+  right: 0;
 }
 
 .header-nav a.active {
@@ -521,10 +545,13 @@ a:hover { text-decoration: underline; }
   border: 1px solid var(--card-border);
   border-radius: var(--radius);
   overflow: hidden;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-.term-card:hover { border-color: #3a3d45; }
+.term-card:hover {
+  border-color: #3a3d45;
+  box-shadow: 0 6px 18px -10px rgba(0, 0, 0, 0.5);
+}
 
 .term-card-header {
   width: 100%;
