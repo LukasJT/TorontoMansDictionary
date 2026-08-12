@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 163 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 169 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -379,6 +379,48 @@
         <div class="guide-card-body">
           <h2>Regent Park</h2>
           <p>Built starting in 1947 on land planners called one of Toronto&#x27;s worst slums, Regent Park was Canada&#x27;s first slum-clearance public housing project — and since 2005 it&#x27;s been rebuilt again as a mixed-income neighbourhood.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="halton-hills.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Georgetown_Mill_(4018302734)_(cropped).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Halton Hills</h2>
+          <p>Georgetown grew up around a papermaking empire that ran for 130 years; Acton became a regional leather-tanning centre. In 1974 the two, plus surrounding farmland, were merged into one town.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="aurora.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Aurora,_Ontario_(18545289314).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Aurora</h2>
+          <p>A single storefront at Yonge and Wellington grew into a crossroads hamlet called Machell&#x27;s Corners — until a postmaster renamed it for the goddess of the dawn, and a railway turned it into a real town.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="king-township.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Eaton_Hall_King_City.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>King Township</h2>
+          <p>Unlike its fast-urbanizing York Region neighbours, King Township deliberately stayed rural — protected by the Oak Ridges Moraine and the Greenbelt, and built its modern identity around country estates and equestrian farms.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="uxbridge.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Uxbridge_downtown.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Uxbridge</h2>
+          <p>Quaker settlers built Uxbridge&#x27;s first mill in 1808. Two centuries later, the town has rebranded around a network of over 200 kilometres of trails through the Oak Ridges Moraine.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="caledon.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Cheltenham_Badlands,_Caledon_Hills,_Ontario,_Canada._(7097453311).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Caledon</h2>
+          <p>More than any other GTA municipality, Caledon&#x27;s identity is inseparable from its landscape — the Niagara Escarpment runs straight through it, and the town has deliberately kept most of its land rural.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="clarington.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Bowmanville_-_King_St.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Clarington</h2>
+          <p>Formed from Clarke and Darlington townships in 1974, Clarington is home to a last-largely-intact WWII POW camp designated a National Historic Site — and the nuclear station that supplies a fifth of Ontario&#x27;s power.</p>
         </div>
       </a>
       </div>
@@ -1323,7 +1365,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca", "halton-hills", "aurora", "king-township", "uxbridge", "caledon", "clarington"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {

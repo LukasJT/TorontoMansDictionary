@@ -71,6 +71,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/aurora.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/avro-arrow.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -136,6 +141,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/caledon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/canadian-music-week.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -167,6 +177,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/chinese-head-tax.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/clarington.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -336,6 +351,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/halton-hills.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/high-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -382,6 +402,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/kensington-market.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/king-township.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -782,6 +807,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/union-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/uxbridge.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
