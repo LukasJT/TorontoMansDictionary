@@ -68,8 +68,11 @@ guide/*.html                   General Toronto content, not slang-specific: hist
                                 Rogers Centre/SkyDome, Kensington Market, the
                                 literary scene, the PATH, High Park, Massey Hall,
                                 the Group of Seven, Osgoode Hall, the Junction,
-                                Toronto Harbour, and the railways that built the
-                                city, plus a guide/index.html hub
+                                Toronto Harbour, the railways that built the
+                                city, the LCBO, TIFF Bell Lightbox, the Big Five
+                                banks, the 2019 Raptors championship, Sunnybrook/
+                                Mount Sinai hospitals, and TTC subway art, plus a
+                                guide/index.html hub
 404.html                     Custom not-found page
 css/style.css               Shared design tokens, header/footer, dictionary, ad blocks
 css/wordle.css               Torontle-specific styles
