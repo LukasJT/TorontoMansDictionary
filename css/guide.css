@@ -47,9 +47,11 @@
 }
 
 .guide-card-img {
+  display: block;
+  width: 100%;
   height: 140px;
-  background-size: cover;
-  background-position: center;
+  object-fit: cover;
+  background: var(--card-border);
   transition: transform 0.35s ease;
 }
 .guide-card:hover .guide-card-img {

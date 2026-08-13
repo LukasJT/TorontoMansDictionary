@@ -8974,7 +8974,7 @@ def continue_reading_cards(slug, body_html, all_pages):
     picks = [by_slug[s] for s in seen[:6]]
     cards = "\n".join(
         f'''        <a class="guide-card" href="{esc(p["slug"])}.html">
-          <div class="guide-card-img" style="background-image:url('{commons(p["hero_img"])}')"></div>
+          <img class="guide-card-img" src="{commons(p["hero_img"])}" alt="{esc(p.get("hero_alt", p["h1"]))}" loading="lazy" decoding="async">
           <div class="guide-card-body">
             <h3>{esc(p["h1"])}</h3>
             <p>{esc(p["dek"][:110].rsplit(" ", 1)[0])}…</p>
@@ -9385,7 +9385,7 @@ SLUG_CATEGORIES = {
 
 def guide_card(p):
     return f'''      <a class="guide-card" href="{esc(p["slug"])}.html">
-        <div class="guide-card-img" style="background-image:url('{commons(p["hero_img"])}')"></div>
+        <img class="guide-card-img" src="{commons(p["hero_img"])}" alt="{esc(p.get("hero_alt", p["h1"]))}" loading="lazy" decoding="async">
         <div class="guide-card-body">
           <h2>{esc(p["h1"])}</h2>
           <p>{esc(p["dek"])}</p>
