@@ -6001,6 +6001,87 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "toronto-zoo",
+        "title": "The Toronto Zoo: A Citizen's Brief That Built Canada's Largest Zoo",
+        "kicker": "From a private proposal in 1963 to 287 hectares in Scarborough",
+        "h1": "The Toronto Zoo",
+        "dek": "A private citizen pitched Metro Toronto's council on a new zoo in 1963. Eleven years later, it opened on Rouge Park land in Scarborough — replacing the century-old Riverdale Zoo downtown.",
+        "meta_desc": "The history of the Toronto Zoo: Hugh Crothers' 1963 proposal, the 1974 opening in Scarborough, and its role as Canada's largest zoo after the closure of the old Riverdale Zoo.",
+        "keywords": "Toronto Zoo history, Metro Toronto Zoo founding, Toronto Zoo Scarborough",
+        "hero_img": "Toronto_zoo_monorail.jpg",
+        "hero_alt": "The monorail at the Toronto Zoo",
+        "hero_credit": "Toronto Zoo — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>In 1963, Hugh Crothers introduced a private citizen\'s brief proposing a new zoo to the Chairman of the Municipality of Metropolitan Toronto, William Allen. Crothers and business partner John Cameron Egan became founding figures of the Metro Toronto Zoological Society, with Crothers serving as its first chairman starting in 1966. Metro Toronto approved a Rouge Park site in Scarborough for the new zoo in 1967.</p>'),
+            ("Replacing the Riverdale Zoo", '<p>The Metropolitan Toronto Zoo opened on August 15, 1974, replacing the much smaller <a href="riverdale-farm.html">Riverdale Zoo</a>, which had operated downtown since 1894 and closed the same year as its animals relocated to the new site. "Metropolitan" was dropped from the name when Toronto\'s municipalities amalgamated in 1998. Encompassing 287 hectares along the Rouge River, the Toronto Zoo is the largest zoo in Canada.</p>'),
+        ],
+        "sources": [
+            ("Toronto Zoo — History", "https://www.torontozoo.com/history"),
+            ("Britannica — Toronto Zoo", "https://www.britannica.com/place/Toronto-Zoo"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "edwards-gardens",
+        "title": "Edwards Gardens: A Businessman's Private Rockery, Given to the City",
+        "kicker": "One of the largest rock gardens in Canada, sold to Metro Toronto for a park",
+        "h1": "Edwards Gardens",
+        "dek": "A Scottish miller's overgrown property became a wealthy businessman's private estate in 1944 — then, a decade later, a public park with one of the largest rockeries in the country.",
+        "meta_desc": "The history of Edwards Gardens in Toronto: Rupert Edwards' 1944 private estate, its 1955 sale to Metro Toronto, and its role as home to the Toronto Botanical Garden.",
+        "keywords": "Edwards Gardens history, Toronto Botanical Garden history, Rupert Edwards estate",
+        "hero_img": "Edwards_Gardens2.JPG",
+        "hero_alt": "Edwards Gardens in Toronto",
+        "hero_credit": "Edwards Gardens, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>The property\'s history began in 1817, when Scottish miller Alexander Milne settled his family and built his business on the site; the land stayed in the Milne family for over a century before falling into disrepair. In 1944, Toronto businessman Rupert Edwards purchased the overgrown property to fulfill his dream of "a place in the country," transforming it into one of the largest rockeries in Canada, complete with a private nine-hole golf course.</p>'),
+            ("From private estate to botanical garden", '<p>Edwards sold the property to the Municipality of Metro Toronto in 1955, and it opened to the public as Edwards Gardens in 1956. The Garden Club of Toronto, which shared facilities at the site from the start, eventually built the Toronto Botanical Garden there — a volunteer-driven charity that opened a series of contemporary themed gardens spanning nearly four acres in 2006, alongside the city-owned public park.</p>'),
+        ],
+        "sources": [
+            ("Toronto Botanical Garden — History", "https://torontobotanicalgarden.ca/about/overview-history/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "guild-park-gardens",
+        "title": "Guild Park and Gardens: A Museum Made From Demolished Buildings",
+        "kicker": "Over 70 architectural fragments rescued from Toronto's wrecking balls",
+        "h1": "Guild Park and Gardens",
+        "dek": "As Toronto tore down its old buildings through the mid-20th century, one collector saved their most striking pieces — columns, arches, facades — and arranged them into an open-air park on the Scarborough Bluffs.",
+        "meta_desc": "The history of Guild Park and Gardens in Scarborough: the Guild Inn artist colony, Spencer Clark's collection of architectural fragments from demolished Toronto buildings, and the park's 1978 creation.",
+        "keywords": "Guild Park and Gardens history, Guild Inn Scarborough, Spencer Clark architectural fragments",
+        "hero_img": "Guild_Park_and_Gardens_(26712913409).jpg",
+        "hero_alt": "Guild Park and Gardens in Scarborough, Toronto",
+        "hero_credit": "Guild Park and Gardens, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Guild Park and Gardens was once part of the Guild Inn, a residence built in 1914 for war hero Colonel Harold C. Bickford, later an arts-and-crafts-style mansion surrounded by 400 acres of garden and woodland. From the 1930s, Spencer Clark and his wife Rosa operated it as the Guild of All Arts, an artist colony atop the <a href="scarborough.html">Scarborough Bluffs</a>.</p>'),
+            ("Rescuing Toronto\'s demolished buildings", '<p>Starting in the 1960s, Spencer Clark began collecting architectural fragments from buildings being demolished across Toronto, arranging them into landscaped gardens on the property. Landmarks preserved this way include a Greek Theatre built from the marble arches of the 1912 Bank of Toronto and the facade of the 1895 Temple Building, once the tallest structure in the British Empire. Metro Toronto and the Government of Ontario bought the property from the Clarks in 1978, converting it into a public park with over 70 sculptures and architectural pieces spread across 36 hectares.</p>'),
+        ],
+        "sources": [
+            ("Wikipedia — Guild Park and Gardens (cross-reference against a primary Toronto source before publishing)", "https://en.wikipedia.org/wiki/Guild_Park_and_Gardens"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "sunnybrook-park",
+        "title": "Sunnybrook Park: A Prize-Winning Farm, Donated in Grief",
+        "kicker": "175 acres given to the city after its owner's death",
+        "h1": "Sunnybrook Park",
+        "dek": "Joseph and Alice Kilgour turned scrubland into a showcase farm with fox hunts and prize cattle. After Joseph's death, Alice gave the entire estate to Toronto.",
+        "meta_desc": "The history of Sunnybrook Park in Toronto: the Kilgour family's private farm estate, and Alice Kilgour's 1928 donation of the land to the City of Toronto.",
+        "keywords": "Sunnybrook Park history, Kilgour family Toronto, Sunnybrook Farm",
+        "hero_img": "Sunnybrook_Park_2023.jpg",
+        "hero_alt": "Sunnybrook Park in Toronto",
+        "hero_credit": "Sunnybrook Park, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Sunnybrook Park was originally a 175-acre private farm and stables known as Sunnybrook Farm, purchased mostly as scrub land in 1909 by Joseph Kilgour, president of the Canada Paper Company, and his wife Alice. The couple transformed it into a showcase estate, raising prize-winning cattle and horses and hosting fox hunts and horse-jumping competitions.</p>'),
+            ("A donation to the city", '<p>After Joseph\'s death, Alice Kilgour donated Sunnybrook Farm to the City of Toronto in 1928, preserving the land as parkland for future generations. The Kilgour barns were preserved and now serve as a public riding school, and a memorial plaque in nearby Wilket Creek Park still marks the family\'s gift.</p>'),
+        ],
+        "sources": [
+            ("North York Historical Society — Sunnybrook Farm", "https://nyhs.ca/sunnybrook-farm/"),
+        ],
+        "related_words": [],
+    },
 ]
 
 
@@ -6364,6 +6445,8 @@ SLUG_CATEGORIES = {
     "ubisoft-toronto": "Business & Economy",
     "scotiabank-arena": "Sports", "roy-thomson-hall": "Arts, Media & Culture",
     "elgin-winter-garden-theatre": "Landmarks & Architecture",
+    "toronto-zoo": "Parks, Nature & Waterfront", "edwards-gardens": "Parks, Nature & Waterfront",
+    "guild-park-gardens": "Parks, Nature & Waterfront", "sunnybrook-park": "Parks, Nature & Waterfront",
 }
 
 

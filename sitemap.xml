@@ -381,6 +381,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/edwards-gardens.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/eglinton-crosstown.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -497,6 +502,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/group-of-seven.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/guild-park-gardens.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1056,6 +1066,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/sunnybrook-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/swansea.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1192,6 +1207,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-ward-structure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-zoo.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
