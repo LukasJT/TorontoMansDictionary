@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 206 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 212 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -812,6 +812,48 @@
         <div class="guide-card-body">
           <h2>TTC Subway Fire &amp; Safety History</h2>
           <p>A fatal 1995 collision on Line 1 remains the single most consequential safety incident in TTC history — reshaping signal technology and operating procedure years after the crash itself.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="line-2-bloor-danforth.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/TTC_PCC_4659,_a_SUBWAY_DANFORTH_car_at_the_Luttrell_Loop,_Toronto,_ON_on_July_3,_1966_(34182476270).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Line 2 (Bloor-Danforth Subway)</h2>
+          <p>When Line 2 opened in 1966, the TTC discontinued the Bloor and Danforth streetcar routes on the very same day — the largest single cutback to Toronto&#x27;s streetcar network since the original Yonge subway opened.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="scarborough-rt.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_(2012).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Scarborough RT</h2>
+          <p>The provincial government pushed the TTC to adopt an experimental, proprietary rail technology as an export showcase. Decades later, the same lack of adopters that made it a poor export made it nearly impossible to keep running.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="streetcar-network.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/A_PCC_streetcar_in_Toronto,_in_1980_-a.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Toronto&#x27;s Streetcar Network</h2>
+          <p>By the 1960s, most North American cities had scrapped their streetcars for buses. Toronto didn&#x27;t — making the TTC the largest streetcar operator on the continent, almost by process of elimination.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="eglinton-crosstown.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_skyline_(2012).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>The Eglinton Crosstown LRT</h2>
+          <p>Construction began in 2011 on a line originally slated to open in 2020. It finally opened to riders in February 2026, after costs rose well beyond the original budget.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="up-express.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/UP_Express_at_Weston_P6143108.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>UP Express</h2>
+          <p>The Union Pearson Express opened in 2015 as one of the most expensive airport rail links in North America — and it showed, in ridership numbers that fell for months until Metrolinx slashed the fare in 2016.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="bike-share-toronto.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/TD_Bike_Share_Toronto_at_Carlton_and_Sherbourne.JPG')"></div>
+        <div class="guide-card-body">
+          <h2>Bike Share Toronto</h2>
+          <p>Toronto&#x27;s bike-share system nearly died in 2013 when its Montreal-based operator couldn&#x27;t repay a city loan. The Toronto Parking Authority took it over instead of shutting it down — and it&#x27;s grown every year since.</p>
         </div>
       </a>
       </div>
@@ -1624,7 +1666,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca", "halton-hills", "aurora", "king-township", "uxbridge", "caledon", "clarington", "marshall-mcluhan", "northrop-frye", "margaret-atwood", "norman-jewison", "michael-ondaatje", "ej-pratt", "hudsons-bay-company", "canadian-tire", "shoppers-drug-mart", "loblaws-history", "toronto-big-five-banks", "bombardier-toronto", "magna-international", "fort-york", "spadina-museum", "colborne-lodge", "mackenzie-house", "campbell-house", "todmorden-mills", "black-creek-pioneer-village", "gibson-house", "toronto-arenas-1917", "conn-smythe", "maple-leaf-gardens", "toronto-fc-founding", "toronto-rock-lacrosse", "toronto-marlies", "canada-cup-1976", "vince-carter-raptors", "tiff-festival-history", "hot-docs-festival", "luminato-festival", "nuit-blanche-toronto", "harbourfront-centre", "design-exchange", "gardiner-museum", "bata-shoe-museum"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca", "halton-hills", "aurora", "king-township", "uxbridge", "caledon", "clarington", "marshall-mcluhan", "northrop-frye", "margaret-atwood", "norman-jewison", "michael-ondaatje", "ej-pratt", "hudsons-bay-company", "canadian-tire", "shoppers-drug-mart", "loblaws-history", "toronto-big-five-banks", "bombardier-toronto", "magna-international", "fort-york", "spadina-museum", "colborne-lodge", "mackenzie-house", "campbell-house", "todmorden-mills", "black-creek-pioneer-village", "gibson-house", "toronto-arenas-1917", "conn-smythe", "maple-leaf-gardens", "toronto-fc-founding", "toronto-rock-lacrosse", "toronto-marlies", "canada-cup-1976", "vince-carter-raptors", "tiff-festival-history", "hot-docs-festival", "luminato-festival", "nuit-blanche-toronto", "harbourfront-centre", "design-exchange", "gardiner-museum", "bata-shoe-museum", "line-2-bloor-danforth", "scarborough-rt", "streetcar-network", "eglinton-crosstown", "up-express", "bike-share-toronto"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {
