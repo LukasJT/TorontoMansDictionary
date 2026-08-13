@@ -304,6 +304,7 @@ and license for each image:
 | Banting_and_Best.jpg | Banting and Best — Star Weekly Magazine, 1963, public domain | medical-history | [File page](https://commons.wikimedia.org/wiki/File:Banting_and_Best.jpg) |
 | MelLastmanSquare_-_2015June03.jpg | Mel Lastman Square, North York — Wikimedia Commons, CC BY-SA 4.0 | mel-lastman | [File page](https://commons.wikimedia.org/wiki/File:MelLastmanSquare_-_2015June03.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | metro-toronto-federation-1954 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | metrolinx | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | metropolitan-united-church | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Michael_Ondaatje_at_Tulane_2010.jpg | Michael Ondaatje, 2010 — Wikimedia Commons, Creative Commons licensed | michael-ondaatje | [File page](https://commons.wikimedia.org/wiki/File:Michael_Ondaatje_at_Tulane_2010.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | michael-ondaatje-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -474,6 +475,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-catholic-district-school-board | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Christmas_Market_2018_clock.jpg | Toronto Christmas Market, 2018 — Jason Zhang, CC BY-SA 3.0 | toronto-christmas-market | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Christmas_Market_2018_clock.jpg) |
 | Glenn_Gould_and_Alberto_Guerrero.jpg | Glenn Gould and Alberto Guerrero — Library and Archives Canada, public domain | toronto-classical-music | [File page](https://commons.wikimedia.org/wiki/File:Glenn_Gould_and_Alberto_Guerrero.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-community-housing | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-craft-distilleries | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-dance-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-fc-2017-treble | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -486,8 +488,10 @@ and license for each image:
 | Jack-Layton-Ferry-Terminal-2025-04-09.jpg | Jack Layton Ferry Terminal, Toronto — Wikimedia Commons, CC BY-SA 4.0 | toronto-islands-ferry | [File page](https://commons.wikimedia.org/wiki/File:Jack-Layton-Ferry-Terminal-2025-04-09.jpg) |
 | Oscar_Peterson_-_1950.JPG | Oscar Peterson, 1950 — Wikimedia Commons, public domain | toronto-jazz-history | [File page](https://commons.wikimedia.org/wiki/File:Oscar_Peterson_-_1950.JPG) |
 | Toronto_Marlies_faceoff.jpg | Toronto Marlies — Wikimedia Commons, Creative Commons licensed | toronto-marlies | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Marlies_faceoff.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-paramedic-services | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | toronto-pizza-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg | Metropolitan Toronto Police badge — Wikimedia Commons, Creative Commons licensed | toronto-police-founding | [File page](https://commons.wikimedia.org/wiki/File:BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-public-health | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-purchase | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-railway-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | toronto-rock-lacrosse | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
@@ -504,6 +508,7 @@ and license for each image:
 | Toronto_zoo_monorail.jpg | Toronto Zoo — Wikimedia Commons, CC BY 2.0 | toronto-zoo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_zoo_monorail.jpg) |
 | CLRV_TTC_Streetcar_No_4004_(8063115473).jpg | TTC streetcar — Peter Broster, CC BY 2.0 | transit | [File page](https://commons.wikimedia.org/wiki/File:CLRV_TTC_Streetcar_No_4004_(8063115473).jpg) |
 | Trinity_Bellwoods_Gates.jpg | Trinity Bellwoods gates, Toronto — Wikimedia Commons, Creative Commons licensed | trinity-bellwoods-park | [File page](https://commons.wikimedia.org/wiki/File:Trinity_Bellwoods_Gates.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ttc-streetcar-fleet | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg | TTC subway station, Toronto — Wikimedia Commons, Creative Commons licensed | ttc-subway-safety | [File page](https://commons.wikimedia.org/wiki/File:Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | tvo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | ubisoft-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -528,6 +533,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | weather | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | west-don-lands | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | weston-village | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | wheel-trans | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Remembrance_Day_2014_in_Whitby,_Ontario.jpg | Downtown Whitby — Wikimedia Commons, CC BY 2.0 | whitby | [File page](https://commons.wikimedia.org/wiki/File:Remembrance_Day_2014_in_Whitby,_Ontario.jpg) |
 | Stouffville_Civic_Square_-_Stouffville,_ON.jpg | Stouffville Civic Square — Wikimedia Commons, CC BY-SA 4.0 | whitchurch-stouffville | [File page](https://commons.wikimedia.org/wiki/File:Stouffville_Civic_Square_-_Stouffville,_ON.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | william-james-photographs | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |

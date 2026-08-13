@@ -1346,6 +1346,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/metrolinx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/metropolitan-united-church.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2196,6 +2201,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-community-housing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-craft-distilleries.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2256,12 +2266,22 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-paramedic-services.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-pizza-scene.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-police-founding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-public-health.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -2342,6 +2362,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/trinity-bellwoods-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/ttc-streetcar-fleet.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -2462,6 +2487,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/weston-village.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/wheel-trans.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
