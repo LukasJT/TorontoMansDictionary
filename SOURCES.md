@@ -127,8 +127,10 @@ and license for each image:
 | Colborne_Lodge_Toronto_2009.jpg | Colborne Lodge, High Park — Wikimedia Commons, Creative Commons licensed | colborne-lodge | [File page](https://commons.wikimedia.org/wiki/File:Colborne_Lodge_Toronto_2009.jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | comedy | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
 | Commerce_Court_North.JPG | Commerce Court, Toronto — Wikimedia Commons, Creative Commons licensed | commerce-court | [File page](https://commons.wikimedia.org/wiki/File:Commerce_Court_North.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | confederation-life-building | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Conn_Smythe_Trophy_2010-04-03.JPG | Conn Smythe Trophy — Wikimedia Commons, Creative Commons licensed | conn-smythe | [File page](https://commons.wikimedia.org/wiki/File:Conn_Smythe_Trophy_2010-04-03.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | connaught-labs | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | consumers-gas-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | convocation-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | corktown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | corso-italia | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -261,6 +263,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | maestro-fresh-wes | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Magna_International_Headquarters_Aurora_Ontario_Night.jpg | Magna International headquarters, Aurora — Wikimedia Commons, Creative Commons licensed | magna-international | [File page](https://commons.wikimedia.org/wiki/File:Magna_International_Headquarters_Aurora_Ontario_Night.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | malvern-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | manulife | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | maple-leaf-gardens | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
 | AirCanadaCentre.jpg | Scotiabank Arena (formerly Air Canada Centre) — Wikimedia Commons, CC BY 2.0 | maple-leafs-1967 | [File page](https://commons.wikimedia.org/wiki/File:AirCanadaCentre.jpg) |
 | Margaret_Atwood_2015.jpg | Margaret Atwood, 2015 — Larry D. Moore, CC BY 4.0 | margaret-atwood | [File page](https://commons.wikimedia.org/wiki/File:Margaret_Atwood_2015.jpg) |
@@ -321,6 +324,7 @@ and license for each image:
 | High_Park_Toronto_October_2012.jpg | High Park — Benson Kua, CC BY-SA 2.0 | parks | [File page](https://commons.wikimedia.org/wiki/File:High_Park_Toronto_October_2012.jpg) |
 | Path..._(1889799985).jpg | Toronto PATH tunnel — Wikimedia Commons, CC BY 2.0 | path | [File page](https://commons.wikimedia.org/wiki/File:Path..._(1889799985).jpg) |
 | Peameal_bacon_sandwich.jpg | Peameal bacon sandwich — Wikimedia Commons, CC BY-SA 4.0 | peameal-bacon-sandwich | [File page](https://commons.wikimedia.org/wiki/File:Peameal_bacon_sandwich.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pearson-airport-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Four-Seasons-Centre.JPG | Four Seasons Centre — Wikimedia Commons, CC BY-SA 1.0 | performing-arts | [File page](https://commons.wikimedia.org/wiki/File:Four-Seasons-Centre.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | peter-munk | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg | Pickering Nuclear Generating Station — Wikimedia Commons, CC BY-SA 4.0 | pickering | [File page](https://commons.wikimedia.org/wiki/File:Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg) |
@@ -349,6 +353,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rl-hearn-generating-station | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | rob-ford | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | robarts-library | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | robert-simpson-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | robertson-davies-massey-college | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Rogers_Centre,_Toronto,_Ontario_(21652480228).jpg | Rogers Centre — Wikimedia Commons, Creative Commons licensed | rogers-centre | [File page](https://commons.wikimedia.org/wiki/File:Rogers_Centre,_Toronto,_Ontario_(21652480228).jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | rogers-communications | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
@@ -399,6 +404,7 @@ and license for each image:
 | Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg | Pillar at Museum Station, TTC — Wikimedia Commons, Creative Commons licensed | subway-art | [File page](https://commons.wikimedia.org/wiki/File:Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sugar-beach | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | North_Toronto_Station_(3375761997).jpg | North Toronto Station — Wikimedia Commons, Creative Commons licensed | summerhill | [File page](https://commons.wikimedia.org/wiki/File:North_Toronto_Station_(3375761997).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sunnybrook-health-sciences | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Sunnybrook_Park_2023.jpg | Sunnybrook Park, Toronto — Wikimedia Commons, Creative Commons licensed | sunnybrook-park | [File page](https://commons.wikimedia.org/wiki/File:Sunnybrook_Park_2023.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sunnyside-amusement-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | swansea | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |

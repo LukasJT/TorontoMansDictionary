@@ -456,12 +456,22 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/confederation-life-building.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/conn-smythe.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/connaught-labs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/consumers-gas-company.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1131,6 +1141,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/manulife.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/maple-leaf-gardens.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1431,6 +1446,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/pearson-airport-history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/performing-arts.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1567,6 +1587,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/robarts-library.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/robert-simpson-company.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1817,6 +1842,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/summerhill.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/sunnybrook-health-sciences.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
