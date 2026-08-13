@@ -121,6 +121,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/bombardier-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/brampton.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -152,6 +157,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/canadian-screen-awards.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/canadian-tire.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -386,6 +396,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/hudsons-bay-company.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/imax-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -447,6 +462,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/little-portugal-bakeries.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/loblaws-history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/magna-international.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -696,6 +721,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/shoppers-drug-mart.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/shopping-malls.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -767,6 +797,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-arts-high-schools.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-big-five-banks.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
