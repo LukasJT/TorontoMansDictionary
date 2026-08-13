@@ -195,6 +195,7 @@ and license for each image:
 | Georgetown_Mill_(4018302734)_(cropped).jpg | Barber mill, Georgetown — Wikimedia Commons, CC BY 2.0 | halton-hills | [File page](https://commons.wikimedia.org/wiki/File:Georgetown_Mill_(4018302734)_(cropped).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harbord-village | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg | Harbourfront, Toronto — Wikimedia Commons, Creative Commons licensed | harbourfront-centre | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harold-ballard | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hart-house | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Cherry_Blossom_in_High_Park_69.jpg | Cherry blossoms, High Park — Wikimedia Commons, CC BY-SA 4.0 | high-park | [File page](https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_High_Park_69.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -306,6 +307,7 @@ and license for each image:
 | Four-Seasons-Centre.JPG | Four Seasons Centre — Wikimedia Commons, CC BY-SA 1.0 | performing-arts | [File page](https://commons.wikimedia.org/wiki/File:Four-Seasons-Centre.JPG) |
 | Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg | Pickering Nuclear Generating Station — Wikimedia Commons, CC BY-SA 4.0 | pickering | [File page](https://commons.wikimedia.org/wiki/File:Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pinewood-toronto-studios | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pizza-pizza-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | port-lands-flood-protection | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | YRT_PRESTO_tap_device_at_Finch_station.png | PRESTO tap device, Finch station — Wikimedia Commons, CC BY-SA 4.0 | presto-card | [File page](https://commons.wikimedia.org/wiki/File:YRT_PRESTO_tap_device_at_Finch_station.png) |
 | Toronto_Pride_Parade_2007.jpg | Toronto Pride Parade — Wikimedia Commons, Creative Commons licensed | pride-toronto-festival | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Pride_Parade_2007.jpg) |
@@ -313,8 +315,10 @@ and license for each image:
 | Princess_Margaret_Hospital_Toronto_South_Building.JPG | Princess Margaret Cancer Centre, Toronto — Wikimedia Commons, Creative Commons licensed | princess-margaret-cancer-centre | [File page](https://commons.wikimedia.org/wiki/File:Princess_Margaret_Hospital_Toronto_South_Building.JPG) |
 | Toronto_Public_Library_Runnymede_Branch_(4994916241).jpg | Toronto Public Library, Runnymede Branch — Wikimedia Commons, CC BY 2.0 | public-library | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Public_Library_Runnymede_Branch_(4994916241).jpg) |
 | Ontario_Government_Buildings.JPG | Ontario Legislative Building, Queen's Park — Wikimedia Commons, Creative Commons licensed | queens-park | [File page](https://commons.wikimedia.org/wiki/File:Ontario_Government_Buildings.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | raccoon-capital-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Canadian_Pacific_Railway_Building_plaque_69_Yonge_Street_Toronto_ON_M5E_1J1_Canada.jpg | Canadian Pacific Railway Building plaque, Toronto — Wikimedia Commons, CC BY-SA 4.0 | railways | [File page](https://commons.wikimedia.org/wiki/File:Canadian_Pacific_Railway_Building_plaque_69_Yonge_Street_Toronto_ON_M5E_1J1_Canada.jpg) |
 | Toronto_Raptors_2019_parade_photo_by_Djuradj_Vujcic.jpg | Toronto Raptors championship parade, 2019 — Djuradj Vujcic, CC BY 2.0 | raptors-2019 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Raptors_2019_parade_photo_by_Djuradj_Vujcic.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | raptors-founding-1995 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg | East Don Parkland — Wikimedia Commons, CC BY-SA 4.0 | ravines | [File page](https://commons.wikimedia.org/wiki/File:East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rc-harris-water-treatment-plant | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toward_Regent_Park_from_Merchandise_Roof.jpg | Regent Park, Toronto — Wikimedia Commons, public domain | regent-park | [File page](https://commons.wikimedia.org/wiki/File:Toward_Regent_Park_from_Merchandise_Roof.jpg) |
@@ -356,6 +360,7 @@ and license for each image:
 | Flight_stop.jpg | Flight Stop, Toronto Eaton Centre — Wikimedia Commons, Creative Commons licensed | shopping-malls | [File page](https://commons.wikimedia.org/wiki/File:Flight_stop.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sickkids-hospital | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Ontario_Government_Buildings.JPG | Ontario Legislative Building, Queen's Park — Wikimedia Commons, Creative Commons licensed | siu-ontario | [File page](https://commons.wikimedia.org/wiki/File:Ontario_Government_Buildings.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | snow-army-1999 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | soulpepper-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | south-asian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | spadina-garment-district | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -462,6 +467,7 @@ and license for each image:
 | Harbourfront_Centre.JPG | Harbourfront Centre, Toronto — Wikimedia Commons, CC BY-SA 3.0 | word-on-the-street | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront_Centre.JPG) |
 | Osgoode_Hall.JPG | Osgoode Hall — Wikimedia Commons, CC BY-SA 3.0 | wrongful-convictions-ontario | [File page](https://commons.wikimedia.org/wiki/File:Osgoode_Hall.JPG) |
 | Wychwood_Barns.JPG | Artscape Wychwood Barns — Wikimedia Commons, CC BY-SA 3.0 | wychwood | [File page](https://commons.wikimedia.org/wiki/File:Wychwood_Barns.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-longest-street-myth | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-riot-1992 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-van-attack | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Weston_Park_2018_07.jpg | Weston Park, Toronto — Wikimedia Commons, CC BY-SA 4.0 | york | [File page](https://commons.wikimedia.org/wiki/File:Weston_Park_2018_07.jpg) |
