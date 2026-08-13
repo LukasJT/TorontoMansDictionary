@@ -71,6 +71,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/allan-gardens.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/architecture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -151,6 +156,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/bloor-bike-lane-pilot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/bloor-viaduct.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -222,6 +232,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/caledon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/camh-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -396,6 +411,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/convocation-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/corso-italia.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -417,6 +437,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/cystic-fibrosis-gene.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/daniels-spectrum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -576,6 +601,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/flatiron-gooderham-building.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/flemingdon-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -661,6 +691,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/graffiti-alley.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/great-fire-1904.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -687,6 +722,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/harbourfront-centre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/hart-house.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -822,6 +862,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/landmarks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/laneway-housing-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1032,6 +1077,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/moss-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/mount-pleasant-cemetery.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1531,6 +1581,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/the-519.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/the-annex.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1712,6 +1767,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-ward-structure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-western-hospital.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
