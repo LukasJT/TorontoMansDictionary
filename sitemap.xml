@@ -41,6 +41,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/1password.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/2003-blackout-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -806,6 +811,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/flight-stop-michael-snow.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/food.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -847,6 +857,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/french-language-education-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/freshbooks.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -962,6 +977,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/hart-house.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/henry-moore-ago.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1167,6 +1187,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/king-township.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/kobo-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -2527,6 +2552,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/wattpad-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/wave-accounting.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

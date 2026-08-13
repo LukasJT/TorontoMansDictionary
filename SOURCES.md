@@ -44,6 +44,7 @@ and license for each image:
 
 | Image | Credit | Used on | Source |
 |---|---|---|---|
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | 1password | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | 2003-blackout-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market, Toronto — Arild Vågen, CC BY-SA 4.0 (illustrative of Toronto's multiculturalism; no free-license photo of a specific LINC or adult ESL classroom could be verified) | adult-esl-toronto | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | aga-khan-museum | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -197,6 +198,7 @@ and license for each image:
 | First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg | First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0 | first-canadian-place | [File page](https://commons.wikimedia.org/wiki/File:First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flatiron-gooderham-building | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flemingdon-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flight-stop-michael-snow | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | St_Lawrence_Market,_Toronto,_West_partial_view_20170417_1.jpg | St. Lawrence Market — Wikimedia Commons, Creative Commons licensed | food | [File page](https://commons.wikimedia.org/wiki/File:St_Lawrence_Market,_Toronto,_West_partial_view_20170417_1.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | forest-hill | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-rouille | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -206,6 +208,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fox-theatre-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | F._G._Banting_1923.jpg | Frederick Banting, 1923 — Wikimedia Commons, public domain | frederick-banting | [File page](https://commons.wikimedia.org/wiki/File:F._G._Banting_1923.jpg) |
 | Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg | Le Collège français, Toronto — Wikimedia Commons, Creative Commons licensed | french-language-education-toronto | [File page](https://commons.wikimedia.org/wiki/File:Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | freshbooks | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | g-ross-lord-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg | Riot police, G20 Toronto 2010 — Chris Huggins, Wikimedia Commons, Creative Commons licensed | g20-toronto-2010 | [File page](https://commons.wikimedia.org/wiki/File:G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg) |
 | Gardiner_Expressway,_Toronto,_Ontario_(29968916176).jpg | Gardiner Expressway — Wikimedia Commons, CC BY-SA 2.0 | gardiner-dvp | [File page](https://commons.wikimedia.org/wiki/File:Gardiner_Expressway,_Toronto,_Ontario_(29968916176).jpg) |
@@ -229,6 +232,7 @@ and license for each image:
 | Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg | Harbourfront, Toronto — Wikimedia Commons, Creative Commons licensed | harbourfront-centre | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harold-ballard | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hart-house | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | henry-moore-ago | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Cherry_Blossom_in_High_Park_69.jpg | Cherry blossoms, High Park — Wikimedia Commons, CC BY-SA 4.0 | high-park | [File page](https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_High_Park_69.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hockey-hall-of-fame | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -269,6 +273,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | kew-beach | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | king-edward-hotel | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Eaton_Hall_King_City.jpg | Eaton Hall, King City — AndroidCat, Wikimedia Commons, CC BY 3.0 | king-township | [File page](https://commons.wikimedia.org/wiki/File:Eaton_Hall_King_City.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | kobo-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | CN Tower and Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | landmarks | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | laneway-housing-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | lawrence-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -541,6 +546,7 @@ and license for each image:
 | RC_Harris_Water_Treatment_Plant_2009.jpg | R.C. Harris Water Treatment Plant — Wikimedia Commons, CC BY 2.0 | water-treatment | [File page](https://commons.wikimedia.org/wiki/File:RC_Harris_Water_Treatment_Plant_2009.jpg) |
 | Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg | Toronto Harbourfront — Wikimedia Commons, Creative Commons licensed | waterfront | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | wattpad-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | wave-accounting | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | wealthsimple-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | weather | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | west-don-lands | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
