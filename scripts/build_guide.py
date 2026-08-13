@@ -79,9 +79,10 @@ def ad_rectangle():
     </div>'''
 
 
-def figure(filename, alt, credit):
+def figure(filename, alt, credit, eager=False):
+    loading_attrs = 'loading="eager" fetchpriority="high"' if eager else 'loading="lazy"'
     return f'''<figure class="guide-photo">
-        <img src="{commons(filename)}" alt="{esc(alt)}" loading="lazy">
+        <img src="{commons(filename)}" alt="{esc(alt)}" {loading_attrs}>
         <figcaption>{credit}</figcaption>
       </figure>'''
 
@@ -9104,7 +9105,7 @@ def build_page(page, all_pages):
         <p class="article-dek">{esc(page['dek'])}</p>
       </header>
 
-      {figure(page['hero_img'], page['hero_alt'], page['hero_credit'])}
+      {figure(page['hero_img'], page['hero_alt'], page['hero_credit'], eager=True)}
 
       {ad_leaderboard()}
 
