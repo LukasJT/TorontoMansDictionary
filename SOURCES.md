@@ -104,6 +104,7 @@ and license for each image:
 | Campbell_House.JPG | Campbell House, Toronto — Wikimedia Commons, Creative Commons licensed | campbell-house | [File page](https://commons.wikimedia.org/wiki/File:Campbell_House.JPG) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | canada-cup-1976 | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | canada-goose | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | canada-sports-hall-of-fame | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Four-Seasons-Centre.JPG | Four Seasons Centre, Toronto — Wikimedia Commons, CC BY-SA 1.0 | canadian-music-week | [File page](https://commons.wikimedia.org/wiki/File:Four-Seasons-Centre.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | canadian-opera-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Canadian_Broadcasting_Centre,_Corner_of_John_and_Front_Street,_Toronto,_Ontario_(29920113811).jpg | Canadian Broadcasting Centre, Toronto — Wikimedia Commons, Creative Commons licensed | canadian-screen-awards | [File page](https://commons.wikimedia.org/wiki/File:Canadian_Broadcasting_Centre,_Corner_of_John_and_Front_Street,_Toronto,_Ontario_(29920113811).jpg) |
@@ -131,6 +132,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chum-radio-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | church-of-the-holy-trinity | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cineplex | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cinesphere | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cityplace | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Downtown_Bowmanville_-_King_St.jpg | Downtown Bowmanville, Ontario — Wikimedia Commons, Creative Commons licensed | clarington | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Bowmanville_-_King_St.jpg) |
 | CN_Tower,_Toronto,_Ontario_(29969151776).jpg | The CN Tower — Wikimedia Commons, CC BY-SA 2.0 | cn-tower | [File page](https://commons.wikimedia.org/wiki/File:CN_Tower,_Toronto,_Ontario_(29969151776).jpg) |
@@ -391,6 +393,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pinewood-toronto-studios | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pizza-pizza-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | port-lands-flood-protection | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | power-plant-contemporary-art-gallery | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | YRT_PRESTO_tap_device_at_Finch_station.png | PRESTO tap device, Finch station — Wikimedia Commons, CC BY-SA 4.0 | presto-card | [File page](https://commons.wikimedia.org/wiki/File:YRT_PRESTO_tap_device_at_Finch_station.png) |
 | Toronto_Pride_Parade_2007.jpg | Toronto Pride Parade — Wikimedia Commons, Creative Commons licensed | pride-toronto-festival | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Pride_Parade_2007.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | princes-gates | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -464,6 +467,7 @@ and license for each image:
 | Rogers_Centre,_Toronto,_Ontario_(21652480228).jpg | Rogers Centre — Wikimedia Commons, Creative Commons licensed | sports | [File page](https://commons.wikimedia.org/wiki/File:Rogers_Centre,_Toronto,_Ontario_(21652480228).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | st-james-cathedral | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | st-james-town | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | st-lawrence-centre-for-the-arts | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_-_ON_-_St_Lawrence_Market.jpg | St. Lawrence Market — Wikimedia Commons, Creative Commons licensed | st-lawrence-market | [File page](https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_St_Lawrence_Market.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | st-michaels-cathedral-basilica | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | steam-whistle-brewing | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
