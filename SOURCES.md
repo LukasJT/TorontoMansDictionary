@@ -84,6 +84,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | boyd-gang | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | bradford-west-gwillimbury | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Brampton_City_Hall_West_Tower_(37520691101).jpg | Brampton City Hall — Wikimedia Commons, CC BY 2.0 | brampton | [File page](https://commons.wikimedia.org/wiki/File:Brampton_City_Hall_West_Tower_(37520691101).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | bridle-path | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg | Bell Media, Queen Street, Toronto — Wikimedia Commons, Creative Commons licensed | broadcasting | [File page](https://commons.wikimedia.org/wiki/File:Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg) |
 | Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg | Beaverton, Ontario, 1910 — Wikimedia Commons, public domain | brock-township | [File page](https://commons.wikimedia.org/wiki/File:Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | broken-social-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -140,6 +141,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | david-miller | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | DavisvilleToronto.JPG | Davisville, Toronto — Wikimedia Commons, Creative Commons licensed | davisville | [File page](https://commons.wikimedia.org/wiki/File:DavisvilleToronto.JPG) |
 | De_Havilland_Canada_DHC-2_Beaver._(8107669296).jpg | De Havilland Canada DHC-2 Beaver — Wikimedia Commons, public domain | de-havilland-canada | [File page](https://commons.wikimedia.org/wiki/File:De_Havilland_Canada_DHC-2_Beaver._(8107669296).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | deer-park-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | New_Toronto_Stock_Exchange_trading_floor.jpg | Toronto Stock Exchange trading floor — Wikimedia Commons, Creative Commons licensed | design-exchange | [File page](https://commons.wikimedia.org/wiki/File:New_Toronto_Stock_Exchange_trading_floor.jpg) |
 | East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg | East Don Parkland, Toronto — Wikimedia Commons, CC BY-SA 4.0 | don-river-flooding | [File page](https://commons.wikimedia.org/wiki/File:East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | downsview-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -230,7 +232,9 @@ and license for each image:
 | Eaton_Hall_King_City.jpg | Eaton Hall, King City — AndroidCat, Wikimedia Commons, CC BY 3.0 | king-township | [File page](https://commons.wikimedia.org/wiki/File:Eaton_Hall_King_City.jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | CN Tower and Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | landmarks | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | laneway-housing-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | lawrence-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | LCBO_at_Parkway_Mall.jpg | LCBO, Parkway Mall — Wikimedia Commons, CC BY-SA 4.0 | lcbo-history | [File page](https://commons.wikimedia.org/wiki/File:LCBO_at_Parkway_Mall.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | leaside | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | leaside-bridge | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Leslieville.jpg | Leslieville, Toronto — Simon Pulsifer, CC BY-SA | leslieville | [File page](https://commons.wikimedia.org/wiki/File:Leslieville.jpg) |
 | Pride_parade_Toronto_2011.jpg | Toronto Pride parade, 2011 — Kitty Rainbow, CC BY 2.0 | lgbtq-village | [File page](https://commons.wikimedia.org/wiki/File:Pride_parade_Toronto_2011.jpg) |
@@ -309,6 +313,7 @@ and license for each image:
 | Path..._(1889799985).jpg | Toronto PATH tunnel — Wikimedia Commons, CC BY 2.0 | path | [File page](https://commons.wikimedia.org/wiki/File:Path..._(1889799985).jpg) |
 | Peameal_bacon_sandwich.jpg | Peameal bacon sandwich — Wikimedia Commons, CC BY-SA 4.0 | peameal-bacon-sandwich | [File page](https://commons.wikimedia.org/wiki/File:Peameal_bacon_sandwich.jpg) |
 | Four-Seasons-Centre.JPG | Four Seasons Centre — Wikimedia Commons, CC BY-SA 1.0 | performing-arts | [File page](https://commons.wikimedia.org/wiki/File:Four-Seasons-Centre.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | peter-munk | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg | Pickering Nuclear Generating Station — Wikimedia Commons, CC BY-SA 4.0 | pickering | [File page](https://commons.wikimedia.org/wiki/File:Pickering_Nuclear_Generating_Station_at_Beachfront_Park,_June_6_2026_(03)_(5-3_cropped).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pinewood-toronto-studios | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | pizza-pizza-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -342,6 +347,7 @@ and license for each image:
 | Toronto_Roncesvalles_Village_Village_Roncesvalles_de_Toronto_(24317099177).jpg | Roncesvalles Avenue, Toronto — Wikimedia Commons, Creative Commons licensed | roncesvalles | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Roncesvalles_Village_Village_Roncesvalles_de_Toronto_(24317099177).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | roots-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | rosedale | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rotman-school-of-management | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Rouge_National_Urban_Park-_Orchard_and_Vista_Trails-Toronto-Ontario_(1).jpg | Rouge National Urban Park, Toronto — Wikimedia Commons, Creative Commons licensed | rouge-national-urban-park | [File page](https://commons.wikimedia.org/wiki/File:Rouge_National_Urban_Park-_Orchard_and_Vista_Trails-Toronto-Ontario_(1).jpg) |
 | Toronto_-_ON_-_Roy_Thomson_Hall.jpg | Roy Thomson Hall, Toronto — Wikimedia Commons, Creative Commons licensed | roy-thomson-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Roy_Thomson_Hall.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | royal-alexandra-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
