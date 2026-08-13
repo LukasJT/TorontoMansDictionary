@@ -321,6 +321,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/camp-x.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/campbell-house.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -457,6 +462,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/chum-radio-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/church-of-the-holy-trinity.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -906,6 +916,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/gibraltar-point-lighthouse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/gibson-house.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -967,6 +982,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/halton-hills.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/hanlans-point.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1537,6 +1557,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/necropolis-cemetery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/ned-hanlan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -2392,6 +2417,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-police-founding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-prohibition.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

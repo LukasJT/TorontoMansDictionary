@@ -100,6 +100,7 @@ and license for each image:
 | Toronto_Cabbage_Town_1_(8437347293).jpg | Cabbagetown, Toronto — Alain Rouiller, CC BY-SA 2.0 | cabbagetown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Cabbage_Town_1_(8437347293).jpg) |
 | Cheltenham_Badlands,_Caledon_Hills,_Ontario,_Canada._(7097453311).jpg | Cheltenham Badlands, Caledon — kaybee07, Wikimedia Commons, CC BY 2.0 | caledon | [File page](https://commons.wikimedia.org/wiki/File:Cheltenham_Badlands,_Caledon_Hills,_Ontario,_Canada._(7097453311).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | camh-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | camp-x | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Campbell_House.JPG | Campbell House, Toronto — Wikimedia Commons, Creative Commons licensed | campbell-house | [File page](https://commons.wikimedia.org/wiki/File:Campbell_House.JPG) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | canada-cup-1976 | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | canada-goose | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -128,6 +129,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chorley-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | christie-pits-riot-1933 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chum-radio-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | church-of-the-holy-trinity | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cineplex | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cityplace | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Downtown_Bowmanville_-_King_St.jpg | Downtown Bowmanville, Ontario — Wikimedia Commons, Creative Commons licensed | clarington | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Bowmanville_-_King_St.jpg) |
@@ -217,6 +219,7 @@ and license for each image:
 | Covered_Jar_with_Garden_Design,_c._1660-1690,_Arita,_hard-paste_porcelain_with_overglaze_enamels_-_Gardiner_Museum,_Toronto_-_DSC00442.JPG | Gardiner Museum, Toronto — Wikimedia Commons, Creative Commons licensed | gardiner-museum | [File page](https://commons.wikimedia.org/wiki/File:Covered_Jar_with_Garden_Design,_c._1660-1690,_Arita,_hard-paste_porcelain_with_overglaze_enamels_-_Gardiner_Museum,_Toronto_-_DSC00442.JPG) |
 | GBC_Casa_Loma_02.jpg | George Brown College, Casa Loma Campus — PvOberstein, Wikimedia Commons, CC0 | george-brown-college | [File page](https://commons.wikimedia.org/wiki/File:GBC_Casa_Loma_02.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | george-chuvalo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | gibraltar-point-lighthouse | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Gibon_House_view_from_front.jpg | Gibson House, North York — Wikimedia Commons, Creative Commons licensed | gibson-house | [File page](https://commons.wikimedia.org/wiki/File:Gibon_House_view_from_front.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glad-day-bookshop | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glass-tiger | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -230,6 +233,7 @@ and license for each image:
 | Entrance_to_McMichael_Gallery_in_Kleinburg,_Ontario,_Canada_(8203976920).jpg | McMichael Canadian Art Collection, Kleinburg — Wikimedia Commons, Creative Commons licensed | group-of-seven | [File page](https://commons.wikimedia.org/wiki/File:Entrance_to_McMichael_Gallery_in_Kleinburg,_Ontario,_Canada_(8203976920).jpg) |
 | Guild_Park_and_Gardens_(26712913409).jpg | Guild Park and Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | guild-park-gardens | [File page](https://commons.wikimedia.org/wiki/File:Guild_Park_and_Gardens_(26712913409).jpg) |
 | Georgetown_Mill_(4018302734)_(cropped).jpg | Barber mill, Georgetown — Wikimedia Commons, CC BY 2.0 | halton-hills | [File page](https://commons.wikimedia.org/wiki/File:Georgetown_Mill_(4018302734)_(cropped).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hanlans-point | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harbord-village | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg | Harbourfront, Toronto — Wikimedia Commons, Creative Commons licensed | harbourfront-centre | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harold-ballard | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -343,6 +347,7 @@ and license for each image:
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | nathan-phillips-square | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | national-ballet-of-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | necropolis-cemetery | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ned-hanlan | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market — Arild Vågen, CC BY-SA 4.0 | neighbourhoods | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
 | Lake_Shore_Road,_New_Toronto_1928-10-12.jpg | Lake Shore Road, New Toronto, 1928 — Wikimedia Commons, believed public domain | new-toronto | [File page](https://commons.wikimedia.org/wiki/File:Lake_Shore_Road,_New_Toronto_1928-10-12.jpg) |
 | Old_Town_Hall-460_Botsford_Street-Newmarket-Ontario-HPC6381-20200905.jpg | Old Town Hall, Newmarket — Wikimedia Commons, CC BY-SA 4.0 | newmarket | [File page](https://commons.wikimedia.org/wiki/File:Old_Town_Hall-460_Botsford_Street-Newmarket-Ontario-HPC6381-20200905.jpg) |
@@ -514,6 +519,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-paramedic-services | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | toronto-pizza-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg | Metropolitan Toronto Police badge — Wikimedia Commons, Creative Commons licensed | toronto-police-founding | [File page](https://commons.wikimedia.org/wiki/File:BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-prohibition | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-public-health | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-purchase | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-railway-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
