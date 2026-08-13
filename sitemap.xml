@@ -551,12 +551,22 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/corktown-common.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/corktown.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/corso-italia.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/corus-quay.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -627,6 +637,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/design-exchange.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/distillery-district.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -947,6 +962,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/go-transit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/gooderham-and-worts.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1946,6 +1966,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ryerson-image-centre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ryerson-tmu-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2482,6 +2507,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-ward-structure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-wavedecks.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

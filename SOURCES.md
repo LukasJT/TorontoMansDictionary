@@ -147,7 +147,9 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | consumers-gas-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | convocation-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | corktown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | corktown-common | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | corso-italia | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | corus-quay | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | covid-19-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Railway_Museum_and_Steam_Whistle_Brewery_are_located_in_the_Roundhouse_Park_(27622030420).jpg | Steam Whistle Brewery, Roundhouse Park — Wikimedia Commons, Creative Commons licensed | craft-beer | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Railway_Museum_and_Steam_Whistle_Brewery_are_located_in_the_Roundhouse_Park_(27622030420).jpg) |
 | Toronto_Protected_Bike_Lanes.jpg | Protected bike lane, Toronto — Wikimedia Commons, Creative Commons licensed | cycling | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Protected_Bike_Lanes.jpg) |
@@ -162,6 +164,7 @@ and license for each image:
 | De_Havilland_Canada_DHC-2_Beaver._(8107669296).jpg | De Havilland Canada DHC-2 Beaver — Wikimedia Commons, public domain | de-havilland-canada | [File page](https://commons.wikimedia.org/wiki/File:De_Havilland_Canada_DHC-2_Beaver._(8107669296).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | deer-park-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | New_Toronto_Stock_Exchange_trading_floor.jpg | Toronto Stock Exchange trading floor — Wikimedia Commons, Creative Commons licensed | design-exchange | [File page](https://commons.wikimedia.org/wiki/File:New_Toronto_Stock_Exchange_trading_floor.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | distillery-district | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg | East Don Parkland, Toronto — Wikimedia Commons, CC BY-SA 4.0 | don-river-flooding | [File page](https://commons.wikimedia.org/wiki/File:East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | doors-open-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | downsview-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -226,6 +229,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glenn-gould-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | globe-and-mail-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | GO_Transit_MP40-3C_602_Oshawa_Turnaround_Rushhour.JPG | GO Transit train, Oshawa — Wikimedia Commons, CC BY 3.0 | go-transit | [File page](https://commons.wikimedia.org/wiki/File:GO_Transit_MP40-3C_602_Oshawa_Turnaround_Rushhour.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | gooderham-and-worts | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Toronto City Hall, Nathan Phillips Square — Wikimedia Commons, CC BY 2.0 | government | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | graffiti-alley | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Where_the_Fire_Started_Toronto,_19th_April_1904_(HS85-10-14985).jpg | Where the Fire Started, Toronto, 1904 — Library and Archives Canada, public domain | great-fire-1904 | [File page](https://commons.wikimedia.org/wiki/File:Where_the_Fire_Started_Toronto,_19th_April_1904_(HS85-10-14985).jpg) |
@@ -424,6 +428,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | royal-agricultural-winter-fair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | royal-alexandra-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rush-band-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ryerson-image-centre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ryerson-tmu-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | City_Hall,_Toronto,_Ontario.jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | safety | [File page](https://commons.wikimedia.org/wiki/File:City_Hall,_Toronto,_Ontario.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | salsa-on-st-clair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -532,6 +537,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-symphony-orchestra | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-telegram | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_City_Hall_Council_Chamber_(30461915762).jpg | Toronto City Hall council chamber — Wikimedia Commons, CC BY 2.0 | toronto-ward-structure | [File page](https://commons.wikimedia.org/wiki/File:Toronto_City_Hall_Council_Chamber_(30461915762).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-wavedecks | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-western-hospital | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-wolfpack | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_zoo_monorail.jpg | Toronto Zoo — Wikimedia Commons, CC BY 2.0 | toronto-zoo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_zoo_monorail.jpg) |
