@@ -183,6 +183,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | elizabeth-simcoe | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | emily-stowe | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ep-taylor | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ethiopian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue — Wikimedia Commons, CC BY-SA | ethnic-enclaves | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
 | Humber_Bay_Arch_Bridge_at_Night_1.jpg | Humber Bay Arch Bridge, Etobicoke — Wikimedia Commons, CC BY-SA 2.0 | etobicoke | [File page](https://commons.wikimedia.org/wiki/File:Humber_Bay_Arch_Bridge_at_Night_1.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | evergreen-brick-works | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -195,6 +196,7 @@ and license for each image:
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | famous-torontonians | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fan-expo-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Caribana_Toronto_2011_(2).jpg | Caribana Toronto — Ruth Choi, CC BY-SA 2.0 | festivals | [File page](https://commons.wikimedia.org/wiki/File:Caribana_Toronto_2011_(2).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | filipino-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg | First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0 | first-canadian-place | [File page](https://commons.wikimedia.org/wiki/File:First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flatiron-gooderham-building | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flemingdon-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -251,6 +253,7 @@ and license for each image:
 | Cinesphere,_at_Ontario_Place,_in_2012,_when_it_was_closed_for_several_years_(7157561345).jpg | Cinesphere, Ontario Place — Wikimedia Commons, Creative Commons licensed | imax-toronto | [File page](https://commons.wikimedia.org/wiki/File:Cinesphere,_at_Ontario_Place,_in_2012,_when_it_was_closed_for_several_years_(7157561345).jpg) |
 | Toronto_skyline_toronto_islands_b.JPG | Toronto skyline from the Toronto Islands — Wikimedia Commons, Creative Commons licensed | indigenous-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_toronto_islands_b.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | indigo-books | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | iranian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ismaili-community-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Jamaican_patties_and_redstripe.jpg | Jamaican patties — Wikimedia Commons, CC BY-SA 2.0 | jamaican-patty-toronto | [File page](https://commons.wikimedia.org/wiki/File:Jamaican_patties_and_redstripe.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | james-gardens | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -274,6 +277,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | king-edward-hotel | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Eaton_Hall_King_City.jpg | Eaton Hall, King City — AndroidCat, Wikimedia Commons, CC BY 3.0 | king-township | [File page](https://commons.wikimedia.org/wiki/File:Eaton_Hall_King_City.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | kobo-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | koreatown-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | CN Tower and Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | landmarks | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | laneway-housing-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | lawrence-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -440,6 +444,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sickkids-hospital | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Ontario_Government_Buildings.JPG | Ontario Legislative Building, Queen's Park — Wikimedia Commons, Creative Commons licensed | siu-ontario | [File page](https://commons.wikimedia.org/wiki/File:Ontario_Government_Buildings.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | snow-army-1999 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | somali-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | soulpepper-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | south-asian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | spadina-garment-district | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -461,6 +466,7 @@ and license for each image:
 | Sunnybrook_Park_2023.jpg | Sunnybrook Park, Toronto — Wikimedia Commons, Creative Commons licensed | sunnybrook-park | [File page](https://commons.wikimedia.org/wiki/File:Sunnybrook_Park_2023.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sunnyside-amusement-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | swansea | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | tamil-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | tarragon-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto-Dominion_Centre_in_Toronto_1973.jpg | Toronto-Dominion Centre, 1973 — Wikimedia Commons, Creative Commons licensed | td-centre | [File page](https://commons.wikimedia.org/wiki/File:Toronto-Dominion_Centre_in_Toronto_1973.jpg) |
 | Jarvis_CI.JPG | Jarvis Collegiate Institute — Simon Pulsifer, Wikimedia Commons, CC BY-SA 3.0 | tdsb-history | [File page](https://commons.wikimedia.org/wiki/File:Jarvis_CI.JPG) |
