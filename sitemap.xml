@@ -611,6 +611,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/emily-stowe.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ethnic-enclaves.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -901,6 +906,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/jane-jacobs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/jim-carrey.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -912,6 +922,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/john-tory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/june-callwood.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1092,6 +1107,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/marshall-mcluhan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/mary-pickford.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1451,6 +1471,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/rick-moranis.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/riverdale-farm.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1542,6 +1567,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/salsa-on-st-clair.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/samantha-bee.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/sarah-polley.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

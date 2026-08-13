@@ -158,6 +158,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | eglinton-crosstown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg | E.J. Pratt Library, Victoria University — Wikimedia Commons, Creative Commons licensed | ej-pratt | [File page](https://commons.wikimedia.org/wiki/File:E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg) |
 | Elgin_Theatre_interior.jpg | Elgin Theatre interior, Toronto — Wikimedia Commons, Creative Commons licensed | elgin-winter-garden-theatre | [File page](https://commons.wikimedia.org/wiki/File:Elgin_Theatre_interior.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | emily-stowe | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue — Wikimedia Commons, CC BY-SA | ethnic-enclaves | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
 | Humber_Bay_Arch_Bridge_at_Night_1.jpg | Humber Bay Arch Bridge, Etobicoke — Wikimedia Commons, CC BY-SA 2.0 | etobicoke | [File page](https://commons.wikimedia.org/wiki/File:Humber_Bay_Arch_Bridge_at_Night_1.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | evergreen-brick-works | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -215,9 +216,11 @@ and license for each image:
 | Jamaican_patties_and_redstripe.jpg | Jamaican patties — Wikimedia Commons, CC BY-SA 2.0 | jamaican-patty-toronto | [File page](https://commons.wikimedia.org/wiki/File:Jamaican_patties_and_redstripe.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jami-mosque-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jane-and-finch | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jane-jacobs | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Jim_Carrey_2008.jpg | Jim Carrey, 2008 — Wikimedia Commons, CC BY-SA 2.0 | jim-carrey | [File page](https://commons.wikimedia.org/wiki/File:Jim_Carrey_2008.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | john-candy | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg | John Tory, 2018 — Wikimedia Commons, CC BY 2.0 | john-tory | [File page](https://commons.wikimedia.org/wiki/File:Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | june-callwood | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Keanu_Reeves_2014.jpg | Keanu Reeves, 2014 — Wikimedia Commons, Creative Commons licensed | keanu-reeves | [File page](https://commons.wikimedia.org/wiki/File:Keanu_Reeves_2014.jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market, Toronto — Arild Vågen, CC BY-SA 4.0 | kensington-jewish-history | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market — Arild Vågen, CC BY-SA 4.0 | kensington-market | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
@@ -254,6 +257,7 @@ and license for each image:
 | Downtown_Markham_(Rougeside_Promenade)_Centre-ville_de_Markham_(Rougeside_Promenade)_(38469952964).jpg | Downtown Markham — Wikimedia Commons, CC BY 2.0 | markham | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Markham_(Rougeside_Promenade)_Centre-ville_de_Markham_(Rougeside_Promenade)_(38469952964).jpg) |
 | Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg | Toronto General Hospital — Wikimedia Commons, Creative Commons licensed | mars-discovery-district | [File page](https://commons.wikimedia.org/wiki/File:Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg) |
 | Marshall_McLuhan_1967.jpg | Marshall McLuhan, 1967 — Wikimedia Commons, Creative Commons licensed | marshall-mcluhan | [File page](https://commons.wikimedia.org/wiki/File:Marshall_McLuhan_1967.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | mary-pickford | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Massey_Hall_August_2017_02.jpg | Massey Hall — Wikimedia Commons, CC BY-SA 4.0 | massey-hall | [File page](https://commons.wikimedia.org/wiki/File:Massey_Hall_August_2017_02.jpg) |
 | Massey_Hall,_Toronto_Panorama.jpg | Massey Hall, Toronto — Ian Muttoo, CC BY-SA 2.0 | massey-hall-performances | [File page](https://commons.wikimedia.org/wiki/File:Massey_Hall,_Toronto_Panorama.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | massey-manufacturing | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -325,6 +329,7 @@ and license for each image:
 | Ismaili_Centre,_Toronto_-_Prayer_hall.jpg | Ismaili Centre, Toronto, prayer hall — Wikimedia Commons, CC BY-SA 4.0 | religion | [File page](https://commons.wikimedia.org/wiki/File:Ismaili_Centre,_Toronto_-_Prayer_hall.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rexdale | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Town_of_Richmond_Hill.JPG | Richmond Hill, Ontario — Wikimedia Commons, Creative Commons licensed | richmond-hill | [File page](https://commons.wikimedia.org/wiki/File:Town_of_Richmond_Hill.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rick-moranis | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | RiverdaleFarm.jpg | Riverdale Farm, Toronto — Wikimedia Commons, Creative Commons licensed | riverdale-farm | [File page](https://commons.wikimedia.org/wiki/File:RiverdaleFarm.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | riverdale-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rl-hearn-generating-station | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -344,6 +349,8 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ryerson-tmu-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | City_Hall,_Toronto,_Ontario.jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | safety | [File page](https://commons.wikimedia.org/wiki/File:City_Hall,_Toronto,_Ontario.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | salsa-on-st-clair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | samantha-bee | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sarah-polley | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | sars-outbreak | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scadding-cabin | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Scarborough_Bluffs,_May_4_2026_(07).jpg | Scarborough Bluffs — Wikimedia Commons, CC BY-SA 4.0 | scarborough | [File page](https://commons.wikimedia.org/wiki/File:Scarborough_Bluffs,_May_4_2026_(07).jpg) |
