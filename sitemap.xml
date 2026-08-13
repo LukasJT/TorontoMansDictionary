@@ -41,6 +41,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/2003-blackout-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/adult-esl-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -52,6 +57,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/ajax.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/alderwood.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -231,6 +241,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/cbc-broadcasting-centre-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/cbc-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -241,12 +256,27 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/cfrb-radio-history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/chinese-food-dim-sum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/chinese-head-tax.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/christie-pits-riot-1933.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/chum-radio-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -496,6 +526,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/glenn-gould-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/go-transit.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -546,6 +581,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/holy-blossom-temple.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/homelessness.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -571,6 +611,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/humber-bay-arch-bridge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/imax-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -587,6 +632,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/jamaican-patty-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/jami-mosque-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -636,6 +686,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/leaside-bridge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/leslieville.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -676,6 +731,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/little-trinity-church.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/loblaws-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -687,6 +747,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/luminato-festival.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/luminous-veil-bloor-viaduct.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -752,6 +817,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/mel-lastman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/metropolitan-united-church.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/michael-ondaatje-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -956,6 +1031,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/rc-harris-water-treatment-plant.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/regent-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -976,7 +1056,17 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/rl-hearn-generating-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/rob-ford.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/robertson-davies-massey-college.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1027,6 +1117,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/sars-outbreak.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/scarborough-bluffs-erosion.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1091,6 +1186,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/spanish-flu-toronto-1918.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/speakers-corner.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1101,7 +1201,17 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/st-james-cathedral.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/st-lawrence-market.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/st-michaels-cathedral-basilica.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1407,6 +1517,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/wychwood.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/yonge-street-riot-1992.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
