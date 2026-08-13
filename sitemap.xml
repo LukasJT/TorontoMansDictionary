@@ -661,6 +661,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/mars-discovery-district.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/marshall-mcluhan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -707,6 +712,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/mississauga.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/mount-sinai-hospital.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -786,6 +796,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ontario-science-centre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/orangeville.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -822,6 +837,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/presto-card.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/princess-margaret-cancer-centre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

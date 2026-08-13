@@ -5632,6 +5632,90 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "mount-sinai-hospital",
+        "title": "Mount Sinai Hospital: Founded Because Other Hospitals Wouldn't Hire Jewish Doctors",
+        "kicker": "A charity that started in a small house on Yorkville Avenue",
+        "h1": "Mount Sinai Hospital",
+        "dek": "In the early 1920s, almost no Toronto hospital would hire a Jewish doctor. A women's charitable group opened one that would — and it grew into a major research hospital on University Avenue.",
+        "meta_desc": "The history of Mount Sinai Hospital in Toronto: its 1922 founding by the Ezras Noshem women's charitable group, in response to discrimination against Jewish doctors and patients.",
+        "keywords": "Mount Sinai Hospital Toronto history, Jewish hospital Toronto, Ezras Noshem",
+        "hero_img": "Mount_Sinai_Hospital_(50601558238).jpg",
+        "hero_alt": "Mount Sinai Hospital, Toronto",
+        "hero_credit": "Mount Sinai Hospital, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>In May 1922, a charitable women\'s group called the Ezras Noshem founded the Toronto Jewish Maternity and Convalescent Hospital in a small house on Yorkville Avenue. It was founded for two overlapping reasons: non-English-speaking Jewish immigrants needed culturally safe healthcare and access to kosher food, which no Toronto hospital provided, and — with very few exceptions — no hospital in the city was willing to hire Jewish doctors.</p>'),
+            ("A career-long barrier for Jewish physicians", '<p>The Jewish community, and Jewish doctors specifically, faced sustained prejudice in Toronto after 1900 and through the interwar period. Dr. Abraham Isaac Willinsky, who graduated from the University of Toronto medical school in 1908, was initially unable to find a residency position or job anywhere in the city because of antisemitism — one of the only Jewish physicians allowed to work at a Toronto hospital other than the one his community was building.</p>'),
+            ("Growth into a major research hospital", '<p>The hospital, renamed Mount Sinai Hospital, grew over the following decades from that Yorkville Avenue house into a major teaching and research institution, now located at 600 University Avenue and connected by bridges and tunnels to <a href="princess-margaret-cancer-centre.html">Princess Margaret Cancer Centre</a> and the other hospitals of University Health Network.</p>'),
+        ],
+        "sources": [
+            ("Being Jewish in Ontario — Mount Sinai Hospital", "https://www.beingjewishinontario.org/mount-sinai-hospital/"),
+            ("Temerty Faculty of Medicine — Honouring Canadian Jewish Heritage Month", "https://temertymedicine.utoronto.ca/honouring-canadian-jewish-heritage-month"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "princess-margaret-cancer-centre",
+        "title": "Princess Margaret Cancer Centre: Canada's Largest Cancer Program",
+        "kicker": "Founded in 1952 as the Ontario Cancer Institute",
+        "h1": "Princess Margaret Cancer Centre",
+        "dek": "A princess cut the ribbon twice, three decades apart, as this hospital grew from a single 1958 building into the largest comprehensive cancer program in Canada.",
+        "meta_desc": "The history of Princess Margaret Cancer Centre in Toronto: its 1952 founding as the Ontario Cancer Institute, its 1995 move to University Avenue, and its integration into University Health Network.",
+        "keywords": "Princess Margaret Cancer Centre history, Ontario Cancer Institute, University Health Network Toronto",
+        "hero_img": "Princess_Margaret_Hospital_Toronto_South_Building.JPG",
+        "hero_alt": "Princess Margaret Cancer Centre's South Building in Toronto",
+        "hero_credit": "Princess Margaret Cancer Centre, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Princess Margaret Hospital was founded as the Ontario Cancer Institute in 1952 by the Ontario government, originally located at 500 Sherbourne Street. It was officially opened in 1958 by Her Royal Highness Princess Margaret, and renamed in her honour to mark the occasion.</p>'),
+            ("A move, a merger, and a renaming", '<p>In 1995, the hospital moved to its current location on University Avenue, among the greatest concentration of teaching and research hospitals in the country. In 1998, it became part of University Health Network, merging its oncology services with those of <a href="mount-sinai-hospital.html">Mount Sinai</a>-adjacent Toronto General and Toronto Western hospitals. In 2012, it was renamed the Princess Margaret Cancer Centre, and the program is now described as the largest comprehensive cancer program in Canada.</p>'),
+        ],
+        "sources": [
+            ("University Health Network — Princess Margaret Cancer Centre History", "https://www.uhn.ca/corporate/AboutUHN/OurHistory/Pages/princess_margaret_history.aspx"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "ontario-science-centre",
+        "title": "The Ontario Science Centre: Closed in 2024, Moving to Ontario Place",
+        "kicker": "A 1969 centennial project, abruptly shuttered over roof concerns",
+        "h1": "The Ontario Science Centre",
+        "dek": "Raymond Moriyama's celebrated Don Valley building opened for Canada's 1967 centennial celebrations and ran for 55 years — until the province closed it in 2024, with a smaller replacement planned for Ontario Place by 2028.",
+        "meta_desc": "The history of the Ontario Science Centre: its 1969 opening as a Canadian centennial project designed by Raymond Moriyama, and its 2024 closure ahead of a planned move to Ontario Place.",
+        "keywords": "Ontario Science Centre history, Ontario Science Centre closure, Raymond Moriyama",
+        "hero_img": "Ontario_Science_Centre_Bridge_2023.jpg",
+        "hero_alt": "A bridge at the Ontario Science Centre in Toronto",
+        "hero_credit": "Ontario Science Centre, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Plans for the Ontario Science Centre were first announced by Premier John Robarts in 1964 as one of Ontario\'s projects for Canada\'s 1967 centennial. The Don Valley site was selected, and architect Raymond Moriyama — in his first major project — was commissioned to design it. The Centre opened to the general public on September 28, 1969.</p>'),
+            ("A 2024 closure", '<p>The building was abruptly closed to the public on June 21, 2024, by the Ontario government, citing structural safety concerns related to the 55-year-old building\'s roof — though a government-commissioned engineering report on deteriorating roof panels had not recommended immediate closure, a decision Moriyama\'s own architecture firm publicly called "a political move." The province has announced plans to permanently relocate the Science Centre to <a href="ontario-place.html">Ontario Place</a> as part of that waterfront site\'s redevelopment, with a smaller footprint and fewer staff, and an anticipated opening in 2028. The fate of Moriyama\'s original building remains unresolved.</p>'),
+        ],
+        "sources": [
+            ("The Canadian Encyclopedia — Ontario Science Centre", "https://www.thecanadianencyclopedia.ca/en/article/ontario-science-centre"),
+            ("CBC News — Architecture Firm Behind Ontario Science Centre Says Closure Was 'a Political Move'", "https://www.cbc.ca/news/canada/toronto/science-centre-moriyama-teshima-architects-1.7248162"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "mars-discovery-district",
+        "title": "MaRS Discovery District: Built on the Site Where Insulin Was Tested",
+        "kicker": "North America's largest urban innovation hub, on a 1913 hospital site",
+        "h1": "MaRS Discovery District",
+        "dek": "The old Toronto General Hospital building where insulin was first clinically tested became, nearly a century later, the anchor of a 1.5-million-square-foot innovation hub.",
+        "meta_desc": "The history of MaRS Discovery District in Toronto: its 2000 founding, its 2005 opening on the former Toronto General Hospital site, and its growth into North America's largest urban innovation hub.",
+        "keywords": "MaRS Discovery District history, Toronto General Hospital insulin site, Toronto innovation hub",
+        "hero_img": "Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg",
+        "hero_alt": "Toronto General Hospital, whose former site anchors MaRS Discovery District",
+        "hero_credit": "Toronto General Hospital — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>The MaRS campus sits on the 1913 site of Toronto General Hospital, where numerous clinical and research breakthroughs happened, including the first clinical testing of <a href="medical-history.html">insulin</a> and the discovery of heparin. The Medical and Related Sciences corporation — MaRS — was founded in 2000 as a non-profit affiliated with the University of Toronto, built to support the commercial development of research produced by the university.</p>'),
+            ("North America\'s largest urban innovation hub", '<p>MaRS opened in 2005, built around the hospital\'s original building, now known as the Heritage Building. The complex has since expanded to include an Atrium, South Tower, Medical Discovery Tower and West Tower, growing to roughly 1.5 million square feet — described as one of the world\'s largest urban innovation hubs, anchored on the exact site where one of Toronto\'s most consequential medical discoveries first reached patients.</p>'),
+        ],
+        "sources": [
+            ("Heritage Toronto — Healthcare Legacies: MaRS Discovery District", "https://www.heritagetoronto.org/explore/healthcare-legacies/mars-discovery-district/"),
+            ("MaRS Discovery District — MaRS: A History of Innovation", "https://www.marsdd.com/news/mars-a-history-of-innovation/"),
+        ],
+        "related_words": [],
+    },
 ]
 
 
@@ -5985,6 +6069,8 @@ SLUG_CATEGORIES = {
     "td-centre": "Landmarks & Architecture", "commerce-court": "Landmarks & Architecture",
     "first-canadian-place": "Landmarks & Architecture", "scotia-plaza": "Landmarks & Architecture",
     "aura-college-park": "Landmarks & Architecture",
+    "mount-sinai-hospital": "Science, Health & Education", "princess-margaret-cancer-centre": "Science, Health & Education",
+    "ontario-science-centre": "Science, Health & Education", "mars-discovery-district": "Science, Health & Education",
 }
 
 
