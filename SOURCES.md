@@ -91,6 +91,7 @@ and license for each image:
 | Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg | Bell Media, Queen Street, Toronto — Wikimedia Commons, Creative Commons licensed | broadcasting | [File page](https://commons.wikimedia.org/wiki/File:Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg) |
 | Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg | Beaverton, Ontario, 1910 — Wikimedia Commons, public domain | brock-township | [File page](https://commons.wikimedia.org/wiki/File:Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | broken-social-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | buddies-in-bad-times-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Spencer_Smith_Park_in_Burlington,_Ontario.jpg | Spencer Smith Park, Burlington — Wikimedia Commons, Creative Commons licensed | burlington | [File page](https://commons.wikimedia.org/wiki/File:Spencer_Smith_Park_in_Burlington,_Ontario.jpg) |
 | Toronto_Cabbage_Town_1_(8437347293).jpg | Cabbagetown, Toronto — Alain Rouiller, CC BY-SA 2.0 | cabbagetown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Cabbage_Town_1_(8437347293).jpg) |
 | Cheltenham_Badlands,_Caledon_Hills,_Ontario,_Canada._(7097453311).jpg | Cheltenham Badlands, Caledon — kaybee07, Wikimedia Commons, CC BY 2.0 | caledon | [File page](https://commons.wikimedia.org/wiki/File:Cheltenham_Badlands,_Caledon_Hills,_Ontario,_Canada._(7097453311).jpg) |
@@ -176,6 +177,7 @@ and license for each image:
 | Coca-Cola_Coliseum,_Exhibition_Place,_Toronto,_Ontario_(29901775271).jpg | Coca-Cola Coliseum, Exhibition Place — Wikimedia Commons, CC BY-SA 2.0 | exhibition-place | [File page](https://commons.wikimedia.org/wiki/File:Coca-Cola_Coliseum,_Exhibition_Place,_Toronto,_Ontario_(29901775271).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | exhibition-stadium | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Tree_falls_on_vehicle_-_Toronto_Ice_Storm_2013.jpg | Toronto Ice Storm, 2013 — Wikimedia Commons, Creative Commons licensed | extreme-weather | [File page](https://commons.wikimedia.org/wiki/File:Tree_falls_on_vehicle_-_Toronto_Ice_Storm_2013.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | factory-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fairmont-royal-york | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | famous-torontonians | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Caribana_Toronto_2011_(2).jpg | Caribana Toronto — Ruth Choi, CC BY-SA 2.0 | festivals | [File page](https://commons.wikimedia.org/wiki/File:Caribana_Toronto_2011_(2).jpg) |
@@ -309,6 +311,7 @@ and license for each image:
 | Old_Town_Hall-460_Botsford_Street-Newmarket-Ontario-HPC6381-20200905.jpg | Old Town Hall, Newmarket — Wikimedia Commons, CC BY-SA 4.0 | newmarket | [File page](https://commons.wikimedia.org/wiki/File:Old_Town_Hall-460_Botsford_Street-Newmarket-Ontario-HPC6381-20200905.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | newspapers | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | nicknames | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | nightwood-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Michael_Jewison_and_Norman_Jewison_at_the_2009_CFC_in_L.A._event._(48198981497).jpg | Norman Jewison, Canadian Film Centre event — Wikimedia Commons, Creative Commons licensed | norman-jewison | [File page](https://commons.wikimedia.org/wiki/File:Michael_Jewison_and_Norman_Jewison_at_the_2009_CFC_in_L.A._event._(48198981497).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | noronic-fire-1949 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | MelLastmanSquare_-_2015June03.jpg | Mel Lastman Square, North York — Wikimedia Commons, CC BY-SA 4.0 | north-york | [File page](https://commons.wikimedia.org/wiki/File:MelLastmanSquare_-_2015June03.jpg) |
@@ -389,6 +392,7 @@ and license for each image:
 | Scotia_Plaza,_Toronto,_Ontario_(21814386916).jpg | Scotia Plaza, Toronto — Wikimedia Commons, Creative Commons licensed | scotia-plaza | [File page](https://commons.wikimedia.org/wiki/File:Scotia_Plaza,_Toronto,_Ontario_(21814386916).jpg) |
 | Scotiabank_Arena.jpg | Scotiabank Arena, Toronto — Wikimedia Commons, CC BY-SA 4.0 | scotiabank-arena | [File page](https://commons.wikimedia.org/wiki/File:Scotiabank_Arena.jpg) |
 | Former_Port_Perry_Town_Hall.JPG | Former Port Perry Town Hall — Wikimedia Commons, Creative Commons licensed | scugog-port-perry | [File page](https://commons.wikimedia.org/wiki/File:Former_Port_Perry_Town_Hall.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | second-city-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | second-cup | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Humber_College_North_Campus_Aerial_view_2023.jpg | Humber College North Campus — Canmenwalker, Wikimedia Commons, CC BY 4.0 | seneca-centennial-humber | [File page](https://commons.wikimedia.org/wiki/File:Humber_College_North_Campus_Aerial_view_2023.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | shopify-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -432,6 +436,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-opera-house-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-rivoli | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-weeknd-scarborough | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | theatre-passe-muraille | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | thorncliffe-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | 2013_Toronto_Film_Festival_August_29_(9737565818).jpg | Toronto International Film Festival, 2013 — Wikimedia Commons, Creative Commons licensed | tiff-festival-history | [File page](https://commons.wikimedia.org/wiki/File:2013_Toronto_Film_Festival_August_29_(9737565818).jpg) |
 | TIFF_Bell_Lightbox_Founder_Lounge_2023.jpg | TIFF Bell Lightbox — Wikimedia Commons, CC BY 4.0 | tiff-lightbox | [File page](https://commons.wikimedia.org/wiki/File:TIFF_Bell_Lightbox_Founder_Lounge_2023.jpg) |
@@ -447,6 +452,7 @@ and license for each image:
 | Toronto_Christmas_Market_2018_clock.jpg | Toronto Christmas Market, 2018 — Jason Zhang, CC BY-SA 3.0 | toronto-christmas-market | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Christmas_Market_2018_clock.jpg) |
 | Glenn_Gould_and_Alberto_Guerrero.jpg | Glenn Gould and Alberto Guerrero — Library and Archives Canada, public domain | toronto-classical-music | [File page](https://commons.wikimedia.org/wiki/File:Glenn_Gould_and_Alberto_Guerrero.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-craft-distilleries | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-dance-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-fc-2017-treble | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | BMO_Field,_Toronto,_Ontario_(29969149766).jpg | BMO Field, Toronto — Wikimedia Commons, Creative Commons licensed | toronto-fc-founding | [File page](https://commons.wikimedia.org/wiki/File:BMO_Field,_Toronto,_Ontario_(29969149766).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-food-trucks | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |

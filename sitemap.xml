@@ -276,6 +276,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/buddies-in-bad-times-theatre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/burlington.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -697,6 +702,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/extreme-weather.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/factory-theatre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1371,6 +1381,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/nightwood-theatre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/norman-jewison.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1771,6 +1786,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/second-city-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/second-cup.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1986,6 +2006,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/theatre-passe-muraille.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/thorncliffe-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2057,6 +2082,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-craft-distilleries.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-dance-theatre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
