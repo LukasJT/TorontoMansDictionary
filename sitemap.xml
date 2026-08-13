@@ -51,6 +51,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/agincourt-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/airports.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -112,6 +117,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/avro-arrow.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/balmy-beach.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -516,6 +526,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/dragon-boat-race-festival.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/drake-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -776,6 +791,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/hockey-hall-of-fame.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/holy-blossom-temple.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -851,6 +871,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/jane-and-finch.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/jim-carrey.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -882,6 +907,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/kensington-pedestrian-sundays.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/kew-beach.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1002,6 +1032,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/magna-international.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/malvern-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1231,6 +1266,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ontario-food-terminal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ontario-line.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1361,6 +1401,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/rexdale.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/richmond-hill.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1477,6 +1522,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/scarborough-rt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/scarborough-town-centre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1991,6 +2041,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/weston-village.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/whitby.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2007,6 +2062,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/winter-festivals.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/winter-stations.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
