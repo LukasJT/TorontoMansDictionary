@@ -5531,6 +5531,107 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "td-centre",
+        "title": "The TD Centre: Mies van der Rohe's Only Canadian Commission",
+        "kicker": "One of the last projects the modernist master ever designed",
+        "h1": "The Toronto-Dominion Centre",
+        "dek": "When black steel-and-glass towers replaced a Beaux-Arts bank headquarters in 1967, they permanently changed what a Toronto skyscraper was supposed to look like — designed by the same architect behind Manhattan's Seagram Building.",
+        "meta_desc": "The history of the Toronto-Dominion Centre: Mies van der Rohe's modernist office complex, completed from 1967, and its lasting impact on Toronto's skyline.",
+        "keywords": "Toronto-Dominion Centre history, Mies van der Rohe Toronto, TD Centre architecture",
+        "hero_img": "Toronto-Dominion_Centre_in_Toronto_1973.jpg",
+        "hero_alt": "The Toronto-Dominion Centre in 1973",
+        "hero_credit": "Toronto-Dominion Centre, 1973 — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>In 1962, the Toronto-Dominion Bank and a development company owned by the Bronfman family announced they would jointly develop a huge combined property that included TD\'s celebrated 1913 Beaux-Arts headquarters. They hired Ludwig Mies van der Rohe — one of the last projects the modernist master designed before his death in 1969 — working with local firms John B. Parkin Associates and Bregman + Hamann.</p>'),
+            ("Steel, glass, and a changed skyline", '<p>The initial phase comprised three buildings: the 56-storey TD Bank Tower, completed in 1967; a one-storey Banking Pavilion, completed in 1968; and the 46-storey Royal Trust Tower, completed in 1969. The complex is a classic example of Mies\'s International Style, emphasizing structural clarity and open, flowing spaces built from steel and glass — the same architectural language behind his 1957 Seagram Building in New York. The arrival of the twin towers signalled a dramatic shift in the city\'s prevailing style: for the first time, a major commercial development took over almost an entire city block, and a high-rise of steel and glass became <a href="toronto-big-five-banks.html">Toronto\'s tallest building</a>.</p>'),
+        ],
+        "sources": [
+            ("Heritage Toronto — Toronto-Dominion Centre: A Modern Masterpiece", "https://www.heritagetoronto.org/explore/td-centre-54th-floor/"),
+            ("Ontario Heritage Trust — Toronto-Dominion Centre", "https://www.heritagetrust.on.ca/provincial-plaque-program/provincial-plaque-background-papers/toronto-dominion-centre"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "commerce-court",
+        "title": "Commerce Court: Tallest in the British Empire, for About a Year",
+        "kicker": "A gold-coffered ceiling and a very short-lived record",
+        "h1": "Commerce Court",
+        "dek": "The Canadian Bank of Commerce's 1931 tower claimed the tallest-building title in the British Empire — a record it had actually just taken from the hotel next door, and would lose again three decades later.",
+        "meta_desc": "The history of Commerce Court in Toronto: the 1931 Canadian Bank of Commerce tower, its brief reign as the tallest building in the British Empire, and its Art Deco design.",
+        "keywords": "Commerce Court history, Canadian Bank of Commerce building, tallest building British Empire",
+        "hero_img": "Commerce_Court_North.JPG",
+        "hero_alt": "Commerce Court North in Toronto",
+        "hero_credit": "Commerce Court, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>The 34-storey limestone tower now known as Commerce Court North was built for the Canadian Bank of Commerce, designed jointly by the Toronto firm Darling and Pearson and the New York firm York and Sawyer. It opened in 1931 at 476 feet, claiming the title of tallest building in the British Empire — a record it had just taken from the Royal York Hotel next door, which had held it since 1929.</p>'),
+            ("A showplace, and a fast-broken record", '<p>With its vaulted, gold-coffered ceiling and Art Deco detailing, the tower was a showplace of its era and remains a treasured heritage building in Toronto\'s financial core. Its reign as the British Empire\'s tallest building lasted only about three decades before being surpassed in 1962. The complex expanded significantly in the 1970s when the Canadian Bank of Commerce merged with the Imperial Bank of Canada to form <a href="toronto-big-five-banks.html">CIBC</a>, which added new towers to the site.</p>'),
+        ],
+        "sources": [
+            ("Historic Toronto — Toronto's Architectural Gems: The Bank of Commerce (CIBC) on King Street", "https://tayloronhistory.com/2013/02/18/torontos-architectural-gemsthe-bank-of-commerce-cibc-on-king-street/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "first-canadian-place",
+        "title": "First Canadian Place: Canada's Tallest, Since 1975",
+        "kicker": "A record held for half a century and counting",
+        "h1": "First Canadian Place",
+        "dek": "Completed in 1975, this BMO-headquartered tower has held the title of Canada's tallest building for longer than most Torontonians have been alive.",
+        "meta_desc": "The history of First Canadian Place in Toronto: its 1973-1975 construction, its status as Canada's tallest building since 1975, and its role as BMO's Ontario headquarters.",
+        "keywords": "First Canadian Place history, tallest building Canada, BMO headquarters Toronto",
+        "hero_img": "First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg",
+        "hero_alt": "First Canadian Place, Toronto",
+        "hero_credit": "First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0",
+        "sections": [
+            (None, '<p>First Canadian Place was constructed from 1973 to 1975, rising 298 metres across 72 floors in Toronto\'s Financial District. It became the tallest office building in Toronto and Canada on January 13, 1975, when steelworker Gerry Deschamps bolted the first structural beam higher than the previous record — a title the building has held ever since.</p>'),
+            ("A world-record sign", '<p>When completed, First Canadian Place was the sixth-tallest building in the world by structural top, and the tallest anywhere outside Chicago and New York. The Bank of Montreal "M-bar" logo mounted at the top of the building was the highest sign in the world from 1975 until it was overtaken by a sign atop CITIC Plaza in Guangzhou, China, in 1997. The tower remains <a href="toronto-big-five-banks.html">BMO\'s</a> Ontario headquarters and underwent a major renovation from 2009 to 2012.</p>'),
+        ],
+        "sources": [
+            ("Spacing Toronto — First Canadian Place: 40 Years on Top in Toronto", "https://spacing.ca/toronto/2015/05/13/first-canadian-place-40-years-top-toronto/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "scotia-plaza",
+        "title": "Scotia Plaza: A Modern Tower Wrapped Around a Heritage Bank",
+        "kicker": "Canada's third-tallest skyscraper, built into a 1951 landmark",
+        "h1": "Scotia Plaza",
+        "dek": "Rather than demolish the Bank of Nova Scotia's heritage-designated 1951 building, developers built one of Toronto's tallest towers directly onto and around it.",
+        "meta_desc": "The history of Scotia Plaza in Toronto: its 1985-1988 construction incorporating the heritage-designated Bank of Nova Scotia building, and its status as Canada's third-tallest skyscraper.",
+        "keywords": "Scotia Plaza history, Bank of Nova Scotia building Toronto, Toronto skyscrapers",
+        "hero_img": "Scotia_Plaza,_Toronto,_Ontario_(21814386916).jpg",
+        "hero_alt": "Scotia Plaza in Toronto",
+        "hero_credit": "Scotia Plaza, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Scotia Plaza, at 40 King Street West, was built between 1985 and 1988, rising 275 metres to become Canada\'s third-tallest skyscraper. Rather than clear the site entirely, the development incorporates the historic Beaux-Arts Bank of Nova Scotia Building, built between 1946 and 1951 and designated significant under the Ontario Heritage Act in 1975.</p>'),
+            ("A 40-metre atrium", '<p>The tower features a dramatic 40-metre-high atrium connecting the heritage building to the modern tower behind it, a design solution that let <a href="toronto-big-five-banks.html">Scotiabank</a> keep its architecturally significant headquarters building intact while gaining the office space of a modern high-rise on the same site.</p>'),
+        ],
+        "sources": [
+            ("Schindler Group — Scotia Plaza, Toronto", "https://group.schindler.com/en/media/references/scotia-plaza.html"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "aura-college-park",
+        "title": "Aura: Canada's Tallest Residential Building",
+        "kicker": "80 storeys, the final phase of a decades-long condo project",
+        "h1": "Aura at College Park",
+        "dek": "The last building in a residential complex begun decades earlier became, on completion in 2014, the tallest residential tower in the country — a very different kind of record from the bank-owned office towers nearby.",
+        "meta_desc": "The history of Aura at College Park in Toronto: its 2010-2014 construction as the final phase of the Residences of College Park, and its status as Canada's tallest residential building.",
+        "keywords": "Aura Toronto history, tallest residential building Canada, College Park condos Toronto",
+        "hero_img": "Aura_Condo_at_College_Park,_Toronto_Ontario.JPG",
+        "hero_alt": "Aura, a residential tower at College Park in Toronto",
+        "hero_credit": "Aura, College Park, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Aura is a mixed-use skyscraper at 366-388 Yonge Street, built between 2010 and 2014, standing 272 metres tall across 78 floors. It is the final phase of the Residences of College Park, a series of condominium buildings built in stages in Toronto\'s Downtown Yonge district.</p>'),
+            ("Canada\'s tallest residential building", '<p>As of 2018, Aura is the tallest residential building in Canada — a very different kind of record from the bank-headquartered office towers that dominate lists of Toronto\'s tallest buildings, reflecting how much of the city\'s recent vertical growth has been driven by condo development rather than corporate headquarters.</p>'),
+        ],
+        "sources": [
+            ("The Condo Lounge — The Story Behind Aura at College Park", "https://www.thecondolounge.com/the-story-behind-aura-at-college-park/"),
+        ],
+        "related_words": [],
+    },
 ]
 
 
@@ -5881,6 +5982,9 @@ SLUG_CATEGORIES = {
     "whitchurch-stouffville": "Neighbourhoods & Suburbs", "east-gwillimbury": "Neighbourhoods & Suburbs",
     "bradford-west-gwillimbury": "Neighbourhoods & Suburbs", "scugog-port-perry": "Neighbourhoods & Suburbs",
     "brock-township": "Neighbourhoods & Suburbs", "orangeville": "Neighbourhoods & Suburbs",
+    "td-centre": "Landmarks & Architecture", "commerce-court": "Landmarks & Architecture",
+    "first-canadian-place": "Landmarks & Architecture", "scotia-plaza": "Landmarks & Architecture",
+    "aura-college-park": "Landmarks & Architecture",
 }
 
 

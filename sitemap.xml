@@ -71,6 +71,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/aura-college-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/aurora.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -271,6 +276,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/commerce-court.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/conn-smythe.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -397,6 +407,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/festivals.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/first-canadian-place.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -911,6 +926,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/scotia-plaza.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/scugog-port-perry.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -977,6 +997,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/swansea.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/td-centre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
