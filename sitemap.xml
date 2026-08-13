@@ -66,6 +66,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/alexandra-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/architecture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -461,6 +466,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/dufferin-grove-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/durham-region.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -527,6 +537,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/etobicoke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/evergreen-brick-works.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -861,6 +876,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/little-jamaica.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/little-portugal-bakeries.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1007,6 +1027,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/moore-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/moss-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1232,6 +1257,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/riverdale-farm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/riverdale-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
