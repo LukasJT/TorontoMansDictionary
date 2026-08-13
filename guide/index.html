@@ -77,7 +77,7 @@
     </nav>
 
     <header class="article-header">
-      <p class="hero-kicker">Beyond the dictionary — 169 articles</p>
+      <p class="hero-kicker">Beyond the dictionary — 175 articles</p>
       <h1>The Toronto Guide</h1>
       <p class="article-dek">This site started as a slang dictionary, but the slang doesn't make sense without the city behind it. History, every GTA suburb, government, infrastructure, sports championships, business history, arts and culture — real research, real sources, real photos.</p>
       <button type="button" id="surprise-me-btn" class="btn-ghost">🎲 Surprise me →</button>
@@ -1250,6 +1250,48 @@
           <p>A massive security operation, a small number of Black Bloc property-destruction incidents, and a mass police response that resulted in over 1,100 arrests — most never leading to charges.</p>
         </div>
       </a>
+      <a class="guide-card" href="marshall-mcluhan.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Marshall_McLuhan_1967.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Marshall McLuhan&#x27;s Toronto</h2>
+          <p>The media theorist behind &quot;the medium is the message&quot; and &quot;the global village&quot; wasn&#x27;t born in Toronto — but his entire career, and the ideas that made him famous, were built at the University of Toronto.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="northrop-frye.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Northrop_Frye_sitting_on_a_bench_at_the_University_of_Toronto.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Northrop Frye&#x27;s Victoria College</h2>
+          <p>The literary critic behind Anatomy of Criticism entered Victoria College at 17 and never really left — a career spanning student, professor, department chair, principal and chancellor, almost entirely on one Toronto campus.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="margaret-atwood.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Margaret_Atwood_2015.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Margaret Atwood&#x27;s Toronto</h2>
+          <p>Atwood moved to Toronto at six years old, studied under Northrop Frye at Victoria College, and has lived in the Annex neighbourhood since the mid-1980s — making her arguably the district&#x27;s most famous literary resident.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="norman-jewison.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jewison_and_Norman_Jewison_at_the_2009_CFC_in_L.A._event._(48198981497).jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Norman Jewison</h2>
+          <p>Born in the Beaches to a general-store family, Norman Jewison went on to direct In the Heat of the Night, Fiddler on the Roof and Moonstruck — then came back to Toronto to build a training ground for the next generation.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="michael-ondaatje.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Ondaatje_at_Tulane_2010.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>Michael Ondaatje&#x27;s Toronto Literary Life</h2>
+          <p>The author of The English Patient built his literary career from a Toronto small press and a bilingual college campus — a quieter Toronto story than the Booker Prize and nine-Oscar film that made him famous.</p>
+        </div>
+      </a>
+      <a class="guide-card" href="ej-pratt.html">
+        <div class="guide-card-img" style="background-image:url('https://commons.wikimedia.org/wiki/Special:FilePath/E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg')"></div>
+        <div class="guide-card-body">
+          <h2>E.J. Pratt</h2>
+          <p>Newfoundland-born, Toronto-made — E.J. Pratt taught at Victoria College for 46 years while becoming, in the words of one encyclopedia, the foremost Canadian poet of the century&#x27;s first half.</p>
+        </div>
+      </a>
       </div>
     </section>
     <section id="science-health-education" class="guide-category">
@@ -1365,7 +1407,7 @@
 
 <script>
   (function () {
-    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca", "halton-hills", "aurora", "king-township", "uxbridge", "caledon", "clarington"];
+    var slugs = ["history", "neighbourhoods", "landmarks", "food", "sports", "festivals", "multiculturalism", "transit", "parks", "media", "economy", "education", "nicknames", "indigenous-history", "weather", "architecture", "art", "waterfront", "lgbtq-village", "medical-history", "tech-scene", "public-library", "housing", "cne", "famous-torontonians", "airports", "government", "comedy", "zoo-science-centre", "craft-beer", "safety", "ethnic-enclaves", "ravines", "newspapers", "cycling", "religion", "coffee-culture", "union-station", "go-transit", "ontario-place", "extreme-weather", "cocktail-scene", "broadcasting", "scarborough", "etobicoke", "north-york", "mississauga", "brampton", "vaughan", "york", "east-york", "markham", "oakville", "durham-region", "richmond-hill", "ajax", "whitby", "pickering", "burlington", "milton", "newmarket", "st-lawrence-market", "bloor-viaduct", "toronto-islands-ferry", "performing-arts", "video-games", "homelessness", "water-treatment", "cemeteries", "shopping-malls", "sars-outbreak", "ocad-university", "winter-festivals", "casa-loma", "rom", "avro-arrow", "gardiner-dvp", "queens-park", "board-game-cafes", "cn-tower", "rogers-centre", "kensington-market", "literary-scene", "path", "high-park", "massey-hall", "group-of-seven", "osgoode-hall", "the-junction", "toronto-harbour", "railways", "lcbo-history", "tiff-lightbox", "banks", "raptors-2019", "hospitals", "subway-art", "eatons-simpsons", "rogers-communications", "blue-jays-1992", "maple-leafs-1967", "presto-card", "chinese-head-tax", "nathan-phillips-square", "woodbine-racetrack", "argonauts-grey-cup", "toronto-hydro", "blue-jays-founding", "exhibition-place", "cbc-toronto", "speakers-corner", "much-music-awards", "canadian-screen-awards", "toronto-star-legacy", "tvo", "stem-cell-discovery", "connaught-labs", "imax-toronto", "vector-institute", "de-havilland-canada", "cystic-fibrosis-gene", "yorkville", "liberty-village", "the-beaches", "cabbagetown", "leslieville", "regent-park", "great-fire-1904", "mississauga-train-derailment", "covid-19-toronto", "eatons-annex-fire", "don-river-flooding", "ttc-subway-safety", "peameal-bacon-sandwich", "toronto-pizza-scene", "little-portugal-bakeries", "jamaican-patty-toronto", "tim-hortons-toronto", "chinese-food-dim-sum", "toronto-police-founding", "bathhouse-raids-1981", "bedford-v-canada", "g20-toronto-2010", "wrongful-convictions-ontario", "siu-ontario", "toronto-jazz-history", "yorkville-folk-scene", "massey-hall-performances", "toronto-hip-hop-before-drake", "canadian-music-week", "toronto-classical-music", "tdsb-history", "george-brown-college", "seneca-centennial-humber", "french-language-education-toronto", "toronto-arts-high-schools", "adult-esl-toronto", "tommy-thompson-park", "rouge-national-urban-park", "trinity-bellwoods-park", "beltline-trail", "riverdale-farm", "vale-of-avoca", "halton-hills", "aurora", "king-township", "uxbridge", "caledon", "clarington", "marshall-mcluhan", "northrop-frye", "margaret-atwood", "norman-jewison", "michael-ondaatje", "ej-pratt"];
     var btn = document.getElementById("surprise-me-btn");
     if (btn) {
       btn.addEventListener("click", function () {
