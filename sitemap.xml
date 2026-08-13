@@ -391,6 +391,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/elgin-winter-garden-theatre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ethnic-enclaves.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -941,6 +946,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/roy-thomson-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/safety.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -967,6 +977,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/scotia-plaza.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/scotiabank-arena.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

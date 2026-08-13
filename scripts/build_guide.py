@@ -5939,6 +5939,68 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "scotiabank-arena",
+        "title": "Scotiabank Arena: Three Openings in Three Nights",
+        "kicker": "Hockey, then basketball, then the Tragically Hip",
+        "h1": "Scotiabank Arena",
+        "dek": "Built on the site of a 1938 postal building, the arena that opened as Air Canada Centre in February 1999 hosted a hockey game, a basketball game, and a Tragically Hip concert on three consecutive nights.",
+        "meta_desc": "The history of Scotiabank Arena (formerly Air Canada Centre) in Toronto: its 1999 opening weekend, its 2018 renaming, and its role as home to the Maple Leafs and Raptors.",
+        "keywords": "Scotiabank Arena history, Air Canada Centre history, Toronto Maple Leafs Raptors arena",
+        "hero_img": "Scotiabank_Arena.jpg",
+        "hero_alt": "Scotiabank Arena in Toronto",
+        "hero_credit": "Scotiabank Arena, Toronto — Wikimedia Commons, CC BY-SA 4.0",
+        "sections": [
+            (None, '<p>The arena now known as Scotiabank Arena was built on the site of a Postal Delivery Building commissioned by the federal government in 1938. Groundbreaking for the new arena took place in February 1997, and construction was substantially complete by December 1998, designed by Brisbin Brook Beynon Architects and HOK Sport.</p>'),
+            ("Three openings, three nights", '<p>The arena opened as Air Canada Centre on February 20, 1999, with the <a href="maple-leaf-gardens.html">Maple Leafs</a> hosting the Montreal Canadiens — the first hockey game in the building. The following night, February 21, the Raptors hosted the Vancouver Grizzlies for the first basketball game, and on February 22 the Tragically Hip played the building\'s opening concert. The arena was renamed Scotiabank Arena in July 2018, and remains home to both the <a href="maple-leaf-gardens.html">Maple Leafs</a> and the <a href="raptors-2019.html">Raptors</a>.</p>'),
+        ],
+        "sources": [
+            ("Scotiabank Arena — History", "https://www.scotiabankarena.com/venue-information/about/history"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "roy-thomson-hall",
+        "title": "Roy Thomson Hall: A Rail Yard Turned Concert Hall",
+        "kicker": "Arthur Erickson's circular glass landmark, funded partly by the family it's named for",
+        "h1": "Roy Thomson Hall",
+        "dek": "Pierre Trudeau chaired the fundraising committee. The Thomson family put up $4.5 million of the $57 million cost. What resulted was one of Toronto's most recognizable pieces of modern architecture.",
+        "meta_desc": "The history of Roy Thomson Hall in Toronto: its 1982 opening, Arthur Erickson's circular glass design, and its role as home to the Toronto Symphony Orchestra.",
+        "keywords": "Roy Thomson Hall history, Arthur Erickson Toronto, Toronto Symphony Orchestra hall",
+        "hero_img": "Toronto_-_ON_-_Roy_Thomson_Hall.jpg",
+        "hero_alt": "Roy Thomson Hall in Toronto",
+        "hero_credit": "Roy Thomson Hall, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>Roy Thomson Hall opened on September 13, 1982, after construction that began in 1978 on the site of a former rail yard. The hall was named for media mogul Roy Thomson, whose family contributed $4.5 million toward the $57 million facility; fundraising had begun in 1977, with a committee chaired by Pierre Trudeau, William Davis, Paul Godfrey and <a href="david-crombie.html">David Crombie</a>.</p>'),
+            ("A circular glass landmark", '<p>Designed by architect Arthur Erickson with Mathers and Haldenby, the hall\'s circular, sloping glass exterior became one of Toronto\'s recognizable architectural landmarks. Violinist Itzhak Perlman acted as a special advisor to the architects on accessibility needs for disabled performers and guests. The 2,600-seat hall contains a pipe organ that cost over $650,000 and more than 20,000 hours of labour to build, and remains the home of the Toronto Symphony Orchestra.</p>'),
+        ],
+        "sources": [
+            ("The Canadian Encyclopedia — Toronto Feature: Roy Thomson Hall", "https://www.thecanadianencyclopedia.ca/en/article/toronto-feature-roy-thomson-hall"),
+            ("BlogTO — How Toronto Turned a Rail Yard Into Roy Thomson Hall", "https://www.blogto.com/city/2013/09/how_toronto_turned_a_rail_yard_in_to_roy_thomson_hall/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "elgin-winter-garden-theatre",
+        "title": "The Elgin and Winter Garden: The World's Last Double-Decker Theatre",
+        "kicker": "Saved from demolition, reopened 76 years to the day after it first opened",
+        "h1": "The Elgin and Winter Garden Theatre Centre",
+        "dek": "Two full-sized vaudeville theatres, stacked one above the other, closed for decades before a restoration reopened them on the exact anniversary of their original opening night.",
+        "meta_desc": "The history of the Elgin and Winter Garden Theatre Centre in Toronto: the 1913-14 double-decker vaudeville theatres, their 1928 closure, and their 1989 restoration and reopening.",
+        "keywords": "Elgin and Winter Garden Theatre history, double-decker theatre Toronto, Loew's Yonge Street theatre",
+        "hero_img": "Elgin_Theatre_interior.jpg",
+        "hero_alt": "The interior of the Elgin Theatre in Toronto",
+        "hero_credit": "Elgin Theatre interior, Toronto — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>At 189 Yonge Street stands the last operating double-decker theatre facility in the world: two full-sized theatres stacked one above the other, joined by a grand staircase. Designed by architect Thomas Lamb and built between 1912 and 1914 for vaudeville performances, the lower Loew\'s Theatre — renamed the Elgin in 1978 — opened on December 15, 1913, and the upper Winter Garden opened on February 16, 1914.</p>'),
+            ("Closed, then reopened on the anniversary", '<p>Vaudeville declined as "talkies" arrived in Toronto in 1927, and the Winter Garden closed in 1928, sitting largely untouched for decades. The stacked theatres were saved from demolition in 1981 by the Ontario Heritage Trust, restored, and reopened on December 15, 1989 — 76 years to the day after the original 1913 opening. Both theatres were designated National Historic Sites of Canada in 1982.</p>'),
+        ],
+        "sources": [
+            ("Parks Canada — Elgin and Winter Garden Theatres National Historic Site of Canada", "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=536"),
+            ("The Canadian Encyclopedia — Elgin and Winter Garden Theatre Centre", "https://www.thecanadianencyclopedia.ca/en/article/elgin-and-winter-garden-theatre-centre"),
+        ],
+        "related_words": [],
+    },
 ]
 
 
@@ -6300,6 +6362,8 @@ SLUG_CATEGORIES = {
     "shopify-toronto": "Business & Economy", "wattpad-toronto": "Business & Economy",
     "wealthsimple-toronto": "Business & Economy", "david-dunlap-observatory": "Science, Health & Education",
     "ubisoft-toronto": "Business & Economy",
+    "scotiabank-arena": "Sports", "roy-thomson-hall": "Arts, Media & Culture",
+    "elgin-winter-garden-theatre": "Landmarks & Architecture",
 }
 
 
