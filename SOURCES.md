@@ -46,6 +46,7 @@ and license for each image:
 |---|---|---|---|
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | 2003-blackout-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market, Toronto — Arild Vågen, CC BY-SA 4.0 (illustrative of Toronto's multiculturalism; no free-license photo of a specific LINC or adult ESL classroom could be verified) | adult-esl-toronto | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | aga-khan-museum | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | agincourt-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Pearson_Airport-Terminal_1.JPG | Toronto Pearson Airport, Terminal 1 — Wikimedia Commons, Creative Commons licensed | airports | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Pearson_Airport-Terminal_1.JPG) |
 | Ajax_Waterfront_Park_(cropped).jpg | Ajax Waterfront Park — Wikimedia Commons, CC BY 4.0 | ajax | [File page](https://commons.wikimedia.org/wiki/File:Ajax_Waterfront_Park_(cropped).jpg) |
@@ -85,6 +86,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | bradford-west-gwillimbury | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Brampton_City_Hall_West_Tower_(37520691101).jpg | Brampton City Hall — Wikimedia Commons, CC BY 2.0 | brampton | [File page](https://commons.wikimedia.org/wiki/File:Brampton_City_Hall_West_Tower_(37520691101).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | bridle-path | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | british-methodist-episcopal-church | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg | Bell Media, Queen Street, Toronto — Wikimedia Commons, Creative Commons licensed | broadcasting | [File page](https://commons.wikimedia.org/wiki/File:Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg) |
 | Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg | Beaverton, Ontario, 1910 — Wikimedia Commons, public domain | brock-township | [File page](https://commons.wikimedia.org/wiki/File:Mary_St._at_the_Bridge,_Beaverton,_Ontario,_Canada_(1910).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | broken-social-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -217,10 +219,12 @@ and license for each image:
 | Cinesphere,_at_Ontario_Place,_in_2012,_when_it_was_closed_for_several_years_(7157561345).jpg | Cinesphere, Ontario Place — Wikimedia Commons, Creative Commons licensed | imax-toronto | [File page](https://commons.wikimedia.org/wiki/File:Cinesphere,_at_Ontario_Place,_in_2012,_when_it_was_closed_for_several_years_(7157561345).jpg) |
 | Toronto_skyline_toronto_islands_b.JPG | Toronto skyline from the Toronto Islands — Wikimedia Commons, Creative Commons licensed | indigenous-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_toronto_islands_b.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | indigo-books | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ismaili-community-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Jamaican_patties_and_redstripe.jpg | Jamaican patties — Wikimedia Commons, CC BY-SA 2.0 | jamaican-patty-toronto | [File page](https://commons.wikimedia.org/wiki/File:Jamaican_patties_and_redstripe.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jami-mosque-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jane-and-finch | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | jane-jacobs | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | japanese-canadian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Jim_Carrey_2008.jpg | Jim Carrey, 2008 — Wikimedia Commons, CC BY-SA 2.0 | jim-carrey | [File page](https://commons.wikimedia.org/wiki/File:Jim_Carrey_2008.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | john-candy | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg | John Tory, 2018 — Wikimedia Commons, CC BY 2.0 | john-tory | [File page](https://commons.wikimedia.org/wiki/File:Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg) |
@@ -286,6 +290,7 @@ and license for each image:
 | Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg | 299 Queen Street West, Toronto — Wikimedia Commons, Creative Commons licensed | much-music-awards | [File page](https://commons.wikimedia.org/wiki/File:Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | muddy-york | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market — Arild Vågen, CC BY-SA 4.0 | multiculturalism | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | myseum-of-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | nathan-phillips-square | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | national-ballet-of-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | necropolis-cemetery | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -401,6 +406,7 @@ and license for each image:
 | Toronto-Dominion_Centre_in_Toronto_1973.jpg | Toronto-Dominion Centre, 1973 — Wikimedia Commons, Creative Commons licensed | td-centre | [File page](https://commons.wikimedia.org/wiki/File:Toronto-Dominion_Centre_in_Toronto_1973.jpg) |
 | Jarvis_CI.JPG | Jarvis Collegiate Institute — Simon Pulsifer, Wikimedia Commons, CC BY-SA 3.0 | tdsb-history | [File page](https://commons.wikimedia.org/wiki/File:Jarvis_CI.JPG) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | tech-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | textile-museum-of-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-519 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-annex | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | The_Beaches_aerial_view_2023.jpg | The Beaches, Toronto — Canmenwalker, CC BY 4.0 | the-beaches | [File page](https://commons.wikimedia.org/wiki/File:The_Beaches_aerial_view_2023.jpg) |
@@ -454,6 +460,7 @@ and license for each image:
 | Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg | TTC subway station, Toronto — Wikimedia Commons, Creative Commons licensed | ttc-subway-safety | [File page](https://commons.wikimedia.org/wiki/File:Pillar_at_Museum_Station,_TTC,_Toronto_-e.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | tvo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | ubisoft-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ukrainian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Union_Station_grand_hall.jpg | Union Station Great Hall — Wikimedia Commons, CC BY 2.0 | union-station | [File page](https://commons.wikimedia.org/wiki/File:Union_Station_grand_hall.jpg) |
 | UP_Express_at_Weston_P6143108.jpg | UP Express at Weston Station, Toronto — Wikimedia Commons, Creative Commons licensed | up-express | [File page](https://commons.wikimedia.org/wiki/File:UP_Express_at_Weston_P6143108.jpg) |
 | Uxbridge_downtown.jpg | Downtown Uxbridge, Ontario — Wikimedia Commons, CC BY 2.0 | uxbridge | [File page](https://commons.wikimedia.org/wiki/File:Uxbridge_downtown.jpg) |

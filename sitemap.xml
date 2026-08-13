@@ -51,6 +51,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/aga-khan-museum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/agincourt-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -242,6 +247,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/bridle-path.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/british-methodist-episcopal-church.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -911,6 +921,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ismaili-community-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/jamaican-patty-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -927,6 +942,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/jane-jacobs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/japanese-canadian-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1252,6 +1272,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/multiculturalism.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/myseum-of-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1831,6 +1856,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/textile-museum-of-canada.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/the-519.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2092,6 +2122,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/ubisoft-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/ukrainian-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
