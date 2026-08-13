@@ -626,6 +626,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ep-taylor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ethnic-enclaves.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -707,6 +712,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/fort-york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/foster-hewitt.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1236,6 +1246,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/muddy-york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/multiculturalism.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1292,6 +1307,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/north-york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/northern-dancer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1896,6 +1916,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-board-of-trade.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-catholic-district-school-board.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2222,6 +2247,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/wychwood.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/ymca-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

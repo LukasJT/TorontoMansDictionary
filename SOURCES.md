@@ -161,6 +161,7 @@ and license for each image:
 | E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg | E.J. Pratt Library, Victoria University — Wikimedia Commons, Creative Commons licensed | ej-pratt | [File page](https://commons.wikimedia.org/wiki/File:E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg) |
 | Elgin_Theatre_interior.jpg | Elgin Theatre interior, Toronto — Wikimedia Commons, Creative Commons licensed | elgin-winter-garden-theatre | [File page](https://commons.wikimedia.org/wiki/File:Elgin_Theatre_interior.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | emily-stowe | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ep-taylor | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue — Wikimedia Commons, CC BY-SA | ethnic-enclaves | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
 | Humber_Bay_Arch_Bridge_at_Night_1.jpg | Humber Bay Arch Bridge, Etobicoke — Wikimedia Commons, CC BY-SA 2.0 | etobicoke | [File page](https://commons.wikimedia.org/wiki/File:Humber_Bay_Arch_Bridge_at_Night_1.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | evergreen-brick-works | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -178,6 +179,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-rouille | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Fort_York_east_blockhouse_2.jpg | Fort York, Toronto — Wikimedia Commons, Creative Commons licensed | fort-york | [File page](https://commons.wikimedia.org/wiki/File:Fort_York_east_blockhouse_2.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-york-armoury | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | foster-hewitt | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | F._G._Banting_1923.jpg | Frederick Banting, 1923 — Wikimedia Commons, public domain | frederick-banting | [File page](https://commons.wikimedia.org/wiki/File:F._G._Banting_1923.jpg) |
 | Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg | Le Collège français, Toronto — Wikimedia Commons, Creative Commons licensed | french-language-education-toronto | [File page](https://commons.wikimedia.org/wiki/File:Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg) |
 | G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg | Riot police, G20 Toronto 2010 — Chris Huggins, Wikimedia Commons, Creative Commons licensed | g20-toronto-2010 | [File page](https://commons.wikimedia.org/wiki/File:G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg) |
@@ -282,6 +284,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | mount-pleasant-cemetery | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Mount_Sinai_Hospital_(50601558238).jpg | Mount Sinai Hospital, Toronto — Wikimedia Commons, Creative Commons licensed | mount-sinai-hospital | [File page](https://commons.wikimedia.org/wiki/File:Mount_Sinai_Hospital_(50601558238).jpg) |
 | Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg | 299 Queen Street West, Toronto — Wikimedia Commons, Creative Commons licensed | much-music-awards | [File page](https://commons.wikimedia.org/wiki/File:Bell_Media_Queen_Street,_Toronto,_Ontario_(29709430050).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | muddy-york | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market — Arild Vågen, CC BY-SA 4.0 | multiculturalism | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | nathan-phillips-square | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | national-ballet-of-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -294,6 +297,7 @@ and license for each image:
 | Michael_Jewison_and_Norman_Jewison_at_the_2009_CFC_in_L.A._event._(48198981497).jpg | Norman Jewison, Canadian Film Centre event — Wikimedia Commons, Creative Commons licensed | norman-jewison | [File page](https://commons.wikimedia.org/wiki/File:Michael_Jewison_and_Norman_Jewison_at_the_2009_CFC_in_L.A._event._(48198981497).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | noronic-fire-1949 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | MelLastmanSquare_-_2015June03.jpg | Mel Lastman Square, North York — Wikimedia Commons, CC BY-SA 4.0 | north-york | [File page](https://commons.wikimedia.org/wiki/File:MelLastmanSquare_-_2015June03.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | northern-dancer | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Northrop_Frye_sitting_on_a_bench_at_the_University_of_Toronto.jpg | Northrop Frye, University of Toronto — Wikimedia Commons, Creative Commons licensed | northrop-frye | [File page](https://commons.wikimedia.org/wiki/File:Northrop_Frye_sitting_on_a_bench_at_the_University_of_Toronto.jpg) |
 | Lite_brite_Toronto_Nuit_Blanche.jpg | Nuit Blanche Toronto — Wikimedia Commons, CC BY 2.0 | nuit-blanche-toronto | [File page](https://commons.wikimedia.org/wiki/File:Lite_brite_Toronto_Nuit_Blanche.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | oak-ridges-moraine | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -414,6 +418,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | toronto-arenas-1917 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Etobicoke_School_of_the_Arts.jpg | Etobicoke School of the Arts — Wikimedia Commons, CC BY-SA 3.0 | toronto-arts-high-schools | [File page](https://commons.wikimedia.org/wiki/File:Etobicoke_School_of_the_Arts.jpg) |
 | Bay_Street,_Financial_District,_Toronto,_Ontario_(29708936890).jpg | Bay Street, Financial District, Toronto — Ken Lund, CC BY 2.0 | toronto-big-five-banks | [File page](https://commons.wikimedia.org/wiki/File:Bay_Street,_Financial_District,_Toronto,_Ontario_(29708936890).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-board-of-trade | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-catholic-district-school-board | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Christmas_Market_2018_clock.jpg | Toronto Christmas Market, 2018 — Jason Zhang, CC BY-SA 3.0 | toronto-christmas-market | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Christmas_Market_2018_clock.jpg) |
 | Glenn_Gould_and_Alberto_Guerrero.jpg | Glenn Gould and Alberto Guerrero — Library and Archives Canada, public domain | toronto-classical-music | [File page](https://commons.wikimedia.org/wiki/File:Glenn_Gould_and_Alberto_Guerrero.jpg) |
@@ -480,6 +485,7 @@ and license for each image:
 | Harbourfront_Centre.JPG | Harbourfront Centre, Toronto — Wikimedia Commons, CC BY-SA 3.0 | word-on-the-street | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront_Centre.JPG) |
 | Osgoode_Hall.JPG | Osgoode Hall — Wikimedia Commons, CC BY-SA 3.0 | wrongful-convictions-ontario | [File page](https://commons.wikimedia.org/wiki/File:Osgoode_Hall.JPG) |
 | Wychwood_Barns.JPG | Artscape Wychwood Barns — Wikimedia Commons, CC BY-SA 3.0 | wychwood | [File page](https://commons.wikimedia.org/wiki/File:Wychwood_Barns.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ymca-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-longest-street-myth | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-riot-1992 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | yonge-street-van-attack | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
