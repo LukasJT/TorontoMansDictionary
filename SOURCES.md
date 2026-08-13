@@ -57,6 +57,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ashbridges-bay | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Aura_Condo_at_College_Park,_Toronto_Ontario.JPG | Aura, College Park, Toronto — Wikimedia Commons, Creative Commons licensed | aura-college-park | [File page](https://commons.wikimedia.org/wiki/File:Aura_Condo_at_College_Park,_Toronto_Ontario.JPG) |
 | Downtown_Aurora,_Ontario_(18545289314).jpg | Downtown Aurora, Ontario — Reg Natarajan, Wikimedia Commons, Creative Commons licensed | aurora | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Aurora,_Ontario_(18545289314).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | automotive-building-cne | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Avro_Arrow_rollout.jpg | Avro Arrow rollout — Wikimedia Commons, public domain | avro-arrow | [File page](https://commons.wikimedia.org/wiki/File:Avro_Arrow_rollout.jpg) |
 | First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg | First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0 | banks | [File page](https://commons.wikimedia.org/wiki/File:First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barbara-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -167,6 +168,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | forest-hill | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-rouille | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Fort_York_east_blockhouse_2.jpg | Fort York, Toronto — Wikimedia Commons, Creative Commons licensed | fort-york | [File page](https://commons.wikimedia.org/wiki/File:Fort_York_east_blockhouse_2.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-york-armoury | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | F._G._Banting_1923.jpg | Frederick Banting, 1923 — Wikimedia Commons, public domain | frederick-banting | [File page](https://commons.wikimedia.org/wiki/File:F._G._Banting_1923.jpg) |
 | Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg | Le Collège français, Toronto — Wikimedia Commons, Creative Commons licensed | french-language-education-toronto | [File page](https://commons.wikimedia.org/wiki/File:Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg) |
 | G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg | Riot police, G20 Toronto 2010 — Chris Huggins, Wikimedia Commons, Creative Commons licensed | g20-toronto-2010 | [File page](https://commons.wikimedia.org/wiki/File:G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg) |
@@ -295,6 +297,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | port-lands-flood-protection | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | YRT_PRESTO_tap_device_at_Finch_station.png | PRESTO tap device, Finch station — Wikimedia Commons, CC BY-SA 4.0 | presto-card | [File page](https://commons.wikimedia.org/wiki/File:YRT_PRESTO_tap_device_at_Finch_station.png) |
 | Toronto_Pride_Parade_2007.jpg | Toronto Pride Parade — Wikimedia Commons, Creative Commons licensed | pride-toronto-festival | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Pride_Parade_2007.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | princes-gates | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Princess_Margaret_Hospital_Toronto_South_Building.JPG | Princess Margaret Cancer Centre, Toronto — Wikimedia Commons, Creative Commons licensed | princess-margaret-cancer-centre | [File page](https://commons.wikimedia.org/wiki/File:Princess_Margaret_Hospital_Toronto_South_Building.JPG) |
 | Toronto_Public_Library_Runnymede_Branch_(4994916241).jpg | Toronto Public Library, Runnymede Branch — Wikimedia Commons, CC BY 2.0 | public-library | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Public_Library_Runnymede_Branch_(4994916241).jpg) |
 | Ontario_Government_Buildings.JPG | Ontario Legislative Building, Queen's Park — Wikimedia Commons, Creative Commons licensed | queens-park | [File page](https://commons.wikimedia.org/wiki/File:Ontario_Government_Buildings.JPG) |
@@ -325,6 +328,7 @@ and license for each image:
 | City_Hall,_Toronto,_Ontario.jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | safety | [File page](https://commons.wikimedia.org/wiki/File:City_Hall,_Toronto,_Ontario.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | salsa-on-st-clair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | sars-outbreak | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scadding-cabin | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Scarborough_Bluffs,_May_4_2026_(07).jpg | Scarborough Bluffs — Wikimedia Commons, CC BY-SA 4.0 | scarborough | [File page](https://commons.wikimedia.org/wiki/File:Scarborough_Bluffs,_May_4_2026_(07).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scarborough-bluffs-erosion | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | scarborough-rt | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -395,6 +399,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | toronto-pizza-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg | Metropolitan Toronto Police badge — Wikimedia Commons, Creative Commons licensed | toronto-police-founding | [File page](https://commons.wikimedia.org/wiki/File:BADGE_-_Canada_-_ON_-_Metropolitan_Toronto_Police_(gilt)_(7906373948).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-purchase | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-railway-company | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | toronto-rock-lacrosse | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-sceptres-pwhl | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-sign-nathan-phillips | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -430,6 +435,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | west-don-lands | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Remembrance_Day_2014_in_Whitby,_Ontario.jpg | Downtown Whitby — Wikimedia Commons, CC BY 2.0 | whitby | [File page](https://commons.wikimedia.org/wiki/File:Remembrance_Day_2014_in_Whitby,_Ontario.jpg) |
 | Stouffville_Civic_Square_-_Stouffville,_ON.jpg | Stouffville Civic Square — Wikimedia Commons, CC BY-SA 4.0 | whitchurch-stouffville | [File page](https://commons.wikimedia.org/wiki/File:Stouffville_Civic_Square_-_Stouffville,_ON.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | william-james-photographs | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_Christmas_tree_(16103747613).jpg | Nathan Phillips Square Christmas tree — Wikimedia Commons, Creative Commons licensed | winter-festivals | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_Christmas_tree_(16103747613).jpg) |
 | Tom_Jones_Restaurant,_next_to_the_King_Edward_Hotel,_downtown_Toronto_-d.jpg | Downtown Toronto restaurant — Wikimedia Commons, public domain | winterlicious-summerlicious | [File page](https://commons.wikimedia.org/wiki/File:Tom_Jones_Restaurant,_next_to_the_King_Edward_Hotel,_downtown_Toronto_-d.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | withrow-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
