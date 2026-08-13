@@ -5837,6 +5837,108 @@ PAGES = [
         ],
         "related_words": [],
     },
+    {
+        "slug": "shopify-toronto",
+        "title": "Shopify's Toronto Expansion",
+        "kicker": "$500 million committed to a single downtown office",
+        "h1": "Shopify's Toronto Expansion",
+        "dek": "Founded in Ottawa, Shopify built its second-biggest presence in Toronto — nine floors of a King Street tower, backed by a half-billion-dollar investment commitment.",
+        "meta_desc": "Shopify's growth in Toronto: from its first downtown office in 2014 to a $500 million investment and a nine-floor King Street headquarters.",
+        "keywords": "Shopify Toronto history, Shopify King Street office, Toronto tech companies",
+        "hero_img": "Toronto_skyline_(2012).jpg",
+        "hero_alt": "The Toronto skyline",
+        "hero_credit": "Toronto skyline — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Shopify, the e-commerce platform company, moved into Toronto in 2012, opening its first Toronto office at 35 Spadina Avenue in 2014. Though headquartered in Ottawa, Toronto quickly became one of Shopify\'s largest offices as the company scaled.</p>'),
+            ("A nine-floor commitment", '<p>In 2018, Shopify announced plans to expand its Toronto presence with a commitment of up to $500 million, moving into the top nine floors of the King Portland Centre at 620 King Street West, a 15-storey tower designed by Hariri Pontarini. The internal Shopify Facilities Design team worked with Toronto studio Linebox to build out space for more than 400 employees, alongside its existing Spadina and Wellington office.</p>'),
+        ],
+        "sources": [
+            ("Shopify — Shopify Opens New Office in Toronto With Plans to Double Local Workforce by 2022", "https://www.shopify.com/news/shopify-opens-new-office-in-toronto-with-plans-to-double-local-workforce-by-2022"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "wattpad-toronto",
+        "title": "Wattpad: Built in a Toronto Garage",
+        "kicker": "Two immigrants, a mobile-storytelling idea, and a $754 million buyer",
+        "h1": "Wattpad",
+        "dek": "Allen Lau and Ivan Yuen started a story-sharing platform out of a Toronto garage in 2006. Fifteen years later, a South Korean tech giant bought it.",
+        "meta_desc": "The history of Wattpad, the Toronto-founded digital storytelling platform: its 2006 garage founding by Allen Lau and Ivan Yuen, and its 2021 acquisition by Naver.",
+        "keywords": "Wattpad history, Wattpad Toronto founding, Allen Lau",
+        "hero_img": "Toronto_skyline_(2012).jpg",
+        "hero_alt": "The Toronto skyline",
+        "hero_credit": "Toronto skyline — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Wattpad was co-founded in November 2006 by Allen Lau and Ivan Yuen, immigrants who started the digital storytelling platform in a Toronto garage with a vision to revolutionize story sharing via mobile devices. Both were University of Toronto alumni.</p>'),
+            ("From garage to global platform", '<p>Wattpad grew into a major platform for amateur and aspiring writers to publish and share fiction, eventually launching its own publishing division. In January 2021, South Korean internet company Naver Corporation announced it would acquire Wattpad, with the deal completing that May — a Toronto-founded platform absorbed into one of Asia\'s largest internet companies.</p>'),
+        ],
+        "sources": [
+            ("University of Toronto — Wattpad, Founded by U of T Alumni, Launches Publishing Division", "https://www.utoronto.ca/news/wattpad-founded-u-t-alumni-launches-publishing-division-new-york-times"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "wealthsimple-toronto",
+        "title": "Wealthsimple: A Spreadsheet That Became a Fintech Giant",
+        "kicker": "Founded 2014, reshaping Canadian investing from Toronto",
+        "h1": "Wealthsimple",
+        "dek": "Michael Katchen built a spreadsheet to help Silicon Valley colleagues manage their investments. The idea he took from that became one of Toronto's biggest fintech success stories.",
+        "meta_desc": "The history of Wealthsimple: its 2014 Toronto founding by Michael Katchen, and its growth into a major Canadian fintech company.",
+        "keywords": "Wealthsimple history, Toronto fintech, Michael Katchen",
+        "hero_img": "Toronto_skyline_(2012).jpg",
+        "hero_alt": "The Toronto skyline",
+        "hero_credit": "Toronto skyline — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Wealthsimple was founded in September 2014 in Toronto by Michael Katchen, Brett Huneycutt and Rudy Adler. The idea traced to Katchen\'s time working in Silicon Valley, where he built a spreadsheet to help colleagues set up their own investment portfolios after a company acquisition — a tool that became the seed for a business built on making financial services accessible and easy to use.</p>'),
+            ("Part of a growing fintech hub", '<p>In December 2015 the company merged with Canadian ShareOwner Investments, a Canadian broker-dealer, and by 2017 had expanded into the U.S. and U.K. markets. Wealthsimple\'s growth reflects Toronto\'s broader fintech sector, which the Toronto Region says employs about half of Canada\'s 60,000 fintech workers across more than 140 startups.</p>'),
+        ],
+        "sources": [
+            ("Toronto Global — From Toronto to the World: How Wealthsimple Changed Finance", "https://torontoglobal.ca/business-insights/how-wealthsimple-changed-finance/"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "david-dunlap-observatory",
+        "title": "The David Dunlap Observatory: A Widow's Memorial, a Black Hole Discovery",
+        "kicker": "Canada's largest telescope, funded as a tribute to a dead astronomer",
+        "h1": "The David Dunlap Observatory",
+        "dek": "A widow bought a farm in Richmond Hill and donated it to the University of Toronto, memorializing her astronomer husband. The telescope built there confirmed one of the 20th century's biggest astrophysics discoveries.",
+        "meta_desc": "The history of the David Dunlap Observatory in Richmond Hill: its 1935 founding as a memorial gift, its role in confirming the existence of black holes, and its 2019 National Historic Site designation.",
+        "keywords": "David Dunlap Observatory history, Richmond Hill telescope, Cygnus X-1 black hole discovery",
+        "hero_img": "Dunlap_Observatory.jpg",
+        "hero_alt": "The David Dunlap Observatory in Richmond Hill, Ontario",
+        "hero_credit": "David Dunlap Observatory — Wikimedia Commons, Creative Commons licensed",
+        "sections": [
+            (None, '<p>When the University of Toronto\'s downtown observatory could no longer function due to light pollution, the university identified a 19th-century farmstead in <a href="richmond-hill.html">Richmond Hill</a> as a suitable replacement site. Jessie Donalda Dunlap purchased the property and donated it to the university as a memorial to her husband, David Alexander Dunlap, an avid astronomer.</p>'),
+            ("Canada\'s largest telescope", '<p>Construction was complete in 1935, with a dome housing a 74-inch reflector telescope that was, at the time, the second-largest in the world and remains the largest in Canada. From 1935 to 2007, the observatory was at the forefront of Canadian astronomical research; in 1972, astronomer Thomas Bolton used the telescope to confirm the existence of black holes, providing the first direct evidence that Cygnus X-1 was one.</p>'),
+            ("From university property to historic site", '<p>The University of Toronto owned and operated the observatory until 2008, when it was acquired by the City of Richmond Hill, which now combines heritage preservation with public astronomy programming on the site. The David Dunlap Observatory was designated a National Historic Site of Canada in 2019.</p>'),
+        ],
+        "sources": [
+            ("City of Richmond Hill — RHDDO History", "https://www.richmondhill.ca/en/learn-more/ddo-history.aspx"),
+            ("Parks Canada — David Dunlap Observatory National Historic Site of Canada", "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=15734"),
+        ],
+        "related_words": [],
+    },
+    {
+        "slug": "ubisoft-toronto",
+        "title": "Ubisoft Toronto: A $263 Million Government Bet on Video Games",
+        "kicker": "Backed by provincial subsidy, opened under Jade Raymond in 2010",
+        "h1": "Ubisoft Toronto",
+        "dek": "Ontario's government put up $263 million to help a French video-game giant open a Toronto studio — part of a bet that helped make the city home to more than 300 game development studios today.",
+        "meta_desc": "The history of Ubisoft Toronto: its 2010 founding under Jade Raymond, backed by $263 million in provincial funding, and Toronto's growth into a major video game industry hub.",
+        "keywords": "Ubisoft Toronto history, Jade Raymond, Toronto video game industry",
+        "hero_img": "Toronto_skyline_(2012).jpg",
+        "hero_alt": "The Toronto skyline",
+        "hero_credit": "Toronto skyline — Wikimedia Commons, CC BY 2.0",
+        "sections": [
+            (None, '<p>Ubisoft announced in July 2009 that it was establishing a Toronto-based development studio, and Ubisoft Toronto opened in September 2010 under founding studio head Jade Raymond. The Ontario government, under Premier Dalton McGuinty, backed the deal with $263 million in funding, with Ubisoft committing to grow its Toronto staff to 800 by 2020.</p>'),
+            ("A growing industry hub", '<p>Ubisoft Toronto has developed titles including <em>Tom Clancy\'s Splinter Cell: Blacklist</em>, <em>Far Cry 5</em>, <em>Far Cry 6</em> and <em>Watch Dogs: Legion</em>. The Toronto region\'s video game industry has grown substantially since Ubisoft\'s arrival, now employing an estimated 7,000 people directly across more than 300 game development studios in the region, from major international studios to smaller independent developers.</p>'),
+        ],
+        "sources": [
+            ("Toronto Global — How Toronto Became a Global Video Game Powerhouse", "https://torontoglobal.ca/our-industries/toronto-video-game-powerhouse/"),
+        ],
+        "related_words": [],
+    },
 ]
 
 
@@ -6195,6 +6297,9 @@ SLUG_CATEGORIES = {
     "word-on-the-street": "Festivals & Attractions", "salsa-on-st-clair": "Festivals & Attractions",
     "toronto-christmas-market": "Festivals & Attractions", "cavalcade-of-lights": "Festivals & Attractions",
     "pride-toronto-festival": "Festivals & Attractions", "winterlicious-summerlicious": "Festivals & Attractions",
+    "shopify-toronto": "Business & Economy", "wattpad-toronto": "Business & Economy",
+    "wealthsimple-toronto": "Business & Economy", "david-dunlap-observatory": "Science, Health & Education",
+    "ubisoft-toronto": "Business & Economy",
 }
 
 

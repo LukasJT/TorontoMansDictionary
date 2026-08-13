@@ -326,6 +326,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/david-dunlap-observatory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/de-havilland-canada.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -976,6 +981,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/shopify-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/shoppers-drug-mart.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1191,6 +1201,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ubisoft-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/union-station.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1242,6 +1257,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/waterfront.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/wattpad-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/wealthsimple-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
