@@ -68,6 +68,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barenaked-ladies | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Keds_basketball_sneakers,_1929_-_Bata_Shoe_Museum_-_DSC00724.JPG | Bata Shoe Museum, Toronto — Wikimedia Commons, Creative Commons licensed | bata-shoe-museum | [File page](https://commons.wikimedia.org/wiki/File:Keds_basketball_sneakers,_1929_-_Bata_Shoe_Museum_-_DSC00724.JPG) |
 | Toronto_Pride_Parade_2007.jpg | Toronto Pride Parade — Wikimedia Commons, Creative Commons licensed (a later Pride parade, shown to represent the raids' legacy; no free-license photo of the 1981 raids or protest march itself could be verified) | bathhouse-raids-1981 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Pride_Parade_2007.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | beaches-international-jazz-festival | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Osgoode_Hall,_courtroom_-2.jpg | Osgoode Hall courtroom — Padraic, Wikimedia Commons, CC BY-SA | bedford-v-canada | [File page](https://commons.wikimedia.org/wiki/File:Osgoode_Hall,_courtroom_-2.jpg) |
 | Beltline_Bridge.jpg | Beltline Trail bridge, Toronto — Wikimedia Commons, Creative Commons licensed | beltline-trail | [File page](https://commons.wikimedia.org/wiki/File:Beltline_Bridge.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | berczy-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -156,6 +157,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | deer-park-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | New_Toronto_Stock_Exchange_trading_floor.jpg | Toronto Stock Exchange trading floor — Wikimedia Commons, Creative Commons licensed | design-exchange | [File page](https://commons.wikimedia.org/wiki/File:New_Toronto_Stock_Exchange_trading_floor.jpg) |
 | East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg | East Don Parkland, Toronto — Wikimedia Commons, CC BY-SA 4.0 | don-river-flooding | [File page](https://commons.wikimedia.org/wiki/File:East_Don_Parkland_-_Pedestrian_bridge_over_the_Don_River_-_20200529.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | doors-open-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | downsview-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | dragon-boat-race-festival | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | drake-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -184,6 +186,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | factory-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fairmont-royal-york | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | famous-torontonians | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fan-expo-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Caribana_Toronto_2011_(2).jpg | Caribana Toronto — Ruth Choi, CC BY-SA 2.0 | festivals | [File page](https://commons.wikimedia.org/wiki/File:Caribana_Toronto_2011_(2).jpg) |
 | First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg | First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0 | first-canadian-place | [File page](https://commons.wikimedia.org/wiki/File:First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | flatiron-gooderham-building | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -223,6 +226,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hockey-hall-of-fame | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | holy-blossom-temple | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | homelessness | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | honda-indy-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | honest-eds | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | horseshoe-tavern | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg | Toronto General Hospital — Wikimedia Commons, Creative Commons licensed | hospitals | [File page](https://commons.wikimedia.org/wiki/File:Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg) |
@@ -386,12 +390,14 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rotman-school-of-management | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Rouge_National_Urban_Park-_Orchard_and_Vista_Trails-Toronto-Ontario_(1).jpg | Rouge National Urban Park, Toronto — Wikimedia Commons, Creative Commons licensed | rouge-national-urban-park | [File page](https://commons.wikimedia.org/wiki/File:Rouge_National_Urban_Park-_Orchard_and_Vista_Trails-Toronto-Ontario_(1).jpg) |
 | Toronto_-_ON_-_Roy_Thomson_Hall.jpg | Roy Thomson Hall, Toronto — Wikimedia Commons, Creative Commons licensed | roy-thomson-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Roy_Thomson_Hall.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | royal-agricultural-winter-fair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | royal-alexandra-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rush-band-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ryerson-tmu-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | City_Hall,_Toronto,_Ontario.jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | safety | [File page](https://commons.wikimedia.org/wiki/File:City_Hall,_Toronto,_Ontario.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | salsa-on-st-clair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | samantha-bee | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | santa-claus-parade | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sarah-polley | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | sars-outbreak | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scadding-cabin | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
