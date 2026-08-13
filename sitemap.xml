@@ -471,6 +471,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/fairmont-royal-york.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/famous-torontonians.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -537,6 +542,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/glenn-gould-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/globe-and-mail-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -677,6 +687,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/kensington-market.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/king-edward-hotel.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -956,6 +971,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/old-city-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/olivia-chow.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1117,6 +1137,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/roy-thomson-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/ryerson-tmu-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1397,6 +1422,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-star-legacy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-sun-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
