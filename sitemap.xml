@@ -511,6 +511,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/danforth-music-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/daniels-spectrum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -632,6 +637,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/ej-pratt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/el-mocambo.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -881,6 +891,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/horseshoe-tavern.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/hospitals.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1042,6 +1057,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/leaside.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/lees-palace.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1917,6 +1937,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/the-junction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/the-opera-house-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/the-rivoli.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

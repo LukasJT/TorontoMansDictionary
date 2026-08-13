@@ -138,6 +138,7 @@ and license for each image:
 | Toronto_Railway_Museum_and_Steam_Whistle_Brewery_are_located_in_the_Roundhouse_Park_(27622030420).jpg | Steam Whistle Brewery, Roundhouse Park — Wikimedia Commons, Creative Commons licensed | craft-beer | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Railway_Museum_and_Steam_Whistle_Brewery_are_located_in_the_Roundhouse_Park_(27622030420).jpg) |
 | Toronto_Protected_Bike_Lanes.jpg | Protected bike lane, Toronto — Wikimedia Commons, Creative Commons licensed | cycling | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Protected_Bike_Lanes.jpg) |
 | Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg | Toronto teaching hospital — Wikimedia Commons, Creative Commons licensed | cystic-fibrosis-gene | [File page](https://commons.wikimedia.org/wiki/File:Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | danforth-music-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | daniels-spectrum | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | david-crombie | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | david-cronenberg | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -163,6 +164,7 @@ and license for each image:
 | Edwards_Gardens2.JPG | Edwards Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | edwards-gardens | [File page](https://commons.wikimedia.org/wiki/File:Edwards_Gardens2.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | eglinton-crosstown | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg | E.J. Pratt Library, Victoria University — Wikimedia Commons, Creative Commons licensed | ej-pratt | [File page](https://commons.wikimedia.org/wiki/File:E.J._Pratt_Library,_Victoria_University,_University_of_Toronto,_Canada.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | el-mocambo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Elgin_Theatre_interior.jpg | Elgin Theatre interior, Toronto — Wikimedia Commons, Creative Commons licensed | elgin-winter-garden-theatre | [File page](https://commons.wikimedia.org/wiki/File:Elgin_Theatre_interior.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | emily-stowe | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ep-taylor | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -212,6 +214,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | holy-blossom-temple | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Toronto City Hall — Wikimedia Commons, CC BY 2.0 | homelessness | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | honest-eds | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | horseshoe-tavern | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg | Toronto General Hospital — Wikimedia Commons, Creative Commons licensed | hospitals | [File page](https://commons.wikimedia.org/wiki/File:Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg) |
 | Hot_Docs_Ted_Rogers_Cinema.jpg | Hot Docs Ted Rogers Cinema, Toronto — Wikimedia Commons, Creative Commons licensed | hot-docs-festival | [File page](https://commons.wikimedia.org/wiki/File:Hot_Docs_Ted_Rogers_Cinema.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | housing | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -244,6 +247,7 @@ and license for each image:
 | LCBO_at_Parkway_Mall.jpg | LCBO, Parkway Mall — Wikimedia Commons, CC BY-SA 4.0 | lcbo-history | [File page](https://commons.wikimedia.org/wiki/File:LCBO_at_Parkway_Mall.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | leaside | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | leaside-bridge | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | lees-palace | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Leslieville.jpg | Leslieville, Toronto — Simon Pulsifer, CC BY-SA | leslieville | [File page](https://commons.wikimedia.org/wiki/File:Leslieville.jpg) |
 | Pride_parade_Toronto_2011.jpg | Toronto Pride parade, 2011 — Kitty Rainbow, CC BY 2.0 | lgbtq-village | [File page](https://commons.wikimedia.org/wiki/File:Pride_parade_Toronto_2011.jpg) |
 | Liberty_Village_in_Toronto,_June_24_2025.jpg | Liberty Village, Toronto — PascalHD, CC BY-SA 4.0 | liberty-village | [File page](https://commons.wikimedia.org/wiki/File:Liberty_Village_in_Toronto,_June_24_2025.jpg) |
@@ -419,6 +423,8 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-bentway | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-grange-ago | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | the-junction | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-opera-house-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-rivoli | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-weeknd-scarborough | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | thorncliffe-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | 2013_Toronto_Film_Festival_August_29_(9737565818).jpg | Toronto International Film Festival, 2013 — Wikimedia Commons, Creative Commons licensed | tiff-festival-history | [File page](https://commons.wikimedia.org/wiki/File:2013_Toronto_Film_Festival_August_29_(9737565818).jpg) |
