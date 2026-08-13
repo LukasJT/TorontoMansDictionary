@@ -171,6 +171,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/billy-bishop-airport.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/black-creek-pioneer-village.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -406,6 +411,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/coca-cola-coliseum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/cocktail-scene.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -621,6 +631,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/exhibition-stadium.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/extreme-weather.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -767,6 +782,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/halton-hills.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/harbord-village.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1896,6 +1916,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-stock-exchange.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-sun-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1972,6 +1997,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/vale-of-avoca.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/varsity-stadium.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>

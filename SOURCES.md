@@ -70,6 +70,7 @@ and license for each image:
 | Beltline_Bridge.jpg | Beltline Trail bridge, Toronto — Wikimedia Commons, Creative Commons licensed | beltline-trail | [File page](https://commons.wikimedia.org/wiki/File:Beltline_Bridge.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | berczy-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | TD_Bike_Share_Toronto_at_Carlton_and_Sherbourne.JPG | Bike Share Toronto, Carlton and Sherbourne — Wikimedia Commons, Creative Commons licensed | bike-share-toronto | [File page](https://commons.wikimedia.org/wiki/File:TD_Bike_Share_Toronto_at_Carlton_and_Sherbourne.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | billy-bishop-airport | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Black_Creek_Pioneer_Village.jpg | Black Creek Pioneer Village, Toronto — Wikimedia Commons, Creative Commons licensed | black-creek-pioneer-village | [File page](https://commons.wikimedia.org/wiki/File:Black_Creek_Pioneer_Village.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | black-creek-waterway | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | black-toronto-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -117,6 +118,7 @@ and license for each image:
 | Downtown_Bowmanville_-_King_St.jpg | Downtown Bowmanville, Ontario — Wikimedia Commons, Creative Commons licensed | clarington | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Bowmanville_-_King_St.jpg) |
 | CN_Tower,_Toronto,_Ontario_(29969151776).jpg | The CN Tower — Wikimedia Commons, CC BY-SA 2.0 | cn-tower | [File page](https://commons.wikimedia.org/wiki/File:CN_Tower,_Toronto,_Ontario_(29969151776).jpg) |
 | Canadian_National_Exhibition_(CNE)_fireworks_(17419476860).jpg | CNE fireworks — Wikimedia Commons, CC BY-SA 2.0 | cne | [File page](https://commons.wikimedia.org/wiki/File:Canadian_National_Exhibition_(CNE)_fireworks_(17419476860).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | coca-cola-coliseum | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | The_Boiler_House,_Distillery_district._Toronto._(5617418107).jpg | The Boiler House, Distillery District — Wikimedia Commons, Creative Commons licensed | cocktail-scene | [File page](https://commons.wikimedia.org/wiki/File:The_Boiler_House,_Distillery_district._Toronto._(5617418107).jpg) |
 | The_Only_Cafe,_Danforth_Avenue,_Toronto,_Canada,_May_2014.jpg | The Only Cafe, Danforth Avenue — Wikimedia Commons, Creative Commons licensed | coffee-culture | [File page](https://commons.wikimedia.org/wiki/File:The_Only_Cafe,_Danforth_Avenue,_Toronto,_Canada,_May_2014.jpg) |
 | Colborne_Lodge_Toronto_2009.jpg | Colborne Lodge, High Park — Wikimedia Commons, Creative Commons licensed | colborne-lodge | [File page](https://commons.wikimedia.org/wiki/File:Colborne_Lodge_Toronto_2009.jpg) |
@@ -160,6 +162,7 @@ and license for each image:
 | Humber_Bay_Arch_Bridge_at_Night_1.jpg | Humber Bay Arch Bridge, Etobicoke — Wikimedia Commons, CC BY-SA 2.0 | etobicoke | [File page](https://commons.wikimedia.org/wiki/File:Humber_Bay_Arch_Bridge_at_Night_1.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | evergreen-brick-works | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Coca-Cola_Coliseum,_Exhibition_Place,_Toronto,_Ontario_(29901775271).jpg | Coca-Cola Coliseum, Exhibition Place — Wikimedia Commons, CC BY-SA 2.0 | exhibition-place | [File page](https://commons.wikimedia.org/wiki/File:Coca-Cola_Coliseum,_Exhibition_Place,_Toronto,_Ontario_(29901775271).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | exhibition-stadium | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Tree_falls_on_vehicle_-_Toronto_Ice_Storm_2013.jpg | Toronto Ice Storm, 2013 — Wikimedia Commons, Creative Commons licensed | extreme-weather | [File page](https://commons.wikimedia.org/wiki/File:Tree_falls_on_vehicle_-_Toronto_Ice_Storm_2013.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fairmont-royal-york | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg | Nathan Phillips Square, Toronto City Hall — Wikimedia Commons, CC BY 2.0 | famous-torontonians | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Nathan_Phillips_Square_and_Toronto_City_Hall_(29944923803).jpg) |
@@ -190,6 +193,7 @@ and license for each image:
 | Entrance_to_McMichael_Gallery_in_Kleinburg,_Ontario,_Canada_(8203976920).jpg | McMichael Canadian Art Collection, Kleinburg — Wikimedia Commons, Creative Commons licensed | group-of-seven | [File page](https://commons.wikimedia.org/wiki/File:Entrance_to_McMichael_Gallery_in_Kleinburg,_Ontario,_Canada_(8203976920).jpg) |
 | Guild_Park_and_Gardens_(26712913409).jpg | Guild Park and Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | guild-park-gardens | [File page](https://commons.wikimedia.org/wiki/File:Guild_Park_and_Gardens_(26712913409).jpg) |
 | Georgetown_Mill_(4018302734)_(cropped).jpg | Barber mill, Georgetown — Wikimedia Commons, CC BY 2.0 | halton-hills | [File page](https://commons.wikimedia.org/wiki/File:Georgetown_Mill_(4018302734)_(cropped).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | harbord-village | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg | Harbourfront, Toronto — Wikimedia Commons, Creative Commons licensed | harbourfront-centre | [File page](https://commons.wikimedia.org/wiki/File:Harbourfront,_Toronto,_Ontario_from_CN_Tower_(21652107550).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | hart-house | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Cherry_Blossom_in_High_Park_69.jpg | Cherry blossoms, High Park — Wikimedia Commons, CC BY-SA 4.0 | high-park | [File page](https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_High_Park_69.jpg) |
@@ -414,6 +418,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-sceptres-pwhl | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-sign-nathan-phillips | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_Star_Building_1929.JPG | Old Toronto Star Building, 1929 — Wikimedia Commons, public domain | toronto-star-legacy | [File page](https://commons.wikimedia.org/wiki/File:Toronto_Star_Building_1929.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-stock-exchange | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-sun-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-symphony-orchestra | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | toronto-telegram | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -430,6 +435,7 @@ and license for each image:
 | UP_Express_at_Weston_P6143108.jpg | UP Express at Weston Station, Toronto — Wikimedia Commons, Creative Commons licensed | up-express | [File page](https://commons.wikimedia.org/wiki/File:UP_Express_at_Weston_P6143108.jpg) |
 | Uxbridge_downtown.jpg | Downtown Uxbridge, Ontario — Wikimedia Commons, CC BY 2.0 | uxbridge | [File page](https://commons.wikimedia.org/wiki/File:Uxbridge_downtown.jpg) |
 | Ravine_footbridge_David_A_Balfour_Park.jpg | David A. Balfour Park ravine, Toronto — Wikimedia Commons, Creative Commons licensed | vale-of-avoca | [File page](https://commons.wikimedia.org/wiki/File:Ravine_footbridge_David_A_Balfour_Park.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | varsity-stadium | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | WindSeeker_at_Canada's_Wonderland,_August_2018_(3).jpg | Canada's Wonderland, Vaughan — Wikimedia Commons, CC BY-SA 3.0 | vaughan | [File page](https://commons.wikimedia.org/wiki/File:WindSeeker_at_Canada's_Wonderland,_August_2018_(3).jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | vector-institute | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | video-games | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
