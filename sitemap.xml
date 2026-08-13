@@ -556,6 +556,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/fort-rouille.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/fort-york.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -592,6 +597,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/gibson-house.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/glad-day-bookshop.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -747,6 +757,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/kensington-market.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/kensington-pedestrian-sundays.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1181,6 +1196,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/robarts-library.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/robertson-davies-massey-college.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1301,6 +1321,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/sickkids-hospital.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/siu-ontario.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1312,6 +1337,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/south-asian-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/spadina-garment-district.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1411,6 +1441,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/the-grange-ago.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/the-junction.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1471,7 +1506,22 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-craft-distilleries.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-fc-founding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-food-trucks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-general-hospital.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1631,6 +1681,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/wards-island-community.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/water-treatment.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1677,6 +1732,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/withrow-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/womens-college-hospital.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
