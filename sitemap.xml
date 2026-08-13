@@ -151,12 +151,22 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/bradford-west-gwillimbury.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/brampton.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/broadcasting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/brock-township.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -317,6 +327,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/durham-region.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/east-gwillimbury.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -756,6 +771,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/orangeville.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/osgoode-hall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -887,6 +907,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/scarborough.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/scugog-port-perry.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1162,6 +1187,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/whitby.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/whitchurch-stouffville.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
