@@ -101,6 +101,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/barbara-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/barenaked-ladies.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -226,6 +231,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/canada-goose.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/canadian-music-week.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -316,6 +326,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/cineplex.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/clarington.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -402,6 +417,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/david-dunlap-observatory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/david-miller.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -682,6 +702,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/indigenous-history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/indigo-books.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1006,6 +1031,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/oak-ridges-moraine.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/oakville.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1042,6 +1072,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/osgoode-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/parkdale.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1167,6 +1202,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/roncesvalles.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/roots-canada.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1361,6 +1401,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/the-annex.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/the-beaches.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1471,7 +1516,17 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-purchase.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/toronto-rock-lacrosse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-sceptres-pwhl.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1492,6 +1547,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-ward-structure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-wolfpack.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
