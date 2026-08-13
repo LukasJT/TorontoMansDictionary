@@ -331,6 +331,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/cityplace.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/clarington.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -481,6 +486,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/ed-mirvish-theatres.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/education.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -542,6 +552,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/first-canadian-place.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/flemingdon-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -676,6 +691,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/honest-eds.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/hospitals.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -806,6 +826,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/line-1-yonge-university.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/line-2-bloor-danforth.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -907,6 +932,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/massey-hall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/massey-manufacturing.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1121,6 +1151,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/pinewood-toronto-studios.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/presto-card.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1246,6 +1281,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/royal-alexandra-theatre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/rush-band-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1297,6 +1337,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/scugog-port-perry.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/second-cup.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1367,6 +1412,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/st-james-cathedral.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/st-james-town.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1456,6 +1506,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/thorncliffe-park.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/tiff-festival-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1467,6 +1522,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/tim-hortons-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/timothy-eaton.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
