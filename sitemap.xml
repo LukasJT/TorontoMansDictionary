@@ -281,6 +281,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/david-crombie.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/de-havilland-canada.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -491,6 +496,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/john-tory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/kensington-market.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -606,6 +616,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/mel-lastman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/michael-ondaatje.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -691,6 +706,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/olivia-chow.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/ontario-place.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -772,6 +792,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/riverdale-farm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/rob-ford.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -987,6 +1012,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/toronto-star-legacy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/toronto-ward-structure.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
