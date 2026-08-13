@@ -113,6 +113,7 @@ and license for each image:
 | Graves_of_Frederick_Grant_Banting_(1891–1941)_and_Henrietta_Elizabeth_Ball_Banting_(1912–1976)_at_Mount_Pleasant_Cemetery,_Toronto.jpg | Frederick Banting's grave, Mount Pleasant Cemetery — Wikimedia Commons, CC BY 4.0 | cemeteries | [File page](https://commons.wikimedia.org/wiki/File:Graves_of_Frederick_Grant_Banting_(1891–1941)_and_Henrietta_Elizabeth_Ball_Banting_(1912–1976)_at_Mount_Pleasant_Cemetery,_Toronto.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cfrb-radio-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | cherry-beach | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chinatown-east | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chinatown-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue, Toronto — Wikimedia Commons, CC BY-SA | chinese-food-dim-sum | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue — Wikimedia Commons, CC BY-SA | chinese-head-tax | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
@@ -190,6 +191,7 @@ and license for each image:
 | Fort_York_east_blockhouse_2.jpg | Fort York, Toronto — Wikimedia Commons, Creative Commons licensed | fort-york | [File page](https://commons.wikimedia.org/wiki/File:Fort_York_east_blockhouse_2.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fort-york-armoury | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | foster-hewitt | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | fox-theatre-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | F._G._Banting_1923.jpg | Frederick Banting, 1923 — Wikimedia Commons, public domain | frederick-banting | [File page](https://commons.wikimedia.org/wiki/File:F._G._Banting_1923.jpg) |
 | Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg | Le Collège français, Toronto — Wikimedia Commons, Creative Commons licensed | french-language-education-toronto | [File page](https://commons.wikimedia.org/wiki/File:Le_Collège_français,_Toronto,_Ontario_(30002887135).jpg) |
 | G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg | Riot police, G20 Toronto 2010 — Chris Huggins, Wikimedia Commons, Creative Commons licensed | g20-toronto-2010 | [File page](https://commons.wikimedia.org/wiki/File:G8_G20_Toronto_2010_Riot_Police_on_Yonge_St._(4736355911).jpg) |
@@ -330,6 +332,7 @@ and license for each image:
 | Downtown_Orangeville_(Broadway)_Centre-ville_de_Orangeville_(Broadway)_(24320442797).jpg | Downtown Orangeville, Broadway — Wikimedia Commons, Creative Commons licensed | orangeville | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Orangeville_(Broadway)_Centre-ville_de_Orangeville_(Broadway)_(24320442797).jpg) |
 | Law_Society_of_Upper_Canada,_Osgoode_Hall,_Toronto,_Ontario_(21814316256).jpg | Osgoode Hall — Wikimedia Commons, Creative Commons licensed | osgoode-hall | [File page](https://commons.wikimedia.org/wiki/File:Law_Society_of_Upper_Canada,_Osgoode_Hall,_Toronto,_Ontario_(21814316256).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | palais-royale | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | paradise-theatre | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | parkdale | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | High_Park_Toronto_October_2012.jpg | High Park — Benson Kua, CC BY-SA 2.0 | parks | [File page](https://commons.wikimedia.org/wiki/File:High_Park_Toronto_October_2012.jpg) |
 | Path..._(1889799985).jpg | Toronto PATH tunnel — Wikimedia Commons, CC BY 2.0 | path | [File page](https://commons.wikimedia.org/wiki/File:Path..._(1889799985).jpg) |
@@ -357,6 +360,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rc-harris-water-treatment-plant | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toward_Regent_Park_from_Merchandise_Roof.jpg | Regent Park, Toronto — Wikimedia Commons, public domain | regent-park | [File page](https://commons.wikimedia.org/wiki/File:Toward_Regent_Park_from_Merchandise_Roof.jpg) |
 | Ismaili_Centre,_Toronto_-_Prayer_hall.jpg | Ismaili Centre, Toronto, prayer hall — Wikimedia Commons, CC BY-SA 4.0 | religion | [File page](https://commons.wikimedia.org/wiki/File:Ismaili_Centre,_Toronto_-_Prayer_hall.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | revue-cinema | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rexdale | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Town_of_Richmond_Hill.JPG | Richmond Hill, Ontario — Wikimedia Commons, Creative Commons licensed | richmond-hill | [File page](https://commons.wikimedia.org/wiki/File:Town_of_Richmond_Hill.JPG) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | rick-moranis | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -435,6 +439,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | the-junction | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-opera-house-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-rivoli | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-ward-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-weeknd-scarborough | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | theatre-passe-muraille | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | thorncliffe-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -486,6 +491,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | ubisoft-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ukrainian-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Union_Station_grand_hall.jpg | Union Station Great Hall — Wikimedia Commons, CC BY 2.0 | union-station | [File page](https://commons.wikimedia.org/wiki/File:Union_Station_grand_hall.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | university-avenue-hospital-row | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | UP_Express_at_Weston_P6143108.jpg | UP Express at Weston Station, Toronto — Wikimedia Commons, Creative Commons licensed | up-express | [File page](https://commons.wikimedia.org/wiki/File:UP_Express_at_Weston_P6143108.jpg) |
 | Uxbridge_downtown.jpg | Downtown Uxbridge, Ontario — Wikimedia Commons, CC BY 2.0 | uxbridge | [File page](https://commons.wikimedia.org/wiki/File:Uxbridge_downtown.jpg) |
 | Ravine_footbridge_David_A_Balfour_Park.jpg | David A. Balfour Park ravine, Toronto — Wikimedia Commons, Creative Commons licensed | vale-of-avoca | [File page](https://commons.wikimedia.org/wiki/File:Ravine_footbridge_David_A_Balfour_Park.jpg) |

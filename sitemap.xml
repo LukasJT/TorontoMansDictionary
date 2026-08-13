@@ -386,6 +386,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/chinatown-east.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/chinatown-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -767,6 +772,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/foster-hewitt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/fox-theatre-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1476,6 +1486,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/paradise-theatre.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/parkdale.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1607,6 +1622,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/religion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/revue-cinema.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -2001,6 +2021,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/the-ward-toronto.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/the-weeknd-scarborough.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -2252,6 +2277,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/union-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/university-avenue-hospital-row.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
