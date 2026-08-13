@@ -123,6 +123,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chinatown-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue, Toronto — Wikimedia Commons, CC BY-SA | chinese-food-dim-sum | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
 | Chinatown_toronto_spadina_avenue.JPG | Chinatown, Spadina Avenue — Wikimedia Commons, CC BY-SA | chinese-head-tax | [File page](https://commons.wikimedia.org/wiki/File:Chinatown_toronto_spadina_avenue.JPG) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | choclair | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chorley-park | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | christie-pits-riot-1933 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | chum-radio-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -213,6 +214,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | george-chuvalo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Gibon_House_view_from_front.jpg | Gibson House, North York — Wikimedia Commons, Creative Commons licensed | gibson-house | [File page](https://commons.wikimedia.org/wiki/File:Gibon_House_view_from_front.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glad-day-bookshop | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glass-tiger | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glenn-gould-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | globe-and-mail-history | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | GO_Transit_MP40-3C_602_Oshawa_Turnaround_Rushhour.JPG | GO Transit train, Oshawa — Wikimedia Commons, CC BY 3.0 | go-transit | [File page](https://commons.wikimedia.org/wiki/File:GO_Transit_MP40-3C_602_Oshawa_Turnaround_Rushhour.JPG) |
@@ -258,6 +260,8 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | john-street-roundhouse | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg | John Tory, 2018 — Wikimedia Commons, CC BY 2.0 | john-tory | [File page](https://commons.wikimedia.org/wiki/File:Mayor_John_Tory_in_Toronto_at_the_Good_Friday_Procession_-_2018_(27264606888)_(cropped).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | june-callwood | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | k-os-musician | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | kardinal-offishall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Keanu_Reeves_2014.jpg | Keanu Reeves, 2014 — Wikimedia Commons, Creative Commons licensed | keanu-reeves | [File page](https://commons.wikimedia.org/wiki/File:Keanu_Reeves_2014.jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market, Toronto — Arild Vågen, CC BY-SA 4.0 | kensington-jewish-history | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
 | Kensington_Market_Toronto_August_2017_03.jpg | Kensington Market — Arild Vågen, CC BY-SA 4.0 | kensington-market | [File page](https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_03.jpg) |
@@ -313,6 +317,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | metropolitan-united-church | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Michael_Ondaatje_at_Tulane_2010.jpg | Michael Ondaatje, 2010 — Wikimedia Commons, Creative Commons licensed | michael-ondaatje | [File page](https://commons.wikimedia.org/wiki/File:Michael_Ondaatje_at_Tulane_2010.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | michael-ondaatje-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | michie-mee | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Mike_Myers_2017.jpg | Mike Myers, 2017 — Wikimedia Commons, CC BY 2.0 | mike-myers | [File page](https://commons.wikimedia.org/wiki/File:Mike_Myers_2017.jpg) |
 | Niagara_Escarpment_from_above_Rattlesnake_Point,_Milton,_Ontario.jpg | Niagara Escarpment, Rattlesnake Point, Milton — Wikimedia Commons, CC BY-SA 4.0 | milton | [File page](https://commons.wikimedia.org/wiki/File:Niagara_Escarpment_from_above_Rattlesnake_Point,_Milton,_Ontario.jpg) |
 | View_of_Mimico_Waterfront_Park_and_buildings,_Toronto_2026.jpg | Mimico Waterfront Park — Wikimedia Commons, CC BY-SA 4.0 | mimico | [File page](https://commons.wikimedia.org/wiki/File:View_of_Mimico_Waterfront_Park_and_buildings,_Toronto_2026.jpg) |
@@ -412,6 +417,7 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | santa-claus-parade | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | sarah-polley | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | sars-outbreak | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | saukrates | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scadding-cabin | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Scarborough_Bluffs,_May_4_2026_(07).jpg | Scarborough Bluffs — Wikimedia Commons, CC BY-SA 4.0 | scarborough | [File page](https://commons.wikimedia.org/wiki/File:Scarborough_Bluffs,_May_4_2026_(07).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | scarborough-bluffs-erosion | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |

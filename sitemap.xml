@@ -436,6 +436,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/choclair.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/chorley-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -886,6 +891,11 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://torontomansdictionary.com/guide/glass-tiger.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://torontomansdictionary.com/guide/glenn-gould-toronto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -1112,6 +1122,16 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/june-callwood.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/k-os-musician.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/kardinal-offishall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1387,6 +1407,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/michael-ondaatje.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/michie-mee.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1882,6 +1907,11 @@
   </url>
   <url>
     <loc>https://torontomansdictionary.com/guide/sars-outbreak.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://torontomansdictionary.com/guide/saukrates.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
