@@ -63,6 +63,7 @@ and license for each image:
 | Avro_Arrow_rollout.jpg | Avro Arrow rollout — Wikimedia Commons, public domain | avro-arrow | [File page](https://commons.wikimedia.org/wiki/File:Avro_Arrow_rollout.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | balmy-beach | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg | First Canadian Place, Toronto — Wikimedia Commons, CC BY-SA 2.0 | banks | [File page](https://commons.wikimedia.org/wiki/File:First_Canadian_Place,_Toronto,_Ontario_(29889104772).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barbara-ann-scott | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barbara-frum | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barbara-hall | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | barenaked-ladies | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -209,6 +210,7 @@ and license for each image:
 | Gardiner_Expressway,_Toronto,_Ontario_(29968916176).jpg | Gardiner Expressway — Wikimedia Commons, CC BY-SA 2.0 | gardiner-dvp | [File page](https://commons.wikimedia.org/wiki/File:Gardiner_Expressway,_Toronto,_Ontario_(29968916176).jpg) |
 | Covered_Jar_with_Garden_Design,_c._1660-1690,_Arita,_hard-paste_porcelain_with_overglaze_enamels_-_Gardiner_Museum,_Toronto_-_DSC00442.JPG | Gardiner Museum, Toronto — Wikimedia Commons, Creative Commons licensed | gardiner-museum | [File page](https://commons.wikimedia.org/wiki/File:Covered_Jar_with_Garden_Design,_c._1660-1690,_Arita,_hard-paste_porcelain_with_overglaze_enamels_-_Gardiner_Museum,_Toronto_-_DSC00442.JPG) |
 | GBC_Casa_Loma_02.jpg | George Brown College, Casa Loma Campus — PvOberstein, Wikimedia Commons, CC0 | george-brown-college | [File page](https://commons.wikimedia.org/wiki/File:GBC_Casa_Loma_02.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | george-chuvalo | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Gibon_House_view_from_front.jpg | Gibson House, North York — Wikimedia Commons, Creative Commons licensed | gibson-house | [File page](https://commons.wikimedia.org/wiki/File:Gibon_House_view_from_front.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glad-day-bookshop | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | glenn-gould-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -275,6 +277,7 @@ and license for each image:
 | Liberty_Village_in_Toronto,_June_24_2025.jpg | Liberty Village, Toronto — PascalHD, CC BY-SA 4.0 | liberty-village | [File page](https://commons.wikimedia.org/wiki/File:Liberty_Village_in_Toronto,_June_24_2025.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | line-1-yonge-university | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | TTC_PCC_4659,_a_SUBWAY_DANFORTH_car_at_the_Luttrell_Loop,_Toronto,_ON_on_July_3,_1966_(34182476270).jpg | TTC streetcar, July 1966 — Wikimedia Commons, Creative Commons licensed | line-2-bloor-danforth | [File page](https://commons.wikimedia.org/wiki/File:TTC_PCC_4659,_a_SUBWAY_DANFORTH_car_at_the_Luttrell_Loop,_Toronto,_ON_on_July_3,_1966_(34182476270).jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | lionel-conacher | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Worlds_Biggest_Bookstore.jpg | World's Biggest Bookstore, Toronto — Ian Muttoo, CC BY-SA 2.0 | literary-scene | [File page](https://commons.wikimedia.org/wiki/File:Worlds_Biggest_Bookstore.jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | little-india-gerrard | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline — Wikimedia Commons, CC BY 2.0 | little-italy-college-street | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
@@ -291,8 +294,10 @@ and license for each image:
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | malvern-toronto | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | manulife | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg | Maple Leaf Gardens, Toronto — Wikimedia Commons, Creative Commons licensed | maple-leaf-gardens | [File page](https://commons.wikimedia.org/wiki/File:Maple_Leaf_Gardens_-_50_Carlton_Street,_Toronto,_ON_M5B_1J2,_Canada.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | maple-leaf-wrestling | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | AirCanadaCentre.jpg | Scotiabank Arena (formerly Air Canada Centre) — Wikimedia Commons, CC BY 2.0 | maple-leafs-1967 | [File page](https://commons.wikimedia.org/wiki/File:AirCanadaCentre.jpg) |
 | Margaret_Atwood_2015.jpg | Margaret Atwood, 2015 — Larry D. Moore, CC BY 4.0 | margaret-atwood | [File page](https://commons.wikimedia.org/wiki/File:Margaret_Atwood_2015.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | marilyn-bell | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Downtown_Markham_(Rougeside_Promenade)_Centre-ville_de_Markham_(Rougeside_Promenade)_(38469952964).jpg | Downtown Markham — Wikimedia Commons, CC BY 2.0 | markham | [File page](https://commons.wikimedia.org/wiki/File:Downtown_Markham_(Rougeside_Promenade)_Centre-ville_de_Markham_(Rougeside_Promenade)_(38469952964).jpg) |
 | Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg | Toronto General Hospital — Wikimedia Commons, Creative Commons licensed | mars-discovery-district | [File page](https://commons.wikimedia.org/wiki/File:Toronto_General_Hospital,_Toronto,_Ontario_(30003270175).jpg) |
 | Marshall_McLuhan_1967.jpg | Marshall McLuhan, 1967 — Wikimedia Commons, Creative Commons licensed | marshall-mcluhan | [File page](https://commons.wikimedia.org/wiki/File:Marshall_McLuhan_1967.jpg) |
@@ -449,6 +454,7 @@ and license for each image:
 | Toronto-Dominion_Centre_in_Toronto_1973.jpg | Toronto-Dominion Centre, 1973 — Wikimedia Commons, Creative Commons licensed | td-centre | [File page](https://commons.wikimedia.org/wiki/File:Toronto-Dominion_Centre_in_Toronto_1973.jpg) |
 | Jarvis_CI.JPG | Jarvis Collegiate Institute — Simon Pulsifer, Wikimedia Commons, CC BY-SA 3.0 | tdsb-history | [File page](https://commons.wikimedia.org/wiki/File:Jarvis_CI.JPG) |
 | Toronto-CN-tower-and-Canadian-flag-skyline.jpg | Toronto skyline — Wikimedia Commons, CC BY-SA 4.0 | tech-scene | [File page](https://commons.wikimedia.org/wiki/File:Toronto-CN-tower-and-Canadian-flag-skyline.jpg) |
+| Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | ted-reeve | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | textile-museum-of-canada | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-519 | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
 | Toronto_skyline_(2012).jpg | Toronto skyline, 2012 — Wikimedia Commons, CC BY 2.0 | the-annex | [File page](https://commons.wikimedia.org/wiki/File:Toronto_skyline_(2012).jpg) |
